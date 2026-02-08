@@ -1,0 +1,7 @@
+{
+    "scripts": {
+    "stats": "node scripts/stats.js",
+    "categories": "node scripts/categories.js"
+  }
+}
+  

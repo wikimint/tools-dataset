@@ -1,0 +1,24 @@
+
+[
+    {
+      "name": "Toggl Track",
+      "url": "https://toggl.com/track/",
+      "description": "Time tracking software for teams and freelancers."
+    },
+    {
+      "name": "Clockify",
+      "url": "https://clockify.me/",
+      "description": "Free time tracking tool with reports and dashboards."
+    },
+    {
+      "name": "RescueTime",
+      "url": "https://www.rescuetime.com/",
+      "description": "Tracks digital habits and productivity insights."
+    },
+    {
+      "name": "Harvest",
+      "url": "https://www.getharvest.com/",
+      "description": "Time tracking and invoicing for project teams."
+    }
+  ]
+  

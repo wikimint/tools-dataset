@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Yoast SEO",
+      "url": "https://yoast.com",
+      "description": "On-page SEO optimization for WordPress."
+    },
+    {
+      "name": "Rank Math",
+      "url": "https://rankmath.com",
+      "description": "SEO plugin with advanced schema and optimization."
+    },
+    {
+      "name": "Surfer SEO",
+      "url": "https://surferseo.com",
+      "description": "Content optimization based on SERP analysis."
+    }
+  ]
+  

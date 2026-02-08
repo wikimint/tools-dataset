@@ -1,0 +1,18 @@
+[
+    {
+      "name": "ChatGPT",
+      "url": "https://chat.openai.com",
+      "description": "Generative AI for writing, coding, research, and productivity."
+    },
+    {
+      "name": "Claude AI",
+      "url": "https://claude.ai",
+      "description": "AI assistant focused on reasoning, summarization, and analysis."
+    },
+    {
+      "name": "Gemini",
+      "url": "https://gemini.google.com",
+      "description": "Google’s multimodal generative AI for text, code, and planning."
+    }
+  ]
+  

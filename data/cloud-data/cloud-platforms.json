@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Amazon Web Services (AWS)",
+      "url": "https://aws.amazon.com",
+      "description": "Comprehensive cloud platform with compute, storage, and AI services."
+    },
+    {
+      "name": "Google Cloud Platform",
+      "url": "https://cloud.google.com",
+      "description": "Cloud services for data, AI, and application hosting."
+    },
+    {
+      "name": "Microsoft Azure",
+      "url": "https://azure.microsoft.com",
+      "description": "Enterprise cloud computing and infrastructure services."
+    }
+  ]
+  

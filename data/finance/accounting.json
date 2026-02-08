@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Wave",
+      "url": "https://www.waveapps.com/",
+      "description": "Free accounting and invoicing software for small businesses."
+    },
+    {
+      "name": "GnuCash",
+      "url": "https://www.gnucash.org/",
+      "description": "Open-source accounting software for individuals and SMEs."
+    },
+    {
+      "name": "Odoo Accounting",
+      "url": "https://www.odoo.com/page/accounting",
+      "description": "Accounting module for invoices, expenses, and reporting."
+    },
+    {
+      "name": "Manager.io",
+      "url": "https://www.manager.io/",
+      "description": "Free desktop accounting software for businesses."
+    }
+  ]
+  

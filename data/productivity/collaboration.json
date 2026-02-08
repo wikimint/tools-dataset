@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Slack",
+      "url": "https://slack.com/",
+      "description": "Team messaging and communication platform."
+    },
+    {
+      "name": "Microsoft Teams",
+      "url": "https://www.microsoft.com/microsoft-teams",
+      "description": "Chat, meetings, and file collaboration in one app."
+    },
+    {
+      "name": "Google Workspace",
+      "url": "https://workspace.google.com/",
+      "description": "Cloud-based email, docs, and team collaboration suite."
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.com/",
+      "description": "Community chat and voice collaboration platform."
+    }
+  ]
+  

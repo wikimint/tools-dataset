@@ -1,0 +1,27 @@
+{
+  "totalTools": 183,
+  "categories": {
+    "ai-ml": 15,
+    "analytics": 11,
+    "automation": 5,
+    "cloud-data": 9,
+    "content-media": 5,
+    "crm-sales": 12,
+    "design-ui": 12,
+    "dev-apis": 12,
+    "ecommerce": 6,
+    "email": 8,
+    "finance": 12,
+    "hosting": 10,
+    "hr-ops": 3,
+    "legal": 3,
+    "marketing": 15,
+    "productivity": 12,
+    "research-data": 3,
+    "security": 12,
+    "seo": 15,
+    "support": 3
+  },
+  "generatedAt": "2026-02-08T19:27:35.410Z",
+  "versionHash": "fca4d09ae8b8d53255c6fb3d2a2c74697e8a2b3979970cd1a64fb4578cb10297"
+}

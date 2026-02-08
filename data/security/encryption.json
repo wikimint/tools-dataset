@@ -1,0 +1,23 @@
+[
+    {
+      "name": "VeraCrypt",
+      "url": "https://www.veracrypt.fr/",
+      "description": "Disk encryption software for protecting files and drives."
+    },
+    {
+      "name": "Cryptomator",
+      "url": "https://cryptomator.org/",
+      "description": "Client-side encryption for cloud storage."
+    },
+    {
+      "name": "OpenPGP",
+      "url": "https://www.openpgp.org/",
+      "description": "Encryption standard for secure email communication."
+    },
+    {
+      "name": "AxCrypt",
+      "url": "https://www.axcrypt.net/",
+      "description": "File encryption and password protection tool."
+    }
+  ]
+  

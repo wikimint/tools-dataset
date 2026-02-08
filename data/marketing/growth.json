@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Hotjar",
+      "url": "https://www.hotjar.com",
+      "description": "Heatmaps and user behavior analytics for conversion optimization."
+    },
+    {
+      "name": "Optimizely",
+      "url": "https://www.optimizely.com",
+      "description": "A/B testing and experimentation platform."
+    },
+    {
+      "name": "VWO",
+      "url": "https://vwo.com",
+      "description": "Conversion rate optimization and testing suite."
+    }
+  ]
+  

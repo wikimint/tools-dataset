@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Trello",
+      "url": "https://trello.com/",
+      "description": "Kanban-style project and task management for teams."
+    },
+    {
+      "name": "ClickUp",
+      "url": "https://clickup.com/",
+      "description": "All-in-one workspace for tasks, docs, and goals."
+    },
+    {
+      "name": "Asana",
+      "url": "https://asana.com/",
+      "description": "Project management platform for tracking team work."
+    },
+    {
+      "name": "Notion",
+      "url": "https://www.notion.so/",
+      "description": "Flexible workspace for notes, tasks, and collaboration."
+    }
+  ]
+  

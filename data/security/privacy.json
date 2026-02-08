@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Proton VPN",
+      "url": "https://protonvpn.com/",
+      "description": "Secure VPN with privacy-first policies."
+    },
+    {
+      "name": "Tor Browser",
+      "url": "https://www.torproject.org/",
+      "description": "Anonymous web browsing and privacy protection."
+    },
+    {
+      "name": "DuckDuckGo",
+      "url": "https://duckduckgo.com/",
+      "description": "Privacy-focused search engine without tracking."
+    },
+    {
+      "name": "Brave",
+      "url": "https://brave.com/",
+      "description": "Privacy browser with built-in ad and tracker blocking."
+    }
+  ]
+  

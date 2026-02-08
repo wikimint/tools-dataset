@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Visual Studio Code",
+      "url": "https://code.visualstudio.com/",
+      "description": "Lightweight code editor with extensions and debugging."
+    },
+    {
+      "name": "Atom",
+      "url": "https://atom.io/",
+      "description": "Open-source text editor for developers."
+    },
+    {
+      "name": "Sublime Text",
+      "url": "https://www.sublimetext.com/",
+      "description": "Fast and minimal code editor."
+    },
+    {
+      "name": "Vim",
+      "url": "https://www.vim.org/",
+      "description": "Highly configurable command-line text editor."
+    }
+  ]
+  

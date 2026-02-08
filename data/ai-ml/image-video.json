@@ -1,0 +1,18 @@
+[
+    {
+      "name": "DALL·E",
+      "url": "https://openai.com/dall-e",
+      "description": "AI image generation from text prompts."
+    },
+    {
+      "name": "Stable Diffusion",
+      "url": "https://stability.ai",
+      "description": "Open-source text-to-image generation model."
+    },
+    {
+      "name": "Runway",
+      "url": "https://runwayml.com",
+      "description": "AI video editing and content generation platform."
+    }
+  ]
+  

@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Figma",
+      "url": "https://www.figma.com/",
+      "description": "Collaborative UI and UX design platform."
+    },
+    {
+      "name": "Penpot",
+      "url": "https://penpot.app/",
+      "description": "Open-source design tool for UI and prototyping."
+    },
+    {
+      "name": "Adobe XD",
+      "url": "https://www.adobe.com/products/xd.html",
+      "description": "Interface design and user experience prototyping tool."
+    },
+    {
+      "name": "Sketch",
+      "url": "https://www.sketch.com/",
+      "description": "UI design toolkit for web and mobile apps."
+    }
+  ]
+  

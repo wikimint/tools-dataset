@@ -1,0 +1,23 @@
+[
+    {
+      "name": "DaVinci Resolve",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/",
+      "description": "Professional video editing software with free version."
+    },
+    {
+      "name": "Audacity",
+      "url": "https://www.audacityteam.org/",
+      "description": "Open-source audio editing software."
+    },
+    {
+      "name": "CapCut",
+      "url": "https://www.capcut.com/",
+      "description": "Easy video editor for creators and social media."
+    },
+    {
+      "name": "OBS Studio",
+      "url": "https://obsproject.com/",
+      "description": "Open-source video recording and live streaming software."
+    }
+  ]
+  

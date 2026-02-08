@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Postman",
+      "url": "https://www.postman.com/",
+      "description": "API development, testing, and collaboration platform."
+    },
+    {
+      "name": "RapidAPI",
+      "url": "https://rapidapi.com/",
+      "description": "API marketplace and integration platform."
+    },
+    {
+      "name": "Swagger",
+      "url": "https://swagger.io/",
+      "description": "API documentation and testing framework."
+    },
+    {
+      "name": "Apigee",
+      "url": "https://cloud.google.com/apigee",
+      "description": "API management and security platform."
+    }
+  ]
+  

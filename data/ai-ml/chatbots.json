@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Botpress",
+      "url": "https://botpress.com",
+      "description": "Open-source platform to build AI-powered chatbots."
+    },
+    {
+      "name": "Rasa",
+      "url": "https://rasa.com",
+      "description": "Framework for building contextual AI assistants."
+    },
+    {
+      "name": "Tidio",
+      "url": "https://www.tidio.com",
+      "description": "Live chat and AI chatbot for customer support automation."
+    }
+  ]
+  

@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Google Ads",
+      "url": "https://ads.google.com",
+      "description": "Online advertising platform for search and display ads."
+    },
+    {
+      "name": "Meta Ads Manager",
+      "url": "https://www.facebook.com/business/tools/ads-manager",
+      "description": "Ad management platform for Facebook and Instagram."
+    },
+    {
+      "name": "AdEspresso",
+      "url": "https://adespresso.com",
+      "description": "Ad optimization and reporting for social media campaigns."
+    }
+  ]
+  

@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "ai-ml",
+    "name": "AI ML",
+    "count": 15
+  },
+  {
+    "slug": "analytics",
+    "name": "Analytics",
+    "count": 11
+  },
+  {
+    "slug": "automation",
+    "name": "Automation",
+    "count": 5
+  },
+  {
+    "slug": "cloud-data",
+    "name": "Cloud Data",
+    "count": 9
+  },
+  {
+    "slug": "content-media",
+    "name": "Content Media",
+    "count": 5
+  },
+  {
+    "slug": "crm-sales",
+    "name": "CRM Sales",
+    "count": 12
+  },
+  {
+    "slug": "design-ui",
+    "name": "Design UI",
+    "count": 12
+  },
+  {
+    "slug": "dev-apis",
+    "name": "DEV Apis",
+    "count": 12
+  },
+  {
+    "slug": "ecommerce",
+    "name": "Ecommerce",
+    "count": 6
+  },
+  {
+    "slug": "email",
+    "name": "Email",
+    "count": 8
+  },
+  {
+    "slug": "finance",
+    "name": "Finance",
+    "count": 12
+  },
+  {
+    "slug": "hosting",
+    "name": "Hosting",
+    "count": 10
+  },
+  {
+    "slug": "hr-ops",
+    "name": "HR OPS",
+    "count": 3
+  },
+  {
+    "slug": "legal",
+    "name": "Legal",
+    "count": 3
+  },
+  {
+    "slug": "marketing",
+    "name": "Marketing",
+    "count": 15
+  },
+  {
+    "slug": "productivity",
+    "name": "Productivity",
+    "count": 12
+  },
+  {
+    "slug": "research-data",
+    "name": "Research Data",
+    "count": 3
+  },
+  {
+    "slug": "security",
+    "name": "Security",
+    "count": 12
+  },
+  {
+    "slug": "seo",
+    "name": "SEO",
+    "count": 15
+  },
+  {
+    "slug": "support",
+    "name": "Support",
+    "count": 3
+  }
+]

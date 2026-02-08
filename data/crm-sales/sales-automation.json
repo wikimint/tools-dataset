@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Freshsales",
+      "url": "https://www.freshworks.com/freshsales-crm/",
+      "description": "Sales CRM with automation and pipeline tracking."
+    },
+    {
+      "name": "Pipedrive",
+      "url": "https://www.pipedrive.com/",
+      "description": "Visual sales pipeline management tool."
+    },
+    {
+      "name": "EngageBay",
+      "url": "https://www.engagebay.com/",
+      "description": "All-in-one CRM, marketing, and sales automation."
+    },
+    {
+      "name": "Close",
+      "url": "https://close.com/",
+      "description": "CRM built for inside sales teams."
+    }
+  ]
+  

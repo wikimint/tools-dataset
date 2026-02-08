@@ -1,0 +1,13 @@
+[
+    {
+      "name": "PageSpeed Insights",
+      "url": "https://pagespeed.web.dev",
+      "description": "Analyze website performance and Core Web Vitals."
+    },
+    {
+      "name": "GTmetrix",
+      "url": "https://gtmetrix.com",
+      "description": "Website speed and performance testing tool."
+    }
+  ]
+  

@@ -1,0 +1,18 @@
+[
+    {
+      "name": "PostgreSQL",
+      "url": "https://www.postgresql.org",
+      "description": "Advanced open-source relational database system."
+    },
+    {
+      "name": "MongoDB",
+      "url": "https://www.mongodb.com",
+      "description": "NoSQL document database for modern applications."
+    },
+    {
+      "name": "MySQL",
+      "url": "https://www.mysql.com",
+      "description": "Popular open-source relational database platform."
+    }
+  ]
+  

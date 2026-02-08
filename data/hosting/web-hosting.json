@@ -1,0 +1,7 @@
+[
+    {"name":"Bluehost","url":"https://www.bluehost.com","description":"Beginner-friendly web hosting platform."},
+    {"name":"Hostinger","url":"https://www.hostinger.com","description":"Affordable cloud and shared hosting."},
+    {"name":"Vercel","url":"https://vercel.com","description":"Frontend hosting and deployment platform."},
+    {"name":"Netlify","url":"https://www.netlify.com","description":"Static site hosting with CI/CD."}
+  ]
+  

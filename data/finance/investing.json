@@ -1,0 +1,23 @@
+[
+    {
+      "name": "TradingView",
+      "url": "https://www.tradingview.com/",
+      "description": "Market charts, technical analysis, and trading ideas."
+    },
+    {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/",
+      "description": "Stock tracking, news, and portfolio management."
+    },
+    {
+      "name": "Koyfin",
+      "url": "https://www.koyfin.com/",
+      "description": "Financial analytics and market research platform."
+    },
+    {
+      "name": "Investopedia Simulator",
+      "url": "https://www.investopedia.com/simulator/",
+      "description": "Practice stock trading with virtual money."
+    }
+  ]
+  

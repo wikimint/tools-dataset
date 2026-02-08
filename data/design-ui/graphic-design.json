@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Canva",
+      "url": "https://www.canva.com/",
+      "description": "Online graphic design tool for social media, posters, and branding."
+    },
+    {
+      "name": "GIMP",
+      "url": "https://www.gimp.org/",
+      "description": "Open-source image editor similar to Photoshop."
+    },
+    {
+      "name": "Photopea",
+      "url": "https://www.photopea.com/",
+      "description": "Browser-based image editor supporting PSD and design formats."
+    },
+    {
+      "name": "Pixlr",
+      "url": "https://pixlr.com/",
+      "description": "AI-powered photo editing and design platform."
+    }
+  ]
+  

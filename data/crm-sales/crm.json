@@ -1,0 +1,23 @@
+[
+    {
+      "name": "HubSpot CRM",
+      "url": "https://www.hubspot.com/products/crm",
+      "description": "Free CRM with contact management, deals, and email tracking."
+    },
+    {
+      "name": "Zoho CRM",
+      "url": "https://www.zoho.com/crm/",
+      "description": "Customer relationship platform for sales tracking and automation."
+    },
+    {
+      "name": "SuiteCRM",
+      "url": "https://suitecrm.com/",
+      "description": "Open-source CRM for managing customers and pipelines."
+    },
+    {
+      "name": "Bitrix24",
+      "url": "https://www.bitrix24.com/",
+      "description": "CRM with tasks, chats, and sales pipelines."
+    }
+  ]
+  

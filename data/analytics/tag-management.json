@@ -1,0 +1,13 @@
+[
+    {
+      "name": "Google Tag Manager",
+      "url": "https://tagmanager.google.com",
+      "description": "Manage and deploy tracking tags without coding."
+    },
+    {
+      "name": "Segment",
+      "url": "https://segment.com",
+      "description": "Customer data platform and tracking pipeline."
+    }
+  ]
+  

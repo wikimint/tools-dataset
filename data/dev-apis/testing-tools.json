@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Selenium",
+      "url": "https://www.selenium.dev/",
+      "description": "Automated browser testing framework."
+    },
+    {
+      "name": "Jest",
+      "url": "https://jestjs.io/",
+      "description": "JavaScript testing framework for unit tests."
+    },
+    {
+      "name": "Cypress",
+      "url": "https://www.cypress.io/",
+      "description": "End-to-end testing tool for web applications."
+    },
+    {
+      "name": "Postman Monitor",
+      "url": "https://www.postman.com/monitoring/",
+      "description": "Automated API performance and uptime monitoring."
+    }
+  ]
+  

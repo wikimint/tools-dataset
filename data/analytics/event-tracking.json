@@ -1,0 +1,13 @@
+[
+    {
+      "name": "Mixpanel",
+      "url": "https://mixpanel.com",
+      "description": "Event-based product analytics platform."
+    },
+    {
+      "name": "Amplitude",
+      "url": "https://amplitude.com",
+      "description": "Product and user behavior analytics."
+    }
+  ]
+  

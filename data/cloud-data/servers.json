@@ -1,0 +1,18 @@
+[
+    {
+      "name": "DigitalOcean",
+      "url": "https://www.digitalocean.com",
+      "description": "Simple and scalable cloud virtual servers for developers."
+    },
+    {
+      "name": "Linode",
+      "url": "https://www.linode.com",
+      "description": "High-performance Linux servers with global data centers."
+    },
+    {
+      "name": "Vultr",
+      "url": "https://www.vultr.com",
+      "description": "SSD-based cloud compute with one-click apps."
+    }
+  ]
+  
