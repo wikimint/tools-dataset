@@ -1,4 +1,28 @@
 [
-    {"name":"Google Forms","url":"https://forms.google.com","description":"Free survey tool."}
-  ]
-  
+  {"name":"Google Forms","url":"https://forms.google.com","description":"Free online form and survey builder with real-time response tracking."},
+
+  {"name":"Microsoft Forms","url":"https://forms.microsoft.com","description":"Survey and quiz creation tool with built-in analytics from Microsoft."},
+  {"name":"SurveyMonkey","url":"https://www.surveymonkey.com","description":"Online survey platform with customizable templates and reporting."},
+  {"name":"Typeform","url":"https://www.typeform.com","description":"Interactive survey tool with conversational form design."},
+  {"name":"Jotform","url":"https://www.jotform.com","description":"Drag-and-drop form and survey builder with workflow automation."},
+  {"name":"Zoho Survey","url":"https://www.zoho.com/survey/","description":"Survey creation platform with reporting and integrations."},
+  {"name":"LimeSurvey","url":"https://www.limesurvey.org","description":"Open-source survey software for advanced questionnaires."},
+  {"name":"Alchemer","url":"https://www.alchemer.com","description":"Enterprise survey and feedback management platform."},
+  {"name":"QuestionPro","url":"https://www.questionpro.com","description":"Online survey software with data analytics tools."},
+  {"name":"Qualtrics","url":"https://www.qualtrics.com","description":"Experience management platform for surveys and research."},
+  {"name":"Formstack","url":"https://www.formstack.com","description":"Form and data collection tool with workflow automation."},
+  {"name":"Cognito Forms","url":"https://www.cognitoforms.com","description":"Secure form and survey creation with data workflows."},
+  {"name":"SurveyPlanet","url":"https://surveyplanet.com","description":"Simple survey builder with real-time analytics."},
+  {"name":"FreeOnlineSurveys","url":"https://freeonlinesurveys.com","description":"Survey tool for quick data collection and reporting."},
+  {"name":"Crowdsignal","url":"https://crowdsignal.com","description":"Polling and survey tool by Automattic."},
+  {"name":"SoGoSurvey","url":"https://www.sogosurvey.com","description":"Survey and feedback management platform."},
+  {"name":"Survio","url":"https://www.survio.com","description":"Online questionnaire tool with ready-made templates."},
+  {"name":"Polldaddy","url":"https://polldaddy.com","description":"Polling and survey platform for websites."},
+  {"name":"OpinionApp","url":"https://opinionapp.com","description":"Real-time polling and survey software."},
+  {"name":"GetFeedback","url":"https://www.getfeedback.com","description":"Customer feedback and survey platform for experience tracking."},
+  {"name":"Formsite","url":"https://www.formsite.com","description":"Secure online forms and surveys with data collection tools."},
+  {"name":"Paperform","url":"https://paperform.co","description":"Custom form and survey builder with design flexibility."},
+  {"name":"Tally","url":"https://tally.so","description":"Free form and survey builder with unlimited responses."},
+  {"name":"KoBoToolbox","url":"https://www.kobotoolbox.org","description":"Open-source data collection tool for field surveys."},
+  {"name":"Open Data Kit (ODK)","url":"https://getodk.org","description":"Open-source mobile data collection for surveys and research."}
+]

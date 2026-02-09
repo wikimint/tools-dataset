@@ -1,4 +1,32 @@
 [
-    {"name":"Statista","url":"https://www.statista.com","description":"Market data and statistics."}
-  ]
-  
+  {"name":"Statista","url":"https://www.statista.com","description":"Global statistics and market insights across industries and regions."},
+
+  {"name":"IBISWorld","url":"https://www.ibisworld.com","description":"Industry research reports with market size and growth trends."},
+  {"name":"Gartner","url":"https://www.gartner.com","description":"Technology market research and business intelligence firm."},
+  {"name":"Forrester","url":"https://www.forrester.com","description":"Business and technology market research and advisory company."},
+  {"name":"Euromonitor","url":"https://www.euromonitor.com","description":"Consumer market research with global industry data."},
+  {"name":"Mintel","url":"https://www.mintel.com","description":"Market intelligence platform for consumer behavior and trends."},
+  {"name":"Kantar","url":"https://www.kantar.com","description":"Data-driven market research and brand analytics company."},
+  {"name":"Nielsen","url":"https://www.nielsen.com","description":"Media, retail, and consumer behavior analytics provider."},
+  {"name":"McKinsey Insights","url":"https://www.mckinsey.com/featured-insights","description":"Business research and economic analysis reports."},
+  {"name":"CB Insights","url":"https://www.cbinsights.com","description":"Market intelligence on startups, funding, and technology trends."},
+  {"name":"Crunchbase","url":"https://www.crunchbase.com","description":"Business database for company profiles and funding data."},
+  {"name":"PitchBook","url":"https://pitchbook.com","description":"Financial and market intelligence for private capital markets."},
+  {"name":"World Bank Data","url":"https://data.worldbank.org","description":"Global development and economic datasets."},
+  {"name":"IMF Data","url":"https://www.imf.org/en/Data","description":"International financial and economic indicators."},
+  {"name":"OECD Data","url":"https://data.oecd.org","description":"Economic, social, and environmental statistics from OECD countries."},
+  {"name":"Trading Economics","url":"https://tradingeconomics.com","description":"Global macroeconomic indicators and forecasts."},
+  {"name":"FRED","url":"https://fred.stlouisfed.org","description":"US economic data from the Federal Reserve."},
+  {"name":"Data.gov","url":"https://www.data.gov","description":"Open government datasets for market and policy research."},
+  {"name":"UN Data","url":"https://data.un.org","description":"United Nations global economic and social statistics."},
+  {"name":"Think with Google","url":"https://www.thinkwithgoogle.com","description":"Consumer insights and market trend research from Google."},
+  {"name":"SimilarWeb","url":"https://www.similarweb.com","description":"Digital market intelligence and website traffic analytics."},
+  {"name":"App Annie (data.ai)","url":"https://www.data.ai","description":"Mobile app market intelligence and performance insights."},
+  {"name":"GlobalData","url":"https://www.globaldata.com","description":"Industry intelligence and company market analysis."},
+  {"name":"StatCounter Global Stats","url":"https://gs.statcounter.com","description":"Market share statistics for browsers, devices, and platforms."},
+  {"name":"MarketResearch.com","url":"https://www.marketresearch.com","description":"Aggregator of global market research reports."},
+  {"name":"IDC","url":"https://www.idc.com","description":"Technology market research and industry forecasts."},
+  {"name":"PwC Insights","url":"https://www.pwc.com/gx/en/industries.html","description":"Industry and market analysis from PwC."},
+  {"name":"Deloitte Insights","url":"https://www2.deloitte.com/insights","description":"Market research and business trend reports."},
+  {"name":"S&P Global Market Intelligence","url":"https://www.spglobal.com/marketintelligence","description":"Financial and market data across industries."}
+]

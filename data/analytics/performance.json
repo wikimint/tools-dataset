@@ -8,6 +8,11 @@
       "name": "GTmetrix",
       "url": "https://gtmetrix.com",
       "description": "Website speed and performance testing tool."
+    },
+    {
+      "name": "Fabric",
+      "url": "https://get.fabric.io/",
+      "description": "A mobile-focused platform that helps teams improve app performance, track user behavior, and grow faster."
     }
   ]
   

@@ -1,4 +1,74 @@
 [
-    {"name":"Tawk.to","url":"https://www.tawk.to","description":"Free live chat widget."}
+    {"name":"Tawk.to","url":"https://www.tawk.to","description":"Free live chat widget."},
+  {
+    "name": "Crisp (Free Plan)",
+    "url": "https://crisp.chat",
+    "description": "A freemium live chat platform offering a forever-free plan for basic website messaging and inbox management."
+  },
+  {
+    "name": "Tidio (Free Plan)",
+    "url": "https://www.tidio.com",
+    "description": "A live chat and chatbot tool with a permanent free tier for small websites and startups."
+  },
+  {
+    "name": "Chatwoot",
+    "url": "https://www.chatwoot.com",
+    "description": "An open-source customer messaging platform you can self-host with full control over your data."
+  },
+  {
+    "name": "Rocket.Chat",
+    "url": "https://www.rocket.chat",
+    "description": "An open-source communication platform that can be used as a live chat system for websites and apps."
+  },
+  {
+    "name": "Zammad",
+    "url": "https://zammad.org",
+    "description": "An open-source helpdesk and chat solution for customer support teams."
+  },
+  {
+    "name": "LiveHelperChat",
+    "url": "https://livehelperchat.com",
+    "description": "A self-hosted open-source live chat application for websites and support teams."
+  },
+  {
+    "name": "Papercups",
+    "url": "https://papercups.io",
+    "description": "An open-source live chat tool that you can host yourself with real-time messaging features."
+  },
+  {
+    "name": "Mibew",
+    "url": "https://mibew.org",
+    "description": "A simple open-source web chat system for providing live support to website visitors."
+  },
+  {
+    "name": "JivoChat (Free Plan)",
+    "url": "https://www.jivochat.com",
+    "description": "A free live chat widget that helps you connect with customers across web and messaging channels."
+  },
+  {
+    "name": "Smartsupp (Free Plan)",
+    "url": "https://www.smartsupp.com",
+    "description": "A live chat and visitor monitoring tool with a forever-free plan for basic customer communication."
+  },
+  {
+    "name": "Pure Chat (Free Plan)",
+    "url": "https://www.purechat.com",
+    "description": "A simple live chat solution offering a limited but free plan for small businesses."
+  },
+  {
+    "name": "Zoho SalesIQ (Free Plan)",
+    "url": "https://www.zoho.com/salesiq/",
+    "description": "A live chat and visitor tracking tool with a free tier for small teams."
+  },
+  {
+    "name": "Userlike (Free Plan)",
+    "url": "https://www.userlike.com",
+    "description": "A live chat platform with a permanent free plan for single operators."
+  },
+  {
+    "name": "HelpCrunch (Free Plan)",
+    "url": "https://helpcrunch.com",
+    "description": "A customer communication tool with a free tier that includes live chat and basic messaging features."
+  }
   ]
   

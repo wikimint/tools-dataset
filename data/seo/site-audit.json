@@ -1,18 +1,52 @@
 [
-    {
-      "name": "Screaming Frog",
-      "url": "https://www.screamingfrog.co.uk/seo-spider/",
-      "description": "Website crawler for technical SEO audits."
-    },
-    {
-      "name": "Ahrefs Webmaster Tools",
-      "url": "https://ahrefs.com/webmaster-tools",
-      "description": "Free site audit and backlink monitoring."
-    },
-    {
-      "name": "Sitebulb",
-      "url": "https://sitebulb.com",
-      "description": "SEO auditing and reporting software."
-    }
-  ]
-  
+  {"name":"Screaming Frog","url":"https://www.screamingfrog.co.uk/seo-spider/","description":"A desktop crawler that scans websites to detect technical SEO issues and broken elements."},
+  {"name":"Ahrefs Webmaster Tools","url":"https://ahrefs.com/webmaster-tools","description":"A free site health checker with backlink tracking and SEO diagnostics."},
+  {"name":"Sitebulb","url":"https://sitebulb.com","description":"A visual SEO auditing tool that highlights website problems and opportunities."},
+
+  {"name":"Google Search Console","url":"https://search.google.com/search-console","description":"A free Google tool for monitoring indexing, performance, and technical issues."},
+  {"name":"Google Lighthouse","url":"https://developer.chrome.com/docs/lighthouse/","description":"An open-source performance and quality auditing tool built into Chrome."},
+  {"name":"PageSpeed Insights","url":"https://pagespeed.web.dev/","description":"Measures page speed and performance based on real user data."},
+  {"name":"GTmetrix","url":"https://gtmetrix.com","description":"Website speed and optimization testing platform."},
+  {"name":"Pingdom Tools","url":"https://tools.pingdom.com","description":"Website performance and uptime testing tool."},
+  {"name":"WebPageTest","url":"https://www.webpagetest.org","description":"Advanced open-source performance testing framework."},
+  {"name":"SEO PowerSuite","url":"https://www.seopowersuite.com","description":"Desktop SEO toolkit for audits, rankings, and backlinks."},
+  {"name":"Moz Pro","url":"https://moz.com/products/pro","description":"SEO research and site auditing platform."},
+  {"name":"Semrush Site Audit","url":"https://www.semrush.com/siteaudit/","description":"Technical SEO scanner with health scoring."},
+  {"name":"Serpstat","url":"https://serpstat.com","description":"SEO analysis and site audit platform."},
+  {"name":"Ubersuggest","url":"https://neilpatel.com/ubersuggest/","description":"SEO auditing and keyword research tool."},
+  {"name":"WooRank","url":"https://www.woorank.com","description":"Website review and SEO diagnostics platform."},
+  {"name":"Seobility","url":"https://www.seobility.net","description":"Online SEO audit and monitoring software."},
+  {"name":"Varvy SEO Tool","url":"https://varvy.com","description":"Free website compliance and SEO checker."},
+  {"name":"SEO Site Checkup","url":"https://seositecheckup.com","description":"Website SEO health scanning tool."},
+  {"name":"Netpeak Spider","url":"https://netpeaksoftware.com/spider/","description":"Desktop crawler for large-scale website audits."},
+  {"name":"Deepcrawl (Lumar)","url":"https://www.lumar.io","description":"Enterprise technical SEO crawling and monitoring platform."},
+  {"name":"OnCrawl","url":"https://www.oncrawl.com","description":"Log-based SEO and website auditing tool."},
+  {"name":"Botify","url":"https://www.botify.com","description":"Enterprise search performance and site crawl analysis platform."},
+  {"name":"Ryte","url":"https://www.ryte.com","description":"Website user experience and SEO auditing platform."},
+  {"name":"ContentKing","url":"https://www.contentkingapp.com","description":"Real-time SEO auditing and monitoring tool."},
+  {"name":"Pulno","url":"https://pulno.com","description":"Website audit and link structure analysis tool."},
+  {"name":"SEO Tester Online","url":"https://www.seotesteronline.com","description":"SEO audit, ranking, and performance analysis tool."},
+  {"name":"Beam Us Up","url":"https://www.beamusup.com","description":"Free desktop SEO crawler for website audits."},
+  {"name":"Xenu Link Sleuth","url":"http://home.snafu.de/tilman/xenulink.html","description":"Classic free tool for finding broken links."},
+  {"name":"Integrity","url":"https://peacockmedia.software/mac/integrity/","description":"Mac website link checker and crawler."},
+  {"name":"LinkChecker","url":"https://linkchecker.github.io/linkchecker/","description":"Open-source broken link checker."},
+  {"name":"BrokenLinkCheck","url":"https://www.brokenlinkcheck.com","description":"Online broken link scanning tool."},
+  {"name":"Dead Link Checker","url":"https://www.deadlinkchecker.com","description":"Detects dead links and broken resources."},
+  {"name":"SEO Minion","url":"https://seominion.com","description":"Browser extension for on-page SEO checks."},
+  {"name":"Web Developer Extension","url":"https://chrispederick.com/work/web-developer/","description":"Browser toolkit for inspecting SEO and HTML issues."},
+  {"name":"Check My Links","url":"https://chrome.google.com/webstore/detail/check-my-links/","description":"Chrome extension for detecting broken links."},
+  {"name":"Detailed SEO Extension","url":"https://detailed.com/extension/","description":"Instant on-page SEO inspection tool."},
+  {"name":"W3C Validator","url":"https://validator.w3.org","description":"HTML and CSS standards compliance checker."},
+  {"name":"SecurityHeaders","url":"https://securityheaders.com","description":"HTTP security header analyzer."},
+  {"name":"SSL Labs Test","url":"https://www.ssllabs.com/ssltest/","description":"SSL and HTTPS security testing tool."},
+  {"name":"Observatory by Mozilla","url":"https://observatory.mozilla.org","description":"Web security and performance scanner."},
+  {"name":"SEOquake","url":"https://www.seoquake.com","description":"Browser SEO toolbar with metrics."},
+  {"name":"SerpRobot","url":"https://serprobot.com","description":"Keyword rank and site audit tracking."},
+  {"name":"RankMath Analyzer","url":"https://rankmath.com/tools/seo-analyzer/","description":"Free SEO audit tool by RankMath."},
+  {"name":"Yoast SEO Analyzer","url":"https://yoast.com/research/real-time-content-analysis/","description":"Content and on-page SEO scoring tool."},
+  {"name":"Small SEO Tools","url":"https://smallseotools.com","description":"Free SEO utilities for audits and content checks."},
+  {"name":"SEO Review Tools","url":"https://www.seoreviewtools.com","description":"Free website audit and SEO utilities."},
+  {"name":"SimilarWeb","url":"https://www.similarweb.com","description":"Website traffic and performance insights."},
+  {"name":"Wappalyzer","url":"https://www.wappalyzer.com","description":"Detects technologies used on websites."},
+  {"name":"BuiltWith","url":"https://builtwith.com","description":"Website technology profiling tool."}
+]

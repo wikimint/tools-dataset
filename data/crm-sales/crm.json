@@ -18,6 +18,52 @@
       "name": "Bitrix24",
       "url": "https://www.bitrix24.com/",
       "description": "CRM with tasks, chats, and sales pipelines."
-    }
+    },
+    {
+      "name": "Freshsales",
+      "url": "https://www.freshworks.com/freshsales-crm/",
+      "description": "A sales-focused CRM with built-in communication tools, lead scoring, and activity tracking for faster deal closures."
+    },
+    {
+      "name": "Workbooks",
+      "url": "https://www.workbooks.com/",
+      "description": "A cost-effective CRM solution that supports customer acquisition, conversion, and long-term relationship management."
+    },
+    {
+      "name": "Insightly",
+      "url": "https://www.insightly.com/",
+      "description": "A cloud-based CRM that integrates with email platforms to manage contacts, projects, and customer interactions."
+    },
+    {
+      "name": "Cloze",
+      "url": "https://www.cloze.com/",
+      "description": "An intelligent contact management tool that automatically organizes emails, calls, meetings, and notes in one place."
+    },
+    {
+      "name": "Streak",
+      "url": "https://www.streak.com",
+      "description": "A lightweight CRM built directly into Gmail that lets users track leads, deals, and workflows inside their inbox."
+    },
+    { "name": "Pipedrive", "url": "https://www.pipedrive.com", "description": "A visual sales CRM designed to help teams manage deals, track progress, and close faster." },
+    { "name": "Monday Sales CRM", "url": "https://monday.com/crm", "description": "A customizable CRM workspace that organizes contacts, pipelines, and team activities in one dashboard." },
+    { "name": "Copper", "url": "https://www.copper.com", "description": "A Google Workspace–native CRM that automatically captures contacts and interactions from Gmail and Calendar." },
+    { "name": "Bitrix24", "url": "https://www.bitrix24.com", "description": "An all-in-one CRM and collaboration suite with sales pipelines, tasks, and communication tools." },
+    { "name": "Nimble", "url": "https://www.nimble.com", "description": "A relationship-focused CRM that combines contact data with social insights for smarter follow-ups." },
+    { "name": "Capsule CRM", "url": "https://capsulecrm.com", "description": "A simple CRM for tracking customers, sales opportunities, and communications in one place." },
+    { "name": "SugarCRM", "url": "https://www.sugarcrm.com", "description": "An enterprise CRM platform for sales, marketing, and service automation." },
+    { "name": "Salesforce", "url": "https://www.salesforce.com", "description": "A global CRM ecosystem that connects sales, marketing, service, and customer data." },
+    { "name": "Keap", "url": "https://keap.com", "description": "A CRM and automation platform built for small businesses to manage leads and payments." },
+    { "name": "Less Annoying CRM", "url": "https://www.lessannoyingcrm.com", "description": "A straightforward CRM for small teams who want simplicity without complexity." },
+    { "name": "Agile CRM", "url": "https://www.agilecrm.com", "description": "A sales, marketing, and support CRM with automation and contact tracking features." },
+    { "name": "Close", "url": "https://close.com", "description": "A sales-focused CRM with built-in calling, email, and deal tracking." },
+    { "name": "Pipeline CRM", "url": "https://pipelinecrm.com", "description": "A customizable CRM platform that helps teams manage contacts, sales, and tasks efficiently." },
+    { "name": "Apptivo", "url": "https://www.apptivo.com", "description": "A modular business CRM with apps for sales, invoicing, and customer management." },
+    { "name": "Odoo CRM", "url": "https://www.odoo.com/app/crm", "description": "An open-source CRM that integrates with ERP, sales, and marketing tools." },
+    { "name": "Creatio", "url": "https://www.creatio.com", "description": "A low-code CRM platform for automating sales, marketing, and service workflows." },
+    { "name": "Zendesk Sell", "url": "https://www.zendesk.com/sell/", "description": "A sales CRM that helps teams track leads, manage deals, and increase productivity." },
+    { "name": "HighLevel", "url": "https://www.gohighlevel.com", "description": "A CRM and automation system built for agencies to manage leads and campaigns." },
+    { "name": "Vtiger", "url": "https://www.vtiger.com", "description": "A unified CRM that connects sales, marketing, and support teams." },
+    { "name": "Kylas", "url": "https://www.kylas.io", "description": "A modern sales CRM for fast-growing small and mid-sized businesses." }
+  
   ]
   

@@ -1,23 +1,26 @@
 [
-    {
-      "name": "VeraCrypt",
-      "url": "https://www.veracrypt.fr/",
-      "description": "Disk encryption software for protecting files and drives."
-    },
-    {
-      "name": "Cryptomator",
-      "url": "https://cryptomator.org/",
-      "description": "Client-side encryption for cloud storage."
-    },
-    {
-      "name": "OpenPGP",
-      "url": "https://www.openpgp.org/",
-      "description": "Encryption standard for secure email communication."
-    },
-    {
-      "name": "AxCrypt",
-      "url": "https://www.axcrypt.net/",
-      "description": "File encryption and password protection tool."
-    }
-  ]
-  
+  {"name":"VeraCrypt","url":"https://www.veracrypt.fr/","description":"Open-source disk encryption tool for securing entire drives and containers."},
+  {"name":"Cryptomator","url":"https://cryptomator.org/","description":"Zero-knowledge client-side encryption for cloud files."},
+  {"name":"OpenPGP","url":"https://www.openpgp.org/","description":"Open standard for encrypting and signing emails and files."},
+  {"name":"AxCrypt","url":"https://www.axcrypt.net/","description":"File-level encryption software with secure sharing features."},
+
+  {"name":"GnuPG","url":"https://gnupg.org","description":"Free implementation of the OpenPGP standard for file and email encryption."},
+  {"name":"BitLocker","url":"https://learn.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview","description":"Built-in Windows drive encryption for data protection."},
+  {"name":"FileVault","url":"https://support.apple.com/en-us/HT204837","description":"macOS disk encryption for securing system storage."},
+  {"name":"7-Zip","url":"https://www.7-zip.org","description":"File archiver with AES-256 encryption for compressed data."},
+  {"name":"PeaZip","url":"https://peazip.github.io","description":"Open-source file archiver with strong encryption support."},
+  {"name":"AES Crypt","url":"https://www.aescrypt.com","description":"Simple file encryption tool using AES standards."},
+  {"name":"Boxcryptor","url":"https://www.boxcryptor.com","description":"Encrypts cloud files before syncing to storage providers."},
+  {"name":"EncFS","url":"https://vgough.github.io/encfs/","description":"Filesystem-based encryption for protecting directories."},
+  {"name":"eCryptfs","url":"https://www.ecryptfs.org","description":"Linux kernel-based file system encryption layer."},
+  {"name":"Tomb","url":"https://www.dyne.org/software/tomb/","description":"Linux file encryption system for secure data storage."},
+  {"name":"Kleopatra","url":"https://www.openpgp.org/software/kleopatra/","description":"Graphical interface for managing OpenPGP encryption keys."},
+  {"name":"Seahorse","url":"https://wiki.gnome.org/Apps/Seahorse","description":"Key manager for encrypting files and emails."},
+  {"name":"Age","url":"https://github.com/FiloSottile/age","description":"Modern simple file encryption tool with strong cryptography."},
+  {"name":"Cryptsetup","url":"https://gitlab.com/cryptsetup/cryptsetup","description":"Linux disk encryption utility for LUKS volumes."},
+  {"name":"OpenSSL","url":"https://www.openssl.org","description":"Cryptography toolkit for secure communication and encryption."},
+  {"name":"NaCl","url":"https://nacl.cr.yp.to","description":"High-speed cryptographic library for secure applications."},
+  {"name":"Hashicorp Vault (Free Tier)","url":"https://www.vaultproject.io","description":"Secrets management and data encryption platform."},
+  {"name":"MiniLock","url":"https://minilock.io","description":"File encryption using email-based public keys."},
+  {"name":"NordLocker","url":"https://nordlocker.com","description":"Encrypted file storage and sharing tool with zero-knowledge design."}
+]

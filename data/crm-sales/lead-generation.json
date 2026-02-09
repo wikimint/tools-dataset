@@ -18,6 +18,26 @@
       "name": "Clearbit",
       "url": "https://clearbit.com/",
       "description": "Enrich leads with company and contact data."
-    }
+    },
+    { "name": "Leadfeeder", "url": "https://www.leadfeeder.com", "description": "Identifies companies visiting your website and turns anonymous traffic into sales leads." },
+    { "name": "Hunter", "url": "https://hunter.io", "description": "Finds and verifies professional email addresses for outreach campaigns." },
+    { "name": "Snov.io", "url": "https://snov.io", "description": "An all-in-one lead generation and email prospecting platform." },
+    { "name": "Clearbit", "url": "https://clearbit.com", "description": "Enriches leads with firmographic and demographic business data." },
+    { "name": "Apollo.io", "url": "https://www.apollo.io", "description": "A B2B lead database with sales engagement tools." },
+    { "name": "ZoomInfo", "url": "https://www.zoominfo.com", "description": "A business intelligence platform for finding and qualifying prospects." },
+    { "name": "UpLead", "url": "https://www.uplead.com", "description": "Provides verified B2B contact data for lead generation." },
+    { "name": "Seamless.ai", "url": "https://www.seamless.ai", "description": "Uses AI to discover and validate sales leads in real time." },
+    { "name": "Lusha", "url": "https://www.lusha.com", "description": "Enriches leads with direct contact information." },
+    { "name": "Leadpages", "url": "https://www.leadpages.com", "description": "Creates high-converting landing pages for capturing leads." },
+    { "name": "OptinMonster", "url": "https://optinmonster.com", "description": "Converts website visitors into subscribers and leads." },
+    { "name": "Drift", "url": "https://www.drift.com", "description": "Conversational marketing platform for capturing leads via chat." },
+    { "name": "Tidio", "url": "https://www.tidio.com", "description": "Live chat and chatbot tool for lead capture and support." },
+    { "name": "Intercom", "url": "https://www.intercom.com", "description": "Customer messaging platform for sales and onboarding." },
+    { "name": "Typeform", "url": "https://www.typeform.com", "description": "Interactive forms and surveys for lead capture." },
+    { "name": "ConvertBox", "url": "https://convertbox.com", "description": "On-site messaging tool for personalized lead capture." },
+    { "name": "Hello Bar", "url": "https://www.hellobar.com", "description": "Website popups and banners for lead collection." },
+    { "name": "Unbounce", "url": "https://unbounce.com", "description": "Landing page builder optimized for conversions." },
+    { "name": "LeadSquared", "url": "https://www.leadsquared.com", "description": "Lead capture and tracking platform for sales teams." },
+    { "name": "RafflePress", "url": "https://rafflepress.com", "description": "Giveaway and contest tool for collecting leads." }
   ]
   

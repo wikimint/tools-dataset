@@ -8,6 +8,41 @@
       "name": "Amplitude",
       "url": "https://amplitude.com",
       "description": "Product and user behavior analytics."
+    },
+    {
+      "name": "Keen",
+      "url": "https://keen.io/",
+      "description": "A developer-friendly analytics service that helps you create real-time, user-facing dashboards and metrics quickly."
+    },
+    {
+      "name": "Segment",
+      "url": "https://segment.com/",
+      "description": "A customer data platform that gathers, organizes, and routes user data to your analytics and marketing tools."
+    },
+    {
+      "name": "Countly",
+      "url": "https://count.ly/",
+      "description": "An analytics and engagement platform for mobile, web, desktop, and IoT apps that securely tracks user journeys."
+    },
+    {
+      "name": "Amplitude",
+      "url": "https://amplitude.com/",
+      "description": "A digital analytics platform that helps businesses understand user behavior and optimize product experiences across devices."
+    },
+    {
+      "name": "Google Analytics",
+      "url": "https://marketingplatform.google.com/about/analytics/",
+      "description": "A free web analytics service from Google that helps you measure traffic, user behavior, and conversion performance."
+    },
+    {
+      "name": "Cyfe",
+      "url": "https://www.cyfe.com",
+      "description": "An all-in-one business dashboard that brings together analytics, sales, marketing, and infrastructure data in one view."
+    },
+    {
+      "name": "Quantcast Measure",
+      "url": "https://www.quantcast.com/products/measure-audience-insights/",
+      "description": "An audience intelligence tool that provides real-time insights into visitor demographics, interests, and engagement."
     }
   ]
   

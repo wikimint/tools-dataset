@@ -8,6 +8,16 @@
       "name": "Microsoft Clarity",
       "url": "https://clarity.microsoft.com",
       "description": "Free session recordings and heatmap analytics."
+    },
+    {
+      "name": "Inspectlet",
+      "url": "https://www.inspectlet.com/",
+      "description": "A session recording and heatmap platform that helps you understand why users behave the way they do on your site."
+    },
+    {
+      "name": "Hotjar",
+      "url": "https://www.hotjar.com/",
+      "description": "A behavior analytics solution that shows how visitors use your site through heatmaps, recordings, and feedback tools."
     }
   ]
   

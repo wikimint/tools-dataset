@@ -1,18 +1,31 @@
 [
-    {
-      "name": "Ubersuggest",
-      "url": "https://neilpatel.com/ubersuggest/",
-      "description": "Keyword research and SEO analysis tool."
-    },
-    {
-      "name": "Keyword Tool",
-      "url": "https://keywordtool.io",
-      "description": "Find long-tail keywords for multiple search engines."
-    },
-    {
-      "name": "AnswerThePublic",
-      "url": "https://answerthepublic.com",
-      "description": "Visual keyword research for content ideas."
-    }
-  ]
-  
+  {"name":"Ubersuggest","url":"https://neilpatel.com/ubersuggest/","description":"An all-in-one keyword discovery and SEO insight platform."},
+  {"name":"Keyword Tool","url":"https://keywordtool.io","description":"Generates long-tail keyword ideas from multiple search engines."},
+  {"name":"AnswerThePublic","url":"https://answerthepublic.com","description":"Turns search questions into visual keyword maps for content planning."},
+
+  {"name":"Google Keyword Planner","url":"https://ads.google.com/home/tools/keyword-planner/","description":"Google’s official keyword volume and trend research tool."},
+  {"name":"Ahrefs Keywords Explorer","url":"https://ahrefs.com/keywords-explorer","description":"Keyword database with volume, difficulty, and SERP analysis."},
+  {"name":"SEMrush Keyword Magic Tool","url":"https://www.semrush.com/analytics/keywordmagic/","description":"Mass keyword generation and filtering for SEO campaigns."},
+  {"name":"Moz Keyword Explorer","url":"https://moz.com/explorer","description":"Keyword research with difficulty and organic CTR metrics."},
+  {"name":"Serpstat Keyword Research","url":"https://serpstat.com","description":"Keyword clustering and competition intelligence platform."},
+  {"name":"KWFinder","url":"https://mangools.com/kwfinder","description":"Easy-to-use keyword research tool for finding low-competition phrases."},
+  {"name":"Long Tail Pro","url":"https://longtailpro.com","description":"Find profitable long-tail keywords with competition scores."},
+  {"name":"SpyFu","url":"https://www.spyfu.com","description":"Keyword research with competitor search intelligence."},
+  {"name":"Wordtracker","url":"https://www.wordtracker.com","description":"Keyword discovery tool with search trend analysis."},
+  {"name":"Soovle","url":"https://soovle.com","description":"Instant keyword suggestions from multiple search engines."},
+  {"name":"AlsoAsked","url":"https://alsoasked.com","description":"Keyword question research based on People Also Ask data."},
+  {"name":"Keyword Sheeter","url":"https://keywordsheeter.com","description":"Bulk keyword generation tool using autocomplete data."},
+  {"name":"KeySearch","url":"https://www.keysearch.co","description":"Affordable keyword research with difficulty scoring."},
+  {"name":"QuestionDB","url":"https://questiondb.io","description":"Find user questions for keyword and content ideation."},
+  {"name":"SEO Review Tools Keyword Tool","url":"https://www.seoreviewtools.com/keyword-research-tool/","description":"Free keyword research and SERP analysis utility."},
+  {"name":"HyperSuggest","url":"https://www.hypersuggest.com","description":"Autocomplete-based keyword discovery for global markets."},
+  {"name":"Kparser","url":"https://kparser.com","description":"Keyword mining tool for long-tail search queries."},
+  {"name":"Twinword Ideas","url":"https://www.twinword.com/ideas/","description":"Keyword research with topic and intent grouping."},
+  {"name":"LSIGraph","url":"https://lsigraph.com","description":"Find semantic keywords related to your main topic."},
+  {"name":"SEO Minion","url":"https://www.seominion.com","description":"Browser extension for keyword and on-page SERP analysis."},
+  {"name":"Chatsonic Keyword Tool","url":"https://writesonic.com/chatsonic","description":"AI-powered keyword ideation for content SEO."},
+  {"name":"Google Trends","url":"https://trends.google.com","description":"Track keyword popularity and seasonality trends."},
+  {"name":"Bulk Keyword Generator","url":"https://www.bulkkeywordgenerator.com","description":"Generates keyword ideas from seed topics."},
+  {"name":"Keyworddit","url":"https://www.keyworddit.com","description":"Find keywords from Reddit discussions."},
+  {"name":"Exploding Topics","url":"https://explodingtopics.com","description":"Discover trending search topics before they peak."}
+]

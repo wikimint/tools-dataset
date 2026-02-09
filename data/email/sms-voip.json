@@ -1,5 +1,15 @@
 [
     {"name":"Twilio","url":"https://www.twilio.com","description":"Programmable SMS and voice APIs."},
-    {"name":"Textbelt","url":"https://textbelt.com","description":"Simple SMS API."}
+    {"name":"Textbelt","url":"https://textbelt.com","description":"Simple SMS API."},
+    {
+      "name": "SendPulse",
+      "url": "https://sendpulse.com",
+      "description": "A multi-channel marketing platform that combines email, SMS, web push, and messaging apps into one automation system."
+    },
+    {
+      "name": "Sendinblue",
+      "url": "https://www.sendinblue.com/",
+      "description": "An all-in-one communication platform offering email marketing, SMS campaigns, transactional messages, and automation tools."
+    }
   ]
   

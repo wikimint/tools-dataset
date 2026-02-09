@@ -1,4 +1,31 @@
 [
-    {"name":"Octoparse","url":"https://www.octoparse.com","description":"Web data extraction tool."}
-  ]
-  
+  {"name":"Octoparse","url":"https://www.octoparse.com","description":"Visual web scraping software for extracting structured data from websites."},
+
+  {"name":"ParseHub","url":"https://www.parsehub.com","description":"Point-and-click data extraction tool for dynamic and JavaScript-heavy sites."},
+  {"name":"WebHarvy","url":"https://www.webharvy.com","description":"Automated web data harvesting software with pattern detection."},
+  {"name":"Scrapy","url":"https://scrapy.org","description":"Open-source Python framework for building large-scale web crawlers."},
+  {"name":"Beautiful Soup","url":"https://www.crummy.com/software/BeautifulSoup/","description":"Python library for parsing HTML and extracting page content."},
+  {"name":"Selenium","url":"https://www.selenium.dev","description":"Browser automation framework commonly used for scraping dynamic pages."},
+  {"name":"Puppeteer","url":"https://pptr.dev","description":"Headless Chrome automation tool for web data extraction."},
+  {"name":"Playwright","url":"https://playwright.dev","description":"Cross-browser automation framework for scraping and testing workflows."},
+  {"name":"Cheerio","url":"https://cheerio.js.org","description":"Fast server-side HTML parser with jQuery-like syntax."},
+  {"name":"Apify","url":"https://apify.com","description":"Cloud automation and scraping platform with ready-made actors."},
+  {"name":"Zyte","url":"https://www.zyte.com","description":"Web data extraction service with smart proxy management."},
+  {"name":"Diffbot","url":"https://www.diffbot.com","description":"AI-powered web data extraction and structured content analysis."},
+  {"name":"Import.io","url":"https://www.import.io","description":"Web data capture platform that turns websites into APIs."},
+  {"name":"Web Scraper","url":"https://webscraper.io","description":"Browser-based scraping extension for point-and-click extraction."},
+  {"name":"Data Miner","url":"https://dataminer.io","description":"Chrome extension for scraping tables and lists from web pages."},
+  {"name":"OutWit Hub","url":"https://www.outwit.com","description":"Desktop data extraction tool for collecting website information."},
+  {"name":"Helium Scraper","url":"https://www.heliumscraper.com","description":"Advanced visual scraping software for complex websites."},
+  {"name":"Mozenda","url":"https://www.mozenda.com","description":"Cloud-based web data extraction platform for businesses."},
+  {"name":"Kadoa","url":"https://www.kadoa.com","description":"AI-driven scraper that extracts data without manual selectors."},
+  {"name":"SerpApi","url":"https://serpapi.com","description":"Search engine results scraping API with structured outputs."},
+  {"name":"SimpleScraper","url":"https://simplescraper.io","description":"No-code web scraping tool and browser extension."},
+  {"name":"Common Crawl","url":"https://commoncrawl.org","description":"Open repository of web crawl data for research and analysis."},
+  {"name":"ScraperAPI","url":"https://www.scraperapi.com","description":"Proxy-based scraping API to avoid blocks and captchas."},
+  {"name":"ScrapingBee","url":"https://www.scrapingbee.com","description":"Headless browser scraping API for JavaScript-heavy pages."},
+  {"name":"ProxyCrawl","url":"https://proxycrawl.com","description":"Scraping API with rotating proxies and rendering support."},
+  {"name":"Oxylabs","url":"https://oxylabs.io","description":"Enterprise web data collection and proxy service platform."},
+  {"name":"Bright Data","url":"https://brightdata.com","description":"Global proxy and web data extraction infrastructure."},
+  {"name":"Webhose","url":"https://webhose.io","description":"Structured web data feeds from news, blogs, and forums."}
+]

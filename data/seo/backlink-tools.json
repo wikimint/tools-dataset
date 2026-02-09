@@ -1,18 +1,27 @@
 [
-    {
-      "name": "Moz Link Explorer",
-      "url": "https://moz.com/link-explorer",
-      "description": "Analyze backlinks and domain authority."
-    },
-    {
-      "name": "Majestic",
-      "url": "https://majestic.com",
-      "description": "Backlink intelligence and trust flow analysis."
-    },
-    {
-      "name": "Linkody",
-      "url": "https://www.linkody.com",
-      "description": "Backlink tracking and monitoring tool."
-    }
-  ]
-  
+  {"name":"Moz Link Explorer","url":"https://moz.com/link-explorer","description":"A backlink analysis platform that measures link authority and domain strength."},
+  {"name":"Majestic","url":"https://majestic.com","description":"A link intelligence system that evaluates trust, citation flow, and link networks."},
+  {"name":"Linkody","url":"https://www.linkody.com","description":"A monitoring tool that tracks new and lost backlinks with alerts."},
+
+  {"name":"Ahrefs Backlink Checker","url":"https://ahrefs.com/backlink-checker","description":"Backlink analysis tool showing referring domains and anchor text data."},
+  {"name":"SEMrush Backlink Analytics","url":"https://www.semrush.com/analytics/backlinks/","description":"Comprehensive backlink discovery with competitor comparisons."},
+  {"name":"Ubersuggest Backlinks","url":"https://neilpatel.com/ubersuggest/","description":"Backlink insights with domain authority and referring site metrics."},
+  {"name":"OpenLinkProfiler","url":"https://www.openlinkprofiler.org","description":"Free backlink research tool with live link freshness data."},
+  {"name":"Monitor Backlinks","url":"https://monitorbacklinks.com","description":"Link tracking tool with SEO metrics and alert notifications."},
+  {"name":"Serpstat Backlink Analysis","url":"https://serpstat.com","description":"Backlink discovery and domain comparison engine."},
+  {"name":"CognitiveSEO","url":"https://cognitiveseo.com","description":"Backlink auditing with unnatural link detection."},
+  {"name":"LinkResearchTools","url":"https://www.linkresearchtools.com","description":"Advanced backlink risk and cleanup analysis suite."},
+  {"name":"Kerboo","url":"https://kerboo.com","description":"Backlink auditing and penalty risk assessment platform."},
+  {"name":"SE Ranking Backlink Checker","url":"https://seranking.com","description":"Backlink research with domain trust and anchor analysis."},
+  {"name":"SEO SpyGlass","url":"https://www.link-assistant.com/seo-spyglass/","description":"Desktop backlink analysis software for SEO professionals."},
+  {"name":"BuzzSumo Backlinks","url":"https://buzzsumo.com","description":"Content backlink research to identify top linking pages."},
+  {"name":"RankSignals","url":"https://www.ranksignals.com","description":"Free backlink checker with competitor link insights."},
+  {"name":"Small SEO Tools Backlink Checker","url":"https://smallseotools.com/backlink-checker/","description":"Basic backlink lookup tool for quick domain checks."},
+  {"name":"Backlink Watch","url":"https://www.backlinkwatch.com","description":"Simple backlink viewing tool for websites."},
+  {"name":"SEO Review Tools Backlink Checker","url":"https://www.seoreviewtools.com/backlink-checker/","description":"Free backlink checker with authority scoring."},
+  {"name":"LinkMiner","url":"https://mangools.com/linkminer","description":"Backlink analysis tool with link strength previews."},
+  {"name":"Nightwatch Backlinks","url":"https://nightwatch.io","description":"SEO backlink tracking with domain metrics."},
+  {"name":"Sitechecker Backlinks","url":"https://sitechecker.pro/backlink-checker/","description":"Backlink analysis with spam score detection."},
+  {"name":"Link-Assistant","url":"https://www.link-assistant.com","description":"Backlink building and tracking management software."},
+  {"name":"Disavow Tool (Google)","url":"https://search.google.com/search-console/disavow-links","description":"Google tool to request ignoring harmful backlinks."}
+]

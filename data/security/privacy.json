@@ -1,23 +1,34 @@
 [
-    {
-      "name": "Proton VPN",
-      "url": "https://protonvpn.com/",
-      "description": "Secure VPN with privacy-first policies."
-    },
-    {
-      "name": "Tor Browser",
-      "url": "https://www.torproject.org/",
-      "description": "Anonymous web browsing and privacy protection."
-    },
-    {
-      "name": "DuckDuckGo",
-      "url": "https://duckduckgo.com/",
-      "description": "Privacy-focused search engine without tracking."
-    },
-    {
-      "name": "Brave",
-      "url": "https://brave.com/",
-      "description": "Privacy browser with built-in ad and tracker blocking."
-    }
-  ]
-  
+  {"name":"Proton VPN","url":"https://protonvpn.com/","description":"A privacy-first virtual private network with strong encryption and a no-logs policy."},
+  {"name":"Tor Browser","url":"https://www.torproject.org/","description":"A browser that routes traffic through the Tor network to protect anonymity."},
+  {"name":"DuckDuckGo","url":"https://duckduckgo.com/","description":"A search engine that does not store personal data or track user activity."},
+  {"name":"Brave","url":"https://brave.com/","description":"A secure browser that blocks trackers, ads, and invasive scripts by default."},
+
+  {"name":"Proton Mail","url":"https://proton.me/mail","description":"End-to-end encrypted email service built for privacy and security."},
+  {"name":"Signal","url":"https://signal.org","description":"Encrypted messaging app with open-source security protocols."},
+  {"name":"Tutanota","url":"https://tutanota.com","description":"Secure email platform with built-in end-to-end encryption."},
+  {"name":"Bitwarden","url":"https://bitwarden.com","description":"Open-source password manager with cross-device encryption."},
+  {"name":"KeePass","url":"https://keepass.info","description":"Offline password vault with strong local encryption."},
+  {"name":"KeePassXC","url":"https://keepassxc.org","description":"Cross-platform open-source password manager fork of KeePass."},
+  {"name":"OpenVPN","url":"https://openvpn.net","description":"Open-source VPN protocol and client for secure networking."},
+  {"name":"WireGuard","url":"https://www.wireguard.com","description":"Lightweight VPN protocol designed for high-speed secure connections."},
+  {"name":"NextDNS","url":"https://nextdns.io","description":"Privacy-focused DNS service that blocks trackers and malicious domains."},
+  {"name":"SimpleLogin","url":"https://simplelogin.io","description":"Email aliasing service to protect your real inbox from spam and tracking."},
+  {"name":"Have I Been Pwned","url":"https://haveibeenpwned.com","description":"Breach detection service that checks if your data was exposed online."},
+  {"name":"Privacy Badger","url":"https://privacybadger.org","description":"Browser extension that blocks invisible trackers automatically."},
+  {"name":"uBlock Origin","url":"https://ublockorigin.com","description":"Lightweight ad and tracker blocking extension for secure browsing."},
+  {"name":"NoScript","url":"https://noscript.net","description":"Browser add-on that blocks scripts to prevent malicious code execution."},
+  {"name":"HTTPS Everywhere","url":"https://www.eff.org/https-everywhere","description":"Forces websites to use encrypted HTTPS connections."},
+  {"name":"ClamAV","url":"https://www.clamav.net","description":"Open-source antivirus engine for malware detection."},
+  {"name":"OSSEC","url":"https://www.ossec.net","description":"Open-source host-based intrusion detection system."},
+  {"name":"Snort","url":"https://www.snort.org","description":"Open-source network intrusion prevention system."},
+  {"name":"Wireshark","url":"https://www.wireshark.org","description":"Network traffic analyzer for security inspection and diagnostics."},
+  {"name":"GnuPG","url":"https://gnupg.org","description":"Encryption tool for securing files and communications."},
+  {"name":"VeraCrypt","url":"https://www.veracrypt.fr","description":"Open-source disk encryption software for data protection."},
+  {"name":"BleachBit","url":"https://www.bleachbit.org","description":"Privacy cleaner that removes cache, cookies, and logs securely."},
+  {"name":"OnionShare","url":"https://onionshare.org","description":"Secure file sharing over the Tor network."},
+  {"name":"Session","url":"https://getsession.org","description":"Decentralized private messenger with no phone number required."},
+  {"name":"Librewolf","url":"https://librewolf.net","description":"Hardened Firefox-based browser with privacy defaults."},
+  {"name":"Qubes OS","url":"https://www.qubes-os.org","description":"Security-focused operating system using isolation for protection."},
+  {"name":"Tails OS","url":"https://tails.net","description":"Live operating system that routes all traffic through Tor."}
+]

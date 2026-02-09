@@ -1,6 +1,11 @@
 [
     {"name":"Gmail","url":"https://mail.google.com","description":"Free business email with Google."},
     {"name":"Zoho Mail","url":"https://www.zoho.com/mail/","description":"Ad-free email hosting for teams."},
-    {"name":"Proton Mail","url":"https://proton.me/mail","description":"Encrypted email service."}
+    {"name":"Proton Mail","url":"https://proton.me/mail","description":"Encrypted email service."},
+    {
+      "name": "Mailjet",
+      "url": "https://www.mailjet.com/",
+      "description": "A collaborative email delivery platform designed for marketing and development teams to send and track messages at scale."
+    }
   ]
   

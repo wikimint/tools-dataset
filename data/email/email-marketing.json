@@ -1,6 +1,26 @@
 [
     {"name":"Mailchimp","url":"https://mailchimp.com","description":"Email marketing automation platform."},
     {"name":"Brevo","url":"https://www.brevo.com","description":"Email and SMS campaigns for businesses."},
-    {"name":"Sender","url":"https://www.sender.net","description":"Free email newsletter platform."}
+    {"name":"Sender","url":"https://www.sender.net","description":"Free email newsletter platform."},
+    {
+      "name": "Benchmark",
+      "url": "https://www.benchmarkemail.com/",
+      "description": "An email marketing service for creating responsive campaigns, nurturing subscribers, and measuring engagement results."
+    },
+    {
+      "name": "Zoho Campaigns",
+      "url": "https://www.zoho.com/campaigns/",
+      "description": "An email campaign tool that helps companies reach customers, track performance, and boost sales through targeted messaging."
+    },
+    {
+      "name": "MailerLite",
+      "url": "https://www.mailerlite.com/",
+      "description": "An easy-to-use email marketing and automation solution built for small businesses, creators, and growing brands."
+    },
+    {
+      "name": "VerticalResponse",
+      "url": "https://www.verticalresponse.com/",
+      "description": "A digital marketing platform that lets you create email campaigns, capture leads, and promote content across social channels."
+    }
   ]
   

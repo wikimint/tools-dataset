@@ -18,6 +18,26 @@
       "name": "Close",
       "url": "https://close.com/",
       "description": "CRM built for inside sales teams."
-    }
+    },
+    { "name": "Outreach", "url": "https://www.outreach.io", "description": "Automates sales sequences, follow-ups, and engagement tracking." },
+    { "name": "Salesloft", "url": "https://salesloft.com", "description": "A sales engagement platform for automating communication workflows." },
+    { "name": "Reply.io", "url": "https://reply.io", "description": "Automates outbound email and multi-channel sales campaigns." },
+    { "name": "Yesware", "url": "https://www.yesware.com", "description": "Tracks email engagement and automates follow-ups for sales teams." },
+    { "name": "Groove", "url": "https://www.groove.co", "description": "Sales productivity and engagement automation platform." },
+    { "name": "PersistIQ", "url": "https://www.persistiq.com", "description": "Automates outbound email campaigns with personalization." },
+    { "name": "Woodpecker", "url": "https://woodpecker.co", "description": "Cold email automation tool for sales teams." },
+    { "name": "Autoklose", "url": "https://autoklose.com", "description": "Sales automation for email outreach and lead nurturing." },
+    { "name": "Lemlist", "url": "https://lemlist.com", "description": "Personalized cold email automation platform." },
+    { "name": "Close Autopilot", "url": "https://close.com", "description": "Workflow automation built into the Close CRM." },
+    { "name": "HubSpot Sales Hub", "url": "https://www.hubspot.com/products/sales", "description": "Sales automation with pipelines, sequences, and analytics." },
+    { "name": "ActiveCampaign", "url": "https://www.activecampaign.com", "description": "Automates sales and marketing journeys with CRM integration." },
+    { "name": "PandaDoc", "url": "https://www.pandadoc.com", "description": "Automates proposals, contracts, and e-signatures." },
+    { "name": "DocuSign", "url": "https://www.docusign.com", "description": "Automates agreement workflows and approvals." },
+    { "name": "Chili Piper", "url": "https://www.chilipiper.com", "description": "Automates lead routing and meeting scheduling." },
+    { "name": "Calendly", "url": "https://calendly.com", "description": "Automated meeting scheduling for sales teams." },
+    { "name": "Zapier", "url": "https://zapier.com", "description": "Automates workflows between sales and marketing tools." },
+    { "name": "Make", "url": "https://www.make.com", "description": "Visual automation platform for sales operations." },
+    { "name": "IFTTT", "url": "https://ifttt.com", "description": "Simple automation between apps and services." },
+    { "name": "Tray.io", "url": "https://tray.io", "description": "Enterprise workflow automation for sales systems." }
   ]
   

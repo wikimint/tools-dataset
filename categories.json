@@ -7,7 +7,7 @@
   {
     "slug": "analytics",
     "name": "Analytics",
-    "count": 11
+    "count": 26
   },
   {
     "slug": "automation",
@@ -27,7 +27,7 @@
   {
     "slug": "crm-sales",
     "name": "CRM Sales",
-    "count": 12
+    "count": 77
   },
   {
     "slug": "design-ui",
@@ -47,7 +47,7 @@
   {
     "slug": "email",
     "name": "Email",
-    "count": 8
+    "count": 15
   },
   {
     "slug": "finance",
@@ -82,21 +82,21 @@
   {
     "slug": "research-data",
     "name": "Research Data",
-    "count": 3
+    "count": 82
   },
   {
     "slug": "security",
     "name": "Security",
-    "count": 12
+    "count": 76
   },
   {
     "slug": "seo",
     "name": "SEO",
-    "count": 15
+    "count": 171
   },
   {
     "slug": "support",
     "name": "Support",
-    "count": 3
+    "count": 85
   }
 ]

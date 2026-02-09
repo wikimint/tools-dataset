@@ -13,6 +13,31 @@
       "name": "Matomo",
       "url": "https://matomo.org",
       "description": "Self-hosted analytics platform with data ownership."
+    },
+    {
+      "name": "Open Web Analytics",
+      "url": "http://www.openwebanalytics.com/",
+      "description": "An open-source analytics framework for tracking and analyzing website and application usage."
+    },
+    {
+      "name": "Matomo",
+      "url": "https://matomo.org/",
+      "description": "An open-source web analytics tool that gives full data ownership and detailed insights into website visitors."
+    },
+    {
+      "name": "Clicky",
+      "url": "https://clicky.com",
+      "description": "A real-time website analytics service that tracks visitor activity and engagement as it happens."
+    },
+    {
+      "name": "Fathom Analytics",
+      "url": "https://usefathom.com/",
+      "description": "A privacy-first website analytics platform that provides simple, meaningful traffic insights without tracking personal data."
+    },
+    {
+      "name": "Mixpanel",
+      "url": "https://mixpanel.com/",
+      "description": "A product analytics tool that reveals how users interact with apps and websites so teams can make data-driven decisions."
     }
   ]
   

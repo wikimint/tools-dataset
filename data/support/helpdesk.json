@@ -1,4 +1,32 @@
 [
-    {"name":"Freshdesk","url":"https://freshdesk.com","description":"Customer support platform."}
-  ]
-  
+  {"name":"Freshdesk","url":"https://freshdesk.com","description":"A cloud-based customer support system for managing tickets, agents, and service workflows."},
+  {"name":"Zendesk","url":"https://www.zendesk.com","description":"A customer service platform for handling support requests across multiple channels."},
+  {"name":"Zoho Desk","url":"https://www.zoho.com/desk/","description":"A helpdesk solution for managing customer tickets, SLAs, and support automation."},
+  {"name":"Help Scout","url":"https://www.helpscout.com","description":"A shared inbox and helpdesk system designed for customer-first support teams."},
+  {"name":"HappyFox","url":"https://www.happyfox.com","description":"A ticket management platform with automation, reporting, and self-service tools."},
+  {"name":"Kayako","url":"https://www.kayako.com","description":"A customer service platform that unifies email, chat, and social support."},
+  {"name":"Jira Service Management","url":"https://www.atlassian.com/software/jira/service-management","description":"An IT and customer support platform built for fast issue resolution."},
+  {"name":"Spiceworks Help Desk","url":"https://www.spiceworks.com/free-help-desk-software/","description":"A free helpdesk system for IT teams to track tickets and assets."},
+  {"name":"osTicket","url":"https://osticket.com","description":"An open-source ticketing system for customer and IT support teams."},
+  {"name":"Zammad","url":"https://zammad.org","description":"An open-source helpdesk and ticketing platform with multi-channel support."},
+  {"name":"UVdesk","url":"https://www.uvdesk.com","description":"An open-source helpdesk solution for managing customer service tickets."},
+  {"name":"Hesk","url":"https://www.hesk.com","description":"A simple helpdesk ticketing system for small businesses."},
+  {"name":"Request Tracker","url":"https://bestpractical.com/rt","description":"An open-source ticket tracking system for IT and customer support."},
+  {"name":"GLPI","url":"https://glpi-project.org","description":"An open-source IT service management and helpdesk platform."},
+  {"name":"MantisBT","url":"https://www.mantisbt.org","description":"An open-source issue and ticket tracking system."},
+  {"name":"Redmine","url":"https://www.redmine.org","description":"A project and issue tracking system often used as a helpdesk."},
+  {"name":"Trengo","url":"https://trengo.com","description":"A shared inbox for managing customer communication and support tickets."},
+  {"name":"Front","url":"https://front.com","description":"A collaborative inbox for customer support and communication teams."},
+  {"name":"Freshservice","url":"https://www.freshworks.com/freshservice/","description":"An IT service management and support desk platform."},
+  {"name":"SysAid","url":"https://www.sysaid.com","description":"An IT helpdesk software for ticket management and asset tracking."},
+  {"name":"Deskero","url":"https://www.deskero.com","description":"A multi-channel helpdesk platform for customer support teams."},
+  {"name":"LiveAgent","url":"https://www.liveagent.com","description":"An all-in-one helpdesk system with live chat, tickets, and call center features."},
+  {"name":"SupportPal","url":"https://www.supportpal.com","description":"A self-hosted helpdesk and ticket management platform."},
+  {"name":"Vision Helpdesk","url":"https://www.visionhelpdesk.com","description":"A customer service and service desk software for multi-channel support."},
+  {"name":"C-Desk","url":"https://www.c-desk.com","description":"A cloud-based customer support ticketing system."},
+  {"name":"Ticksy","url":"https://ticksy.com","description":"A simple helpdesk ticketing platform for small businesses."},
+  {"name":"HelpDeskZ","url":"https://www.helpdeskz.com","description":"A free open-source helpdesk ticketing system."},
+  {"name":"FreeScout","url":"https://freescout.net","description":"An open-source helpdesk and shared inbox alternative to Help Scout."},
+  {"name":"Peppermint","url":"https://peppermint.sh","description":"A self-hosted open-source ticket management system."},
+  {"name":"Chatwoot","url":"https://www.chatwoot.com","description":"An open-source customer engagement platform with helpdesk features."}
+]

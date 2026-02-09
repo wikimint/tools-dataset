@@ -1,18 +1,40 @@
 [
-    {
-      "name": "SERPWatcher",
-      "url": "https://mangools.com/serpwatcher",
-      "description": "Track keyword rankings across devices."
-    },
-    {
-      "name": "AccuRanker",
-      "url": "https://www.accuranker.com",
-      "description": "Fast and accurate rank tracking software."
-    },
-    {
-      "name": "WhatsMySERP",
-      "url": "https://whatsmyserp.com",
-      "description": "Free keyword rank checker tool."
-    }
-  ]
-  
+  {"name":"SERPWatcher","url":"https://mangools.com/serpwatcher","description":"A keyword position monitoring tool that tracks rankings across locations and devices."},
+  {"name":"AccuRanker","url":"https://www.accuranker.com","description":"A high-speed rank tracking platform with daily updates and advanced filtering."},
+  {"name":"WhatsMySERP","url":"https://whatsmyserp.com","description":"A free online tool for checking keyword positions in Google search results."},
+
+  {"name":"Ahrefs Rank Tracker","url":"https://ahrefs.com/rank-tracker","description":"Tracks keyword positions and visibility using live search data."},
+  {"name":"SEMrush Position Tracking","url":"https://www.semrush.com/position-tracking/","description":"Monitors keyword movements and competitor rankings."},
+  {"name":"Moz Rank Tracker","url":"https://moz.com/products/pro/rank-tracking","description":"Keyword ranking and SERP feature monitoring tool."},
+  {"name":"Serpstat Rank Tracker","url":"https://serpstat.com/rank-tracker/","description":"Tracks search engine keyword positions and visibility trends."},
+  {"name":"Ubersuggest Rank Tracking","url":"https://neilpatel.com/ubersuggest/","description":"Monitors keyword rankings and SEO performance."},
+  {"name":"SE Ranking","url":"https://seranking.com","description":"All-in-one SEO platform with accurate rank tracking."},
+  {"name":"Wincher","url":"https://www.wincher.com","description":"Simple keyword rank tracker with daily updates."},
+  {"name":"Nightwatch","url":"https://nightwatch.io","description":"Enterprise-grade rank tracking with location and device filters."},
+  {"name":"ProRankTracker","url":"https://www.proranktracker.com","description":"Real-time rank tracking with white-label reports."},
+  {"name":"RankTracker by SEO PowerSuite","url":"https://www.seopowersuite.com/rank-tracker/","description":"Desktop software for keyword ranking analysis."},
+  {"name":"Advanced Web Ranking","url":"https://www.advancedwebranking.com","description":"Enterprise rank tracking and SEO reporting solution."},
+  {"name":"AuthorityLabs","url":"https://authoritylabs.com","description":"Local and global rank tracking with SERP history."},
+  {"name":"Nozzle","url":"https://nozzle.io","description":"High-frequency enterprise SERP tracking and analysis."},
+  {"name":"TrueRanker","url":"https://www.trueranker.com","description":"Simple keyword ranking tool with clean reports."},
+  {"name":"SerpFox","url":"https://serpfox.com","description":"Affordable rank tracking for websites and agencies."},
+  {"name":"RankTracker.io","url":"https://ranktracker.io","description":"Cloud-based keyword tracking platform."},
+  {"name":"TinyRanker","url":"https://tinyranker.com","description":"Keyword rank tracking with competitor monitoring."},
+  {"name":"TrackMyRank","url":"https://trackmyrank.com","description":"Daily keyword rank monitoring tool."},
+  {"name":"GeoRanker","url":"https://www.georanker.com","description":"Location-based SERP tracking and analysis."},
+  {"name":"SerpApi","url":"https://serpapi.com","description":"Real-time SERP data API for rank monitoring."},
+  {"name":"Keyword.com","url":"https://keyword.com","description":"Professional rank tracking for SEO agencies."},
+  {"name":"Rankz","url":"https://rankz.io","description":"Simple and fast keyword rank tracking tool."},
+  {"name":"Rankinity","url":"https://rankinity.com","description":"Unlimited keyword rank tracking software."},
+  {"name":"SERP Robot","url":"https://serprobot.com","description":"Free and premium keyword rank checker."},
+  {"name":"SEO Tester Online Rank Tracker","url":"https://www.seotesteronline.com/rank-checker/","description":"Keyword position tracking tool with SEO reports."},
+  {"name":"Microsite Masters","url":"https://www.micrositemasters.com","description":"SEO tracking platform with rank monitoring features."},
+  {"name":"RankTrackerz","url":"https://www.ranktrackerz.com","description":"Rank tracking and backlink monitoring solution."},
+  {"name":"Topvisor","url":"https://topvisor.com","description":"Search ranking analytics with regional tracking."},
+  {"name":"Morningscore","url":"https://morningscore.io","description":"Gamified SEO rank and performance tracking."},
+  {"name":"SEOmonitor","url":"https://www.seomonitor.com","description":"Forecast-based keyword ranking and performance tracking."},
+  {"name":"SEObase","url":"https://seobase.com","description":"Automated rank tracking and SEO monitoring tool."},
+  {"name":"SERanking API","url":"https://seranking.com/api/","description":"Programmatic keyword ranking data access."},
+  {"name":"RankWatch","url":"https://www.rankwatch.com","description":"Keyword rank monitoring and SERP analysis tool."},
+  {"name":"Seomator Rank Tracker","url":"https://seomator.com","description":"Automated rank tracking with site auditing."}
+]
