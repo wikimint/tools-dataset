@@ -16,8 +16,7 @@ This repository exists for:
 - Research & educational reuse
 
 ## How Wikimint Uses This Data
-This repo is automatically consumed by the Wikimint Astro website
-during build time to generate category pages.
+This repo is automatically consumed by the Wikimint website tools directory during build time to generate category pages.
 
 No runtime API calls. Fully static.
 
