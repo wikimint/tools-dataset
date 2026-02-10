@@ -1,23 +1,28 @@
 [
-    {
-      "name": "Wave",
-      "url": "https://www.waveapps.com/",
-      "description": "Free accounting and invoicing software for small businesses."
-    },
-    {
-      "name": "GnuCash",
-      "url": "https://www.gnucash.org/",
-      "description": "Open-source accounting software for individuals and SMEs."
-    },
-    {
-      "name": "Odoo Accounting",
-      "url": "https://www.odoo.com/page/accounting",
-      "description": "Accounting module for invoices, expenses, and reporting."
-    },
-    {
-      "name": "Manager.io",
-      "url": "https://www.manager.io/",
-      "description": "Free desktop accounting software for businesses."
-    }
-  ]
-  
+  {"name":"Wave","url":"https://www.waveapps.com/","description":"Cloud-based accounting and invoicing platform designed for small businesses."},
+  {"name":"GnuCash","url":"https://www.gnucash.org/","description":"Open-source double-entry accounting software for personal and business use."},
+  {"name":"Odoo Accounting","url":"https://www.odoo.com/page/accounting","description":"Accounting module for managing invoices, expenses, taxes, and financial reports."},
+  {"name":"Manager.io","url":"https://www.manager.io/","description":"Offline-first accounting software with full business features at no cost."},
+
+  {"name":"ZipBooks Free","url":"https://zipbooks.com","description":"Simple cloud accounting tool with invoicing and basic financial reports."},
+  {"name":"Akaunting","url":"https://akaunting.com","description":"Open-source online accounting software for small companies."},
+  {"name":"Dolibarr","url":"https://www.dolibarr.org","description":"Open-source ERP and accounting system for SMEs."},
+  {"name":"ERPNext","url":"https://erpnext.com","description":"Free open-source ERP with integrated accounting features."},
+  {"name":"FrontAccounting","url":"https://frontaccounting.com","description":"Web-based accounting system for small businesses."},
+  {"name":"LedgerSMB","url":"https://ledgersmb.org","description":"Open-source accounting and ERP application."},
+  {"name":"TurboCASH","url":"https://www.turbocash.net","description":"Free accounting software for small enterprises."},
+  {"name":"Invoice Ninja","url":"https://www.invoiceninja.com","description":"Open-source invoicing and expense tracking platform."},
+  {"name":"PhreeBooks","url":"https://www.phreebooks.com","description":"Open-source accounting and business management system."},
+  {"name":"iDempiere","url":"https://www.idempiere.org","description":"Open-source ERP and accounting suite for enterprises."},
+  {"name":"Tryton","url":"https://www.tryton.org","description":"Modular open-source business and accounting platform."},
+  {"name":"Skrooge Accounting","url":"https://skrooge.org","description":"Personal finance and accounting tool for desktop users."},
+  {"name":"Lazy8 Ledger","url":"https://www.lazy8ledger.com","description":"Simple small business accounting software."},
+  {"name":"NolaPro","url":"https://www.nolapro.com","description":"Free accounting, payroll, and inventory system."},
+  {"name":"LedgerLite","url":"https://ledgerlite.com","description":"Lightweight accounting tool for tracking business finances."},
+  {"name":"Simple Accounting Ledger","url":"https://www.sourceforge.net/projects/simple-accounting/","description":"Open-source accounting ledger for basic bookkeeping."},
+  {"name":"Banana Accounting Free","url":"https://www.banana.ch","description":"Spreadsheet-style accounting for small businesses."},
+  {"name":"KMyMoney Business","url":"https://kmymoney.org","description":"Open-source finance manager with accounting features."},
+  {"name":"CashManager","url":"https://www.cashmanager.com","description":"Basic online accounting for small enterprises."},
+  {"name":"Pacioli","url":"https://pacioli.sourceforge.net","description":"Free accounting system for small organizations."},
+  {"name":"SlickPie (Legacy)","url":"https://www.slickpie.com","description":"Former free accounting tool with invoicing and expenses."}
+]

@@ -1,11 +1,29 @@
 [
-    {"name":"Gmail","url":"https://mail.google.com","description":"Free business email with Google."},
-    {"name":"Zoho Mail","url":"https://www.zoho.com/mail/","description":"Ad-free email hosting for teams."},
-    {"name":"Proton Mail","url":"https://proton.me/mail","description":"Encrypted email service."},
-    {
-      "name": "Mailjet",
-      "url": "https://www.mailjet.com/",
-      "description": "A collaborative email delivery platform designed for marketing and development teams to send and track messages at scale."
-    }
-  ]
-  
+  {"name":"Gmail","url":"https://mail.google.com","description":"Cloud-based email service with team collaboration and spam protection."},
+  {"name":"Zoho Mail","url":"https://www.zoho.com/mail/","description":"Business email hosting with no ads and built-in team features."},
+  {"name":"Proton Mail","url":"https://proton.me/mail","description":"End-to-end encrypted email platform focused on privacy."},
+  {"name":"Mailjet","url":"https://www.mailjet.com/","description":"Team-friendly email sending platform with templates, analytics, and APIs."},
+
+  {"name":"Outlook.com","url":"https://outlook.live.com","description":"Free email service with calendar, tasks, and Microsoft app integration."},
+  {"name":"Tutanota","url":"https://tutanota.com","description":"Encrypted email provider with open-source apps."},
+  {"name":"GMX Mail","url":"https://www.gmx.com","description":"Free email hosting with large storage and spam filters."},
+  {"name":"Yandex Mail","url":"https://mail.yandex.com","description":"Free email service with built-in productivity tools."},
+  {"name":"Fastmail Trial","url":"https://www.fastmail.com","description":"Secure and ad-free email hosting with a free trial tier."},
+  {"name":"Posteo","url":"https://posteo.de","description":"Privacy-first email provider with encryption support."},
+  {"name":"Mailfence","url":"https://mailfence.com","description":"Secure email suite with digital signatures and encryption."},
+  {"name":"Zimbra Community","url":"https://www.zimbra.com","description":"Open-source email and collaboration server."},
+  {"name":"Roundcube","url":"https://roundcube.net","description":"Open-source webmail client for IMAP servers."},
+  {"name":"RainLoop","url":"https://www.rainloop.net","description":"Lightweight open-source webmail client."},
+  {"name":"Horde Webmail","url":"https://www.horde.org","description":"Open-source webmail and collaboration framework."},
+  {"name":"Mailcow","url":"https://mailcow.email","description":"Self-hosted email server suite for teams."},
+  {"name":"iRedMail","url":"https://www.iredmail.org","description":"Open-source mail server solution for Linux."},
+  {"name":"Mail-in-a-Box","url":"https://mailinabox.email","description":"Turn a server into a fully working mail system."},
+  {"name":"Disroot Mail","url":"https://disroot.org","description":"Community-powered encrypted email service."},
+  {"name":"Kolab Community","url":"https://kolab.org","description":"Open-source groupware and email collaboration suite."},
+  {"name":"Cmail","url":"https://www.cm.com","description":"Team email and communication tools with APIs."},
+  {"name":"Infomaniak Mail","url":"https://www.infomaniak.com/en/free-email","description":"Free secure email with generous storage and no ads."},
+  {"name":"Skiff Mail","url":"https://skiff.com","description":"Privacy-first collaborative email and workspace platform."},
+  {"name":"Migadu Free","url":"https://www.migadu.com","description":"Email hosting with flexible domain support and fair usage."},
+  {"name":"Mailtrap Free","url":"https://mailtrap.io","description":"Email testing inbox for development teams."},
+  {"name":"EtherMail","url":"https://ethermail.io","description":"Blockchain-based email system for Web3 teams."}
+]

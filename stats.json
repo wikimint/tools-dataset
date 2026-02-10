@@ -1,5 +1,5 @@
 {
-  "totalTools": 651,
+  "totalTools": 1257,
   "categories": {
     "ai-ml": 15,
     "analytics": 26,
@@ -9,19 +9,19 @@
     "crm-sales": 77,
     "design-ui": 12,
     "dev-apis": 12,
-    "ecommerce": 6,
-    "email": 15,
-    "finance": 12,
-    "hosting": 10,
-    "hr-ops": 3,
-    "legal": 3,
-    "marketing": 15,
-    "productivity": 12,
+    "ecommerce": 79,
+    "email": 82,
+    "finance": 83,
+    "hosting": 60,
+    "hr-ops": 67,
+    "legal": 72,
+    "marketing": 178,
+    "productivity": 61,
     "research-data": 82,
     "security": 76,
     "seo": 171,
     "support": 85
   },
-  "generatedAt": "2026-02-09T18:13:11.474Z",
-  "versionHash": "da12560252b3c9e05cfd016b82f4c369b721b17215e06baec906a9aea33b4bc1"
+  "generatedAt": "2026-02-10T15:42:02.163Z",
+  "versionHash": "761c7d1ff7457b2e572b2064c8fae5928055aa0ad9314d923fb540f9348497a3"
 }

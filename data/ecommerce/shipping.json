@@ -1,5 +1,30 @@
 [
-    {"name":"Shiprocket","url":"https://www.shiprocket.in","description":"Shipping management software."},
-    {"name":"Easyship","url":"https://www.easyship.com","description":"International shipping platform."}
-  ]
-  
+  {"name":"Shiprocket","url":"https://www.shiprocket.in","description":"Shipping and logistics management platform for ecommerce sellers."},
+  {"name":"Easyship","url":"https://www.easyship.com","description":"Cross-border shipping platform with courier comparisons and automation."},
+
+  {"name":"Shippo","url":"https://goshippo.com","description":"Multi-carrier shipping software with labels, tracking, and rate comparisons."},
+  {"name":"Pirate Ship","url":"https://www.pirateship.com","description":"Free shipping software offering discounted USPS and UPS labels."},
+  {"name":"AfterShip","url":"https://www.aftership.com","description":"Shipment tracking and delivery notifications for online stores."},
+  {"name":"ShipStation Free Trial","url":"https://www.shipstation.com","description":"Order and shipping management with carrier integrations."},
+  {"name":"Ordoro","url":"https://www.ordoro.com","description":"Inventory and shipping automation for ecommerce businesses."},
+  {"name":"Sendcloud","url":"https://www.sendcloud.com","description":"European shipping automation and return management platform."},
+  {"name":"ShipBob","url":"https://www.shipbob.com","description":"Fulfillment and shipping services for ecommerce brands."},
+  {"name":"EasyPost","url":"https://www.easypost.com","description":"Shipping API for labels, tracking, and address validation."},
+  {"name":"ShipEngine","url":"https://www.shipengine.com","description":"Multi-carrier shipping API with real-time rates."},
+  {"name":"ClickPost","url":"https://www.clickpost.ai","description":"Logistics intelligence and courier management software."},
+  {"name":"ShipHero","url":"https://shiphero.com","description":"Warehouse management and shipping software for ecommerce."},
+  {"name":"Zonos","url":"https://zonos.com","description":"Cross-border duties, taxes, and shipping cost calculator."},
+  {"name":"Parcel Perform","url":"https://www.parcelperform.com","description":"Global shipment tracking and logistics analytics."},
+  {"name":"ShipBlink","url":"https://shipblink.com","description":"Shipping management platform for mid-sized sellers."},
+  {"name":"EasyReturn","url":"https://easyreturns.com","description":"Returns automation platform for ecommerce stores."},
+  {"name":"Postmen","url":"https://postmen.com","description":"Shipping API with global courier integrations."},
+  {"name":"Shipway","url":"https://www.shipway.com","description":"Shipment tracking and NDR management for online sellers."},
+  {"name":"Pickrr","url":"https://www.pickrr.com","description":"Courier aggregation and shipping automation platform."},
+  {"name":"Delhivery","url":"https://www.delhivery.com","description":"End-to-end logistics and parcel delivery platform."},
+  {"name":"Locus","url":"https://locus.sh","description":"Logistics optimization and delivery route planning software."},
+  {"name":"Shipwell","url":"https://shipwell.com","description":"Transportation management system for freight shipping."},
+  {"name":"Sendle","url":"https://www.sendle.com","description":"Carbon-neutral shipping service for small businesses."},
+  {"name":"Shiprocket Fulfillment","url":"https://www.shiprocket.in/fulfillment","description":"Warehousing and fulfillment solution for ecommerce brands."},
+  {"name":"Shipyaari","url":"https://www.shipyaari.com","description":"Courier aggregation and shipping automation for India."},
+  {"name":"Qikink","url":"https://qikink.com","description":"Print-on-demand fulfillment and shipping service."}
+]

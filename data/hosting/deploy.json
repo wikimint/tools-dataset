@@ -1,6 +1,33 @@
 [
-    {"name":"Railway","url":"https://railway.app","description":"Deploy apps and databases quickly."},
-    {"name":"Render","url":"https://render.com","description":"Cloud hosting for apps and APIs."},
-    {"name":"Fly.io","url":"https://fly.io","description":"Global app deployment platform."}
-  ]
-  
+  {"name":"Railway","url":"https://railway.app","description":"Deploy apps, databases, and services with a free tier."},
+  {"name":"Render","url":"https://render.com","description":"Cloud hosting for web apps, APIs, and static sites."},
+  {"name":"Fly.io","url":"https://fly.io","description":"Global app deployment platform with edge regions."},
+
+  {"name":"Vercel","url":"https://vercel.com","description":"Frontend and serverless deployment with generous free tier."},
+  {"name":"Netlify","url":"https://www.netlify.com","description":"Static and JAMstack deployment with CI/CD and serverless functions."},
+  {"name":"Cloudflare Pages","url":"https://pages.cloudflare.com","description":"Static and full-stack app hosting at the edge."},
+  {"name":"Cloudflare Workers","url":"https://workers.cloudflare.com","description":"Serverless compute platform with global edge runtime."},
+  {"name":"Firebase Hosting","url":"https://firebase.google.com/products/hosting","description":"Fast hosting for web apps with free Spark plan."},
+  {"name":"Supabase","url":"https://supabase.com","description":"Backend as a service with Postgres, auth, and edge functions."},
+  {"name":"Deno Deploy","url":"https://deno.com/deploy","description":"Edge-first serverless runtime with free tier."},
+  {"name":"Koyeb","url":"https://www.koyeb.com","description":"Global serverless app hosting with free services."},
+  {"name":"Glitch","url":"https://glitch.com","description":"Instant app hosting and remixing in the browser."},
+  {"name":"Replit Deployments","url":"https://replit.com","description":"Run and deploy apps directly from the browser."},
+  {"name":"Cyclic","url":"https://www.cyclic.sh","description":"Serverless deployment for Node.js with free tier."},
+  {"name":"Qovery","url":"https://www.qovery.com","description":"Deploy container apps on AWS/GCP/Azure easily."},
+  {"name":"Northflank","url":"https://northflank.com","description":"Self-service deployment for microservices and databases."},
+  {"name":"Appwrite Cloud","url":"https://cloud.appwrite.io","description":"Backend platform for web and mobile apps."},
+  {"name":"Heroku (Open Source + Free via 3rd party)","url":"https://www.heroku.com","description":"PaaS hosting using free community alternatives."},
+  {"name":"OpenFaaS","url":"https://www.openfaas.com","description":"Open-source serverless framework for containers."},
+  {"name":"Dokku","url":"https://dokku.com","description":"Open-source PaaS on your own server."},
+  {"name":"CapRover","url":"https://caprover.com","description":"Self-hosted app deployment like Heroku."},
+  {"name":"Coolify","url":"https://coolify.io","description":"Open-source self-hosted deployment platform."},
+  {"name":"Buddy (Free tier)","url":"https://buddy.works","description":"CI/CD automation and deployment pipelines."},
+  {"name":"GitHub Pages","url":"https://pages.github.com","description":"Free static website hosting from GitHub repos."},
+  {"name":"GitLab Pages","url":"https://docs.gitlab.com/ee/user/project/pages/","description":"Static site hosting with GitLab CI."},
+  {"name":"SourceHut Pages","url":"https://sr.ht","description":"Minimalist developer hosting and deployment tools."},
+  {"name":"Surge","url":"https://surge.sh","description":"Static site deployment from the command line."},
+  {"name":"Stormkit","url":"https://stormkit.io","description":"Frontend deployment platform with free tier."},
+  {"name":"StackBlitz WebContainers","url":"https://stackblitz.com","description":"In-browser Node.js deployment environment."},
+  {"name":"VPS + Docker (Self-host)","url":"https://www.docker.com","description":"Deploy anything on your own server using Docker."}
+]

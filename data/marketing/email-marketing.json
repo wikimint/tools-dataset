@@ -1,18 +1,40 @@
 [
-    {
-      "name": "Mailchimp",
-      "url": "https://mailchimp.com",
-      "description": "Email marketing automation and campaign management."
-    },
-    {
-      "name": "Brevo",
-      "url": "https://www.brevo.com",
-      "description": "Email, SMS, and marketing automation platform."
-    },
-    {
-      "name": "Sender",
-      "url": "https://www.sender.net",
-      "description": "Free email marketing tool for small businesses."
-    }
-  ]
-  
+  {"name":"Mailchimp","url":"https://mailchimp.com","description":"Email campaign creation, automation, and audience management platform."},
+  {"name":"Brevo","url":"https://www.brevo.com","description":"Multi-channel marketing system for email, SMS, and automation workflows."},
+  {"name":"Sender","url":"https://www.sender.net","description":"Free email marketing service with automation and analytics for small teams."},
+
+  {"name":"Mailjet","url":"https://www.mailjet.com","description":"Cloud-based email delivery for marketing and transactional messages."},
+  {"name":"SendPulse","url":"https://sendpulse.com","description":"All-in-one messaging platform for email, SMS, push, and chatbots."},
+  {"name":"Benchmark","url":"https://www.benchmarkemail.com","description":"Drag-and-drop email builder with campaign tracking tools."},
+  {"name":"Zoho Campaigns","url":"https://www.zoho.com/campaigns/","description":"Email marketing software with automation and CRM integrations."},
+  {"name":"MailerLite","url":"https://www.mailerlite.com","description":"Email automation platform for creators and small businesses."},
+  {"name":"VerticalResponse","url":"https://www.verticalresponse.com","description":"Email marketing with landing pages and social promotions."},
+  {"name":"GetResponse","url":"https://www.getresponse.com","description":"Email marketing, automation, and funnel-building platform."},
+  {"name":"AWeber","url":"https://www.aweber.com","description":"Email newsletters and autoresponders for entrepreneurs."},
+  {"name":"Moosend","url":"https://moosend.com","description":"Marketing automation and email campaign management system."},
+  {"name":"ConvertKit","url":"https://convertkit.com","description":"Creator-focused email marketing and automation tool."},
+  {"name":"SendGrid","url":"https://sendgrid.com","description":"Email API and marketing campaigns for developers and businesses."},
+  {"name":"Postmark","url":"https://postmarkapp.com","description":"Transactional email delivery with high deliverability."},
+  {"name":"Elastic Email","url":"https://elasticemail.com","description":"Bulk email sending and marketing automation platform."},
+  {"name":"Mailgun","url":"https://www.mailgun.com","description":"Email delivery service with APIs and analytics."},
+  {"name":"Amazon SES","url":"https://aws.amazon.com/ses/","description":"Scalable cloud email sending service."},
+  {"name":"Campaign Monitor","url":"https://www.campaignmonitor.com","description":"Email marketing with branded templates and analytics."},
+  {"name":"Drip","url":"https://www.drip.com","description":"Ecommerce email marketing automation platform."},
+  {"name":"ActiveCampaign","url":"https://www.activecampaign.com","description":"Customer experience automation with email and CRM tools."},
+  {"name":"Omnisend","url":"https://www.omnisend.com","description":"Email and SMS marketing for ecommerce brands."},
+  {"name":"Sendy","url":"https://sendy.co","description":"Self-hosted email newsletter application."},
+  {"name":"Listmonk","url":"https://listmonk.app","description":"Open-source, self-hosted mailing list manager."},
+  {"name":"Mautic","url":"https://www.mautic.org","description":"Open-source marketing automation and email campaigns."},
+  {"name":"phpList","url":"https://www.phplist.org","description":"Open-source email newsletter manager."},
+  {"name":"Buttondown","url":"https://buttondown.email","description":"Minimal email newsletter tool for writers."},
+  {"name":"TinyLetter","url":"https://tinyletter.com","description":"Simple email newsletter service for creators."},
+  {"name":"Substack","url":"https://substack.com","description":"Newsletter publishing and monetization platform."},
+  {"name":"Revue","url":"https://www.getrevue.co","description":"Editorial newsletter platform by Twitter."},
+  {"name":"Beehiiv","url":"https://www.beehiiv.com","description":"Modern newsletter growth and monetization platform."},
+  {"name":"SendFox","url":"https://sendfox.com","description":"Affordable email marketing for content creators."},
+  {"name":"MailerSend","url":"https://www.mailersend.com","description":"Transactional and marketing email delivery service."},
+  {"name":"GMass","url":"https://www.gmass.co","description":"Gmail-based email outreach and campaign tool."},
+  {"name":"YAMM","url":"https://yamm.com","description":"Mail merge and email tracking for Gmail users."},
+  {"name":"HubSpot Email","url":"https://www.hubspot.com/products/email","description":"Free email marketing tool integrated with HubSpot CRM."},
+  {"name":"Systeme.io","url":"https://systeme.io","description":"Email marketing and sales funnel builder."}
+]

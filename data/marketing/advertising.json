@@ -1,18 +1,38 @@
 [
-    {
-      "name": "Google Ads",
-      "url": "https://ads.google.com",
-      "description": "Online advertising platform for search and display ads."
-    },
-    {
-      "name": "Meta Ads Manager",
-      "url": "https://www.facebook.com/business/tools/ads-manager",
-      "description": "Ad management platform for Facebook and Instagram."
-    },
-    {
-      "name": "AdEspresso",
-      "url": "https://adespresso.com",
-      "description": "Ad optimization and reporting for social media campaigns."
-    }
-  ]
-  
+  {"name":"Google Ads","url":"https://ads.google.com","description":"Paid advertising network for search, display, video, and shopping campaigns."},
+  {"name":"Meta Ads Manager","url":"https://www.facebook.com/business/tools/ads-manager","description":"Campaign creation and performance tracking for Facebook and Instagram ads."},
+  {"name":"AdEspresso","url":"https://adespresso.com","description":"Ad testing, optimization, and reporting for paid social campaigns."},
+
+  {"name":"Microsoft Advertising","url":"https://ads.microsoft.com","description":"Search and display advertising across Bing, Yahoo, and partner networks."},
+  {"name":"TikTok Ads Manager","url":"https://ads.tiktok.com","description":"Self-serve advertising platform for TikTok campaigns."},
+  {"name":"LinkedIn Campaign Manager","url":"https://www.linkedin.com/marketing-solutions/ads","description":"B2B advertising platform for LinkedIn audiences."},
+  {"name":"Twitter Ads","url":"https://ads.twitter.com","description":"Promoted tweets and brand awareness campaigns on X."},
+  {"name":"Pinterest Ads","url":"https://ads.pinterest.com","description":"Visual discovery advertising for product and brand promotion."},
+  {"name":"Snapchat Ads","url":"https://forbusiness.snapchat.com","description":"Story and video ad platform for Snapchat audiences."},
+  {"name":"Reddit Ads","url":"https://www.redditinc.com/advertising","description":"Community-based advertising across subreddit networks."},
+  {"name":"Quora Ads","url":"https://www.quora.com/business/ads","description":"Contextual ads shown next to high-intent questions."},
+  {"name":"Taboola","url":"https://www.taboola.com","description":"Native advertising network for content discovery."},
+  {"name":"Outbrain","url":"https://www.outbrain.com","description":"Content recommendation and native ad platform."},
+  {"name":"PropellerAds","url":"https://propellerads.com","description":"Global display and push notification advertising network."},
+  {"name":"AdRoll","url":"https://www.adroll.com","description":"Retargeting and display advertising platform."},
+  {"name":"Criteo","url":"https://www.criteo.com","description":"Commerce media and retargeting ad platform."},
+  {"name":"Media.net","url":"https://www.media.net","description":"Contextual display ad network powered by Yahoo and Bing."},
+  {"name":"BuySellAds","url":"https://www.buysellads.com","description":"Direct ad marketplace for publishers and brands."},
+  {"name":"Revcontent","url":"https://www.revcontent.com","description":"Native advertising and content distribution network."},
+  {"name":"MGID","url":"https://www.mgid.com","description":"Native advertising platform for performance campaigns."},
+  {"name":"Adsterra","url":"https://adsterra.com","description":"Display and mobile advertising network."},
+  {"name":"InMobi","url":"https://www.inmobi.com","description":"Mobile advertising and user acquisition platform."},
+  {"name":"Unity Ads","url":"https://unity.com/solutions/unity-ads","description":"In-app mobile advertising network for game developers."},
+  {"name":"Chartboost","url":"https://www.chartboost.com","description":"Mobile programmatic advertising and monetization platform."},
+  {"name":"ironSource","url":"https://www.is.com","description":"App monetization and user acquisition ad network."},
+  {"name":"StackAdapt","url":"https://www.stackadapt.com","description":"Programmatic advertising and AI targeting platform."},
+  {"name":"Amazon Ads","url":"https://advertising.amazon.com","description":"Sponsored product and display ads inside Amazon marketplace."},
+  {"name":"Walmart Connect","url":"https://advertising.walmart.com","description":"Retail media advertising platform by Walmart."},
+  {"name":"Klaviyo Ads","url":"https://www.klaviyo.com","description":"Audience-based ad targeting integrated with email data."},
+  {"name":"Skai","url":"https://skai.io","description":"Omnichannel advertising optimization platform."},
+  {"name":"Marin Software","url":"https://www.marinsoftware.com","description":"Enterprise ad performance and bid management tool."},
+  {"name":"Revealbot","url":"https://revealbot.com","description":"Ad automation and rules engine for paid social."},
+  {"name":"Smartly.io","url":"https://www.smartly.io","description":"Creative automation and campaign optimization platform."},
+  {"name":"Madgicx","url":"https://madgicx.com","description":"AI-powered advertising optimization and analytics."},
+  {"name":"WordStream","url":"https://www.wordstream.com","description":"PPC management and optimization software."}
+]

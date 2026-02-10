@@ -1,7 +1,19 @@
 [
-    {"name":"Bluehost","url":"https://www.bluehost.com","description":"Beginner-friendly web hosting platform."},
-    {"name":"Hostinger","url":"https://www.hostinger.com","description":"Affordable cloud and shared hosting."},
-    {"name":"Vercel","url":"https://vercel.com","description":"Frontend hosting and deployment platform."},
-    {"name":"Netlify","url":"https://www.netlify.com","description":"Static site hosting with CI/CD."}
-  ]
-  
+  {"name":"Bluehost","url":"https://www.bluehost.com","description":"Beginner-friendly web hosting platform with one-click WordPress setup."},
+  {"name":"Hostinger","url":"https://www.hostinger.com","description":"Affordable cloud, VPS, and shared hosting with global data centers."},
+  {"name":"Vercel","url":"https://vercel.com","description":"Frontend hosting and serverless deployment platform for modern web apps."},
+  {"name":"Netlify","url":"https://www.netlify.com","description":"Static site hosting with CI/CD, forms, and edge functions."},
+
+  {"name":"SiteGround","url":"https://www.siteground.com","description":"High-performance WordPress hosting with advanced security."},
+  {"name":"Cloudways","url":"https://www.cloudways.com","description":"Managed cloud hosting on AWS, Google Cloud, and DigitalOcean."},
+  {"name":"DigitalOcean","url":"https://www.digitalocean.com","description":"Developer-friendly cloud infrastructure for scalable apps."},
+  {"name":"AWS","url":"https://aws.amazon.com","description":"Global cloud computing platform for hosting and backend services."},
+  {"name":"Google Cloud","url":"https://cloud.google.com","description":"Scalable hosting and application infrastructure by Google."},
+  {"name":"Microsoft Azure","url":"https://azure.microsoft.com","description":"Enterprise-grade cloud hosting and web app services."},
+  {"name":"A2 Hosting","url":"https://www.a2hosting.com","description":"Fast web hosting with developer-friendly tools."},
+  {"name":"DreamHost","url":"https://www.dreamhost.com","description":"Reliable hosting for WordPress and custom websites."},
+  {"name":"GoDaddy Hosting","url":"https://www.godaddy.com/hosting","description":"Web hosting and domain services for small businesses."},
+  {"name":"IONOS","url":"https://www.ionos.com","description":"Business web hosting with security and performance tools."},
+  {"name":"Render","url":"https://render.com","description":"Cloud platform for hosting web services, APIs, and static sites."},
+  {"name":"Railway","url":"https://railway.app","description":"Backend and database hosting for developers."}
+]

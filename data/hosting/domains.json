@@ -1,6 +1,17 @@
 [
-    {"name":"Namecheap","url":"https://www.namecheap.com","description":"Low-cost domain and hosting provider."},
-    {"name":"GoDaddy","url":"https://www.godaddy.com","description":"Popular domain registrar."},
-    {"name":"Cloudflare Registrar","url":"https://www.cloudflare.com/products/registrar/","description":"Domain registration at cost price."}
-  ]
-  
+  {"name":"Namecheap","url":"https://www.namecheap.com","description":"Affordable domain registration, DNS, and hosting services."},
+  {"name":"GoDaddy","url":"https://www.godaddy.com","description":"Popular domain registrar with website and email solutions."},
+  {"name":"Cloudflare Registrar","url":"https://www.cloudflare.com/products/registrar/","description":"Domain registration at wholesale pricing with free security."},
+
+  {"name":"Google Domains (via Squarespace)","url":"https://domains.squarespace.com","description":"Simple domain management formerly Google Domains."},
+  {"name":"Porkbun","url":"https://porkbun.com","description":"Low-cost domain registrar with free WHOIS privacy."},
+  {"name":"Dynadot","url":"https://www.dynadot.com","description":"Domain registration, resale, and bulk management platform."},
+  {"name":"Gandi","url":"https://www.gandi.net","description":"Domain registrar with privacy and email services."},
+  {"name":"Hover","url":"https://www.hover.com","description":"Clean and simple domain management without upsells."},
+  {"name":"Domain.com","url":"https://www.domain.com","description":"Domain registration and website tools for businesses."},
+  {"name":"IONOS Domains","url":"https://www.ionos.com/domains","description":"Low-cost domains with business email options."},
+  {"name":"Network Solutions","url":"https://www.networksolutions.com","description":"One of the oldest domain registrars with business tools."},
+  {"name":"NameSilo","url":"https://www.namesilo.com","description":"Bulk domain registration with low renewal pricing."},
+  {"name":"Epik","url":"https://www.epik.com","description":"Domain marketplace and management platform."},
+  {"name":"Uniregistry (GoDaddy)","url":"https://uniregistry.com","description":"Premium domain marketplace by GoDaddy."}
+]

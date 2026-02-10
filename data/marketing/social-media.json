@@ -1,18 +1,37 @@
 [
-    {
-      "name": "Buffer",
-      "url": "https://buffer.com",
-      "description": "Schedule and manage social media posts across platforms."
-    },
-    {
-      "name": "Hootsuite",
-      "url": "https://www.hootsuite.com",
-      "description": "Social media management dashboard for teams."
-    },
-    {
-      "name": "Publer",
-      "url": "https://publer.io",
-      "description": "Content scheduling and social media automation tool."
-    }
-  ]
-  
+  {"name":"Buffer","url":"https://buffer.com","description":"Plan, publish, and analyze posts across major social platforms from one dashboard."},
+  {"name":"Hootsuite","url":"https://www.hootsuite.com","description":"Centralized social media control panel for scheduling, monitoring, and reporting."},
+  {"name":"Publer","url":"https://publer.io","description":"Automated social content publishing with recycling and analytics tools."},
+
+  {"name":"Later","url":"https://later.com","description":"Visual social media scheduler for Instagram, TikTok, Facebook, and more."},
+  {"name":"SocialBee","url":"https://socialbee.com","description":"Content categorization and evergreen social posting system."},
+  {"name":"Metricool","url":"https://metricool.com","description":"Social media planning, analytics, and ad tracking platform."},
+  {"name":"Zoho Social","url":"https://www.zoho.com/social/","description":"Brand-focused social media publishing and performance tracking."},
+  {"name":"Sendible","url":"https://www.sendible.com","description":"Social media management for agencies and marketing teams."},
+  {"name":"Sprout Social","url":"https://sproutsocial.com","description":"Enterprise social media scheduling, listening, and analytics platform."},
+  {"name":"Agorapulse","url":"https://www.agorapulse.com","description":"Unified inbox and publishing tool for social media teams."},
+  {"name":"SocialPilot","url":"https://www.socialpilot.co","description":"Bulk scheduling and team collaboration for social campaigns."},
+  {"name":"Crowdfire","url":"https://www.crowdfireapp.com","description":"Content discovery and social publishing assistant."},
+  {"name":"Post Planner","url":"https://www.postplanner.com","description":"Find and share high-engagement content on social channels."},
+  {"name":"Planable","url":"https://planable.io","description":"Team collaboration platform for social content approvals."},
+  {"name":"eClincher","url":"https://www.eclincher.com","description":"All-in-one social media publishing and engagement suite."},
+  {"name":"ContentStudio","url":"https://contentstudio.io","description":"Discover, plan, and publish content across social networks."},
+  {"name":"Loomly","url":"https://www.loomly.com","description":"Brand success platform for social scheduling and approvals."},
+  {"name":"NapoleonCat","url":"https://napoleoncat.com","description":"Customer engagement and moderation for social media."},
+  {"name":"CoSchedule","url":"https://coschedule.com","description":"Marketing calendar with social scheduling and content planning."},
+  {"name":"Tailwind","url":"https://www.tailwindapp.com","description":"Pinterest and Instagram marketing automation platform."},
+  {"name":"MeetEdgar","url":"https://meetedgar.com","description":"Evergreen social content automation tool."},
+  {"name":"RecurPost","url":"https://recurpost.com","description":"Automated content recycling for social channels."},
+  {"name":"Vista Social","url":"https://vistasocial.com","description":"Social media publishing, inbox, and analytics tool."},
+  {"name":"Statusbrew","url":"https://statusbrew.com","description":"Social media engagement and analytics platform."},
+  {"name":"Sked Social","url":"https://skedsocial.com","description":"Visual content planning and auto-posting platform."},
+  {"name":"HeyOrca","url":"https://www.heyorca.com","description":"Client-friendly social content planning and approvals."},
+  {"name":"Radaar","url":"https://radaar.io","description":"Multi-platform social scheduling and analytics tool."},
+  {"name":"Plann","url":"https://www.plannthat.com","description":"Visual planner for Instagram and social media content."},
+  {"name":"OneUp","url":"https://www.oneupapp.io","description":"Recurring social media scheduling and automation tool."},
+  {"name":"SocialOomph","url":"https://www.socialoomph.com","description":"Advanced social scheduling and automation features."},
+  {"name":"IFTTT","url":"https://ifttt.com","description":"Automate social sharing using custom workflows."},
+  {"name":"Zapier","url":"https://zapier.com","description":"Connect social platforms with thousands of apps automatically."},
+  {"name":"Pallyy","url":"https://pallyy.com","description":"Social media scheduler with hashtag and analytics tools."},
+  {"name":"Mixpost","url":"https://mixpost.app","description":"Open-source self-hosted social media scheduling platform."}
+]

@@ -1,4 +1,33 @@
 [
-    {"name":"Indeed","url":"https://www.indeed.com","description":"Job search and hiring platform."}
-  ]
-  
+  {"name":"Indeed","url":"https://www.indeed.com","description":"Global job board connecting employers with candidates across industries."},
+
+  {"name":"LinkedIn Jobs","url":"https://www.linkedin.com/jobs","description":"Professional hiring and networking job marketplace."},
+  {"name":"Glassdoor","url":"https://www.glassdoor.com","description":"Employer reviews and job listings platform."},
+  {"name":"ZipRecruiter","url":"https://www.ziprecruiter.com","description":"AI-powered job matching and recruitment engine."},
+  {"name":"Monster","url":"https://www.monster.com","description":"Online career marketplace for job seekers and recruiters."},
+  {"name":"CareerBuilder","url":"https://www.careerbuilder.com","description":"Job board and hiring analytics platform."},
+  {"name":"SimplyHired","url":"https://www.simplyhired.com","description":"Job aggregator and salary insights platform."},
+  {"name":"Snagajob","url":"https://www.snagajob.com","description":"Hourly workforce hiring platform."},
+  {"name":"AngelList Talent","url":"https://angel.co/talent","description":"Startup hiring and recruitment marketplace."},
+  {"name":"Wellfound","url":"https://wellfound.com","description":"Startup-focused job and talent platform (formerly AngelList Talent)."},
+  {"name":"Workable","url":"https://www.workable.com","description":"Recruitment software with applicant tracking and hiring workflows."},
+  {"name":"Greenhouse","url":"https://www.greenhouse.io","description":"Applicant tracking and structured hiring platform."},
+  {"name":"Lever","url":"https://www.lever.co","description":"Recruiting CRM and applicant tracking system."},
+  {"name":"BambooHR","url":"https://www.bamboohr.com","description":"HR software with hiring and employee management tools."},
+  {"name":"Zoho Recruit","url":"https://www.zoho.com/recruit/","description":"Applicant tracking and recruitment automation software."},
+  {"name":"Freshteam","url":"https://www.freshworks.com/freshteam/","description":"Hiring and onboarding platform for growing teams."},
+  {"name":"JazzHR","url":"https://www.jazzhr.com","description":"Recruiting and applicant tracking software for SMBs."},
+  {"name":"SmartRecruiters","url":"https://www.smartrecruiters.com","description":"Enterprise recruitment marketing and hiring platform."},
+  {"name":"iCIMS","url":"https://www.icims.com","description":"Talent acquisition and recruiting CRM."},
+  {"name":"HireVue","url":"https://www.hirevue.com","description":"Video interviewing and hiring assessments platform."},
+  {"name":"Breezy HR","url":"https://breezy.hr","description":"Visual recruiting and applicant tracking system."},
+  {"name":"Recruitee","url":"https://recruitee.com","description":"Collaborative hiring and applicant tracking platform."},
+  {"name":"Jobvite","url":"https://www.jobvite.com","description":"End-to-end recruitment and onboarding platform."},
+  {"name":"Teamtailor","url":"https://www.teamtailor.com","description":"Employer branding and applicant tracking software."},
+  {"name":"HackerRank","url":"https://www.hackerrank.com","description":"Technical skill assessments for developer hiring."},
+  {"name":"Codility","url":"https://www.codility.com","description":"Online coding tests for recruitment screening."},
+  {"name":"TestGorilla","url":"https://www.testgorilla.com","description":"Pre-employment skills testing platform."},
+  {"name":"Pymetrics","url":"https://www.pymetrics.ai","description":"AI-driven behavioral assessments for hiring."},
+  {"name":"Talentlyft","url":"https://www.talentlyft.com","description":"Recruitment marketing and applicant tracking platform."},
+  {"name":"Hireology","url":"https://www.hireology.com","description":"Hiring automation for multi-location businesses."}
+]

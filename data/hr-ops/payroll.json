@@ -1,4 +1,20 @@
 [
-    {"name":"Zoho Payroll","url":"https://www.zoho.com/payroll","description":"Payroll software."}
-  ]
-  
+  {"name":"Zoho Payroll","url":"https://www.zoho.com/payroll","description":"Cloud-based payroll processing with tax compliance and salary automation."},
+
+  {"name":"Gusto","url":"https://gusto.com","description":"Full-service payroll, benefits, and HR management for small businesses."},
+  {"name":"ADP","url":"https://www.adp.com","description":"Enterprise-grade payroll and workforce management solutions."},
+  {"name":"Paychex","url":"https://www.paychex.com","description":"Payroll, HR, and benefits administration for growing companies."},
+  {"name":"QuickBooks Payroll","url":"https://quickbooks.intuit.com/payroll/","description":"Integrated payroll service for QuickBooks users."},
+  {"name":"Rippling","url":"https://www.rippling.com","description":"Unified payroll, HR, and IT management platform."},
+  {"name":"OnPay","url":"https://onpay.com","description":"Simple payroll and tax filing for small businesses."},
+  {"name":"Papaya Global","url":"https://www.papayaglobal.com","description":"Global payroll and workforce payments platform."},
+  {"name":"Deel","url":"https://www.deel.com","description":"International payroll and contractor payments solution."},
+  {"name":"Remote","url":"https://remote.com","description":"Global payroll and employer-of-record services."},
+  {"name":"Keka Payroll","url":"https://www.keka.com/payroll","description":"Payroll and compliance system for Indian businesses."},
+  {"name":"greytHR","url":"https://www.greythr.com","description":"Payroll, attendance, and HR automation platform."},
+  {"name":"Paycor","url":"https://www.paycor.com","description":"HR and payroll platform for mid-sized organizations."},
+  {"name":"Justworks","url":"https://www.justworks.com","description":"Payroll, compliance, and benefits for startups and SMBs."},
+  {"name":"Zenefits","url":"https://www.zenefits.com","description":"HR, payroll, and employee benefits administration software."},
+  {"name":"Xero Payroll","url":"https://www.xero.com/payroll/","description":"Payroll management for businesses using Xero accounting."},
+  {"name":"Workday Payroll","url":"https://www.workday.com","description":"Enterprise payroll and human capital management solution."}
+]

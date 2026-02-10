@@ -1,4 +1,23 @@
 [
-    {"name":"15Five","url":"https://www.15five.com","description":"Employee performance management."}
-  ]
-      
+  {"name":"15Five","url":"https://www.15five.com","description":"Continuous performance feedback and employee engagement platform."},
+
+  {"name":"Lattice","url":"https://lattice.com","description":"Performance reviews, goal tracking, and employee engagement system."},
+  {"name":"Culture Amp","url":"https://www.cultureamp.com","description":"Employee experience and performance analytics platform."},
+  {"name":"Betterworks","url":"https://www.betterworks.com","description":"OKR management and continuous performance tracking."},
+  {"name":"Leapsome","url":"https://www.leapsome.com","description":"People enablement platform with goals, reviews, and surveys."},
+  {"name":"PerformYard","url":"https://www.performyard.com","description":"Streamlined performance management for HR teams."},
+  {"name":"Trakstar","url":"https://www.trakstar.com","description":"Performance appraisal and goal management software."},
+  {"name":"Reflektive","url":"https://www.reflektive.com","description":"Real-time feedback and performance insights platform."},
+  {"name":"Synergita","url":"https://www.synergita.com","description":"Cloud-based performance and talent management system."},
+  {"name":"BambooHR Performance","url":"https://www.bamboohr.com/performance-management","description":"Employee reviews and goal tracking within BambooHR."},
+  {"name":"Zoho People","url":"https://www.zoho.com/people/","description":"Employee performance, attendance, and HR operations suite."},
+  {"name":"Keka HR","url":"https://www.keka.com","description":"Payroll and performance management system for modern teams."},
+  {"name":"Darwinbox","url":"https://www.darwinbox.com","description":"Enterprise HR and performance lifecycle management platform."},
+  {"name":"ClearCompany","url":"https://www.clearcompany.com","description":"Talent management with performance and engagement tools."},
+  {"name":"Namely","url":"https://www.namely.com","description":"HR platform with performance reviews and goal tracking."},
+  {"name":"Reviewsnap","url":"https://www.reviewsnap.com","description":"Web-based employee performance review system."},
+  {"name":"Weekdone","url":"https://weekdone.com","description":"OKR tracking and weekly progress reporting platform."},
+  {"name":"Engagedly","url":"https://engagedly.com","description":"Employee performance, learning, and engagement platform."},
+  {"name":"Profit.co","url":"https://www.profit.co","description":"OKR and performance management software."},
+  {"name":"Workboard","url":"https://www.workboard.com","description":"Enterprise OKR and performance alignment platform."}
+]

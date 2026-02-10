@@ -1,23 +1,35 @@
 [
-    {
-      "name": "Trello",
-      "url": "https://trello.com/",
-      "description": "Kanban-style project and task management for teams."
-    },
-    {
-      "name": "ClickUp",
-      "url": "https://clickup.com/",
-      "description": "All-in-one workspace for tasks, docs, and goals."
-    },
-    {
-      "name": "Asana",
-      "url": "https://asana.com/",
-      "description": "Project management platform for tracking team work."
-    },
-    {
-      "name": "Notion",
-      "url": "https://www.notion.so/",
-      "description": "Flexible workspace for notes, tasks, and collaboration."
-    }
-  ]
-  
+  {"name":"Trello","url":"https://trello.com/","description":"Visual Kanban boards for organizing tasks and team workflows."},
+  {"name":"ClickUp","url":"https://clickup.com/","description":"Unified platform to manage tasks, docs, goals, and collaboration."},
+  {"name":"Asana","url":"https://asana.com/","description":"Work management system for planning, tracking, and delivering projects."},
+  {"name":"Notion","url":"https://www.notion.so/","description":"Customizable workspace combining tasks, notes, and databases."},
+
+  {"name":"Monday.com","url":"https://monday.com","description":"Work operating system for managing projects, processes, and teams."},
+  {"name":"Wrike","url":"https://www.wrike.com","description":"Enterprise project management and collaboration platform."},
+  {"name":"Jira","url":"https://www.atlassian.com/software/jira","description":"Issue and project tracking software for agile teams."},
+  {"name":"Basecamp","url":"https://basecamp.com","description":"Team communication and task management in one place."},
+  {"name":"Smartsheet","url":"https://www.smartsheet.com","description":"Spreadsheet-style project management with automation."},
+  {"name":"Todoist","url":"https://todoist.com","description":"Personal and team task manager with priorities and reminders."},
+  {"name":"Microsoft To Do","url":"https://todo.microsoft.com","description":"Simple task lists synced across Microsoft devices."},
+  {"name":"Google Tasks","url":"https://tasks.google.com","description":"Lightweight task manager integrated with Google Workspace."},
+  {"name":"Things","url":"https://culturedcode.com/things/","description":"Personal task manager built for focus and clarity."},
+  {"name":"Any.do","url":"https://www.any.do","description":"Task management app with calendar and reminders."},
+  {"name":"TickTick","url":"https://ticktick.com","description":"To-do list with habit tracking and productivity tools."},
+  {"name":"Remember The Milk","url":"https://www.rememberthemilk.com","description":"Smart task lists with reminders and sharing."},
+  {"name":"MeisterTask","url":"https://www.meistertask.com","description":"Visual task boards with automation and collaboration."},
+  {"name":"Zoho Projects","url":"https://www.zoho.com/projects/","description":"Project planning and task tracking for teams."},
+  {"name":"nTask","url":"https://www.ntaskmanager.com","description":"Task, risk, and project management platform."},
+  {"name":"Redbooth","url":"https://redbooth.com","description":"Team task management with conversations and timelines."},
+  {"name":"Taskade","url":"https://www.taskade.com","description":"Collaborative task lists, mind maps, and workflows."},
+  {"name":"Zenkit","url":"https://zenkit.com","description":"Flexible project management and database platform."},
+  {"name":"ProofHub","url":"https://www.proofhub.com","description":"Task management with team collaboration tools."},
+  {"name":"Flow","url":"https://www.getflow.com","description":"Team task manager with timelines and collaboration."},
+  {"name":"Hitask","url":"https://hitask.com","description":"Shared task lists and project organization."},
+  {"name":"Quire","url":"https://quire.io","description":"Hierarchical task management for complex projects."},
+  {"name":"Plutio","url":"https://www.plutio.com","description":"Business management with tasks, projects, and billing."},
+  {"name":"Taiga","url":"https://www.taiga.io","description":"Open-source project management for agile teams."},
+  {"name":"OpenProject","url":"https://www.openproject.org","description":"Open-source project and task management system."},
+  {"name":"GanttPRO","url":"https://ganttpro.com","description":"Gantt chart-based project planning tool."},
+  {"name":"Kanbanize","url":"https://kanbanize.com","description":"Enterprise Kanban workflow management software."},
+  {"name":"Teamwork","url":"https://www.teamwork.com","description":"Project management platform for client-focused teams."}
+]

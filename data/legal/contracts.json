@@ -1,4 +1,27 @@
 [
-    {"name":"DocuSign","url":"https://www.docusign.com","description":"Digital contracts."}
-  ]
-  
+  {"name":"DocuSign","url":"https://www.docusign.com","description":"Electronic signature and digital agreement management platform."},
+
+  {"name":"HelloSign","url":"https://www.hellosign.com","description":"Simple e-signature and document signing solution by Dropbox."},
+  {"name":"Adobe Acrobat Sign","url":"https://www.adobe.com/sign.html","description":"Secure electronic signatures and contract workflows."},
+  {"name":"PandaDoc","url":"https://www.pandadoc.com","description":"Create, send, track, and e-sign business documents."},
+  {"name":"SignNow","url":"https://www.signnow.com","description":"Online contract signing and document automation platform."},
+  {"name":"SignRequest","url":"https://signrequest.com","description":"Legally binding e-signatures with audit trails."},
+  {"name":"Zoho Sign","url":"https://www.zoho.com/sign/","description":"Digital signature and document workflow tool."},
+  {"name":"RightSignature","url":"https://rightsignature.com","description":"Cloud-based electronic signature solution."},
+  {"name":"eversign","url":"https://eversign.com","description":"Free and paid digital signature software."},
+  {"name":"DocHub","url":"https://dochub.com","description":"Online document editing and e-signature platform."},
+  {"name":"Formstack Sign","url":"https://www.formstack.com/sign","description":"E-signatures integrated with form workflows."},
+  {"name":"SignEasy","url":"https://www.signeasy.com","description":"Mobile-friendly e-signature solution."},
+  {"name":"GetAccept","url":"https://www.getaccept.com","description":"Digital sales contracts and engagement tracking."},
+  {"name":"Contractbook","url":"https://contractbook.com","description":"Contract lifecycle management and automation."},
+  {"name":"Juro","url":"https://juro.com","description":"All-in-one contract automation platform."},
+  {"name":"OneSpan Sign","url":"https://www.onespan.com/products/onespan-sign","description":"Enterprise-grade digital signatures and security."},
+  {"name":"CocoSign","url":"https://www.cocosign.com","description":"Online contract signing and document workflow tool."},
+  {"name":"Agree.com","url":"https://www.agree.com","description":"Digital agreement and payment automation platform."},
+  {"name":"SignWell","url":"https://signwell.com","description":"Simple electronic signature tool for teams."},
+  {"name":"SimpleSign","url":"https://www.simplesign.io","description":"Secure e-signature platform with audit tracking."},
+  {"name":"ContractSafe","url":"https://www.contractsafe.com","description":"Cloud contract storage and management system."},
+  {"name":"Ironclad","url":"https://ironcladapp.com","description":"Legal contract lifecycle automation platform."},
+  {"name":"SpotDraft","url":"https://www.spotdraft.com","description":"AI-powered contract drafting and review tool."},
+  {"name":"LinkSquares","url":"https://linksquares.com","description":"AI contract analysis and management platform."}
+]

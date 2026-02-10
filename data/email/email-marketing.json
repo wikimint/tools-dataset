@@ -1,26 +1,32 @@
 [
-    {"name":"Mailchimp","url":"https://mailchimp.com","description":"Email marketing automation platform."},
-    {"name":"Brevo","url":"https://www.brevo.com","description":"Email and SMS campaigns for businesses."},
-    {"name":"Sender","url":"https://www.sender.net","description":"Free email newsletter platform."},
-    {
-      "name": "Benchmark",
-      "url": "https://www.benchmarkemail.com/",
-      "description": "An email marketing service for creating responsive campaigns, nurturing subscribers, and measuring engagement results."
-    },
-    {
-      "name": "Zoho Campaigns",
-      "url": "https://www.zoho.com/campaigns/",
-      "description": "An email campaign tool that helps companies reach customers, track performance, and boost sales through targeted messaging."
-    },
-    {
-      "name": "MailerLite",
-      "url": "https://www.mailerlite.com/",
-      "description": "An easy-to-use email marketing and automation solution built for small businesses, creators, and growing brands."
-    },
-    {
-      "name": "VerticalResponse",
-      "url": "https://www.verticalresponse.com/",
-      "description": "A digital marketing platform that lets you create email campaigns, capture leads, and promote content across social channels."
-    }
-  ]
-  
+  {"name":"Mailchimp","url":"https://mailchimp.com","description":"All-in-one platform for creating, sending, and automating email campaigns."},
+  {"name":"Brevo","url":"https://www.brevo.com","description":"Omnichannel marketing suite with email, SMS, and automation tools."},
+  {"name":"Sender","url":"https://www.sender.net","description":"Free newsletter and email automation tool for small teams."},
+  {"name":"Benchmark","url":"https://www.benchmarkemail.com/","description":"Responsive email campaign builder with automation and analytics."},
+  {"name":"Zoho Campaigns","url":"https://www.zoho.com/campaigns/","description":"Targeted email marketing system with tracking and CRM integration."},
+  {"name":"MailerLite","url":"https://www.mailerlite.com/","description":"Simple email marketing and automation platform for creators and SMBs."},
+  {"name":"VerticalResponse","url":"https://www.verticalresponse.com/","description":"Email marketing tool with lead capture and social promotions."},
+
+  {"name":"Moosend","url":"https://moosend.com","description":"Email automation platform with drag-and-drop templates and analytics."},
+  {"name":"CleverReach","url":"https://www.cleverreach.com","description":"GDPR-friendly email marketing software with automation workflows."},
+  {"name":"Sendy","url":"https://sendy.co","description":"Self-hosted email newsletter application powered by Amazon SES."},
+  {"name":"Mautic","url":"https://www.mautic.org","description":"Open-source marketing automation and email campaign platform."},
+  {"name":"Listmonk","url":"https://listmonk.app","description":"High-performance open-source mailing list and newsletter manager."},
+  {"name":"Postal","url":"https://postalserver.io","description":"Open-source mail delivery and marketing server for developers."},
+  {"name":"SendGrid Free","url":"https://sendgrid.com","description":"Transactional and marketing email service with a free tier."},
+  {"name":"Elastic Email","url":"https://elasticemail.com","description":"Email delivery platform with marketing and automation features."},
+  {"name":"Mailjet Free","url":"https://www.mailjet.com","description":"Collaborative email marketing and transactional sending platform."},
+  {"name":"ConvertKit Free","url":"https://convertkit.com","description":"Creator-focused email marketing with automation and forms."},
+  {"name":"AWeber Free","url":"https://www.aweber.com","description":"Email marketing tool with autoresponders and templates."},
+  {"name":"GetResponse Free","url":"https://www.getresponse.com","description":"Email campaigns, landing pages, and automation tools."},
+  {"name":"Substack","url":"https://substack.com","description":"Newsletter publishing platform with email distribution."},
+  {"name":"Buttondown","url":"https://buttondown.email","description":"Minimalist newsletter tool for writers and developers."},
+  {"name":"TinyLetter","url":"https://tinyletter.com","description":"Simple email newsletter service by Mailchimp."},
+  {"name":"Revue","url":"https://www.getrevue.co","description":"Editorial newsletter platform for content creators."},
+  {"name":"SendFox","url":"https://sendfox.com","description":"Affordable email marketing platform for content creators."},
+  {"name":"Mailmodo","url":"https://www.mailmodo.com","description":"Interactive AMP email campaigns with automation tools."},
+  {"name":"Mailbluster","url":"https://mailbluster.com","description":"Bulk email marketing system built on Amazon SES."},
+  {"name":"Mailtrain","url":"https://mailtrain.org","description":"Self-hosted open-source email newsletter platform."},
+  {"name":"phpList","url":"https://www.phplist.org","description":"Open-source email campaign manager and list server."},
+  {"name":"Cuttlefish","url":"https://cuttlefish.io","description":"Lightweight self-hosted email campaign tool."}
+]

@@ -1,5 +1,31 @@
 [
-    {"name":"Shopify","url":"https://www.shopify.com","description":"Online store builder."},
-    {"name":"WooCommerce","url":"https://woocommerce.com","description":"WordPress e-commerce plugin."}
-  ]
-  
+  {"name":"Shopify","url":"https://www.shopify.com","description":"Hosted ecommerce platform for creating and managing online stores."},
+  {"name":"WooCommerce","url":"https://woocommerce.com","description":"Open-source ecommerce plugin for turning WordPress sites into stores."},
+
+  {"name":"Magento Open Source","url":"https://business.adobe.com/products/magento/open-source.html","description":"Self-hosted open-source ecommerce framework for scalable stores."},
+  {"name":"PrestaShop","url":"https://www.prestashop.com","description":"Free open-source ecommerce platform for building online shops."},
+  {"name":"OpenCart","url":"https://www.opencart.com","description":"Lightweight open-source shopping cart system."},
+  {"name":"Shopware Community","url":"https://www.shopware.com/en/community/","description":"Open-source ecommerce solution with modern storefront tools."},
+  {"name":"Ecwid","url":"https://www.ecwid.com","description":"Add a shopping cart to any website with a free starter plan."},
+  {"name":"Big Cartel","url":"https://www.bigcartel.com","description":"Simple online store builder for artists and small creators."},
+  {"name":"Square Online","url":"https://squareup.com/online-store","description":"Free online store with built-in payments from Square."},
+  {"name":"SellNow","url":"https://www.sellnow.io","description":"No-code store builder for digital and physical products."},
+  {"name":"Spree Commerce","url":"https://spreecommerce.org","description":"Open-source ecommerce framework for Ruby developers."},
+  {"name":"Medusa","url":"https://medusajs.com","description":"Open-source headless commerce engine for custom stores."},
+  {"name":"Reaction Commerce","url":"https://reactioncommerce.com","description":"Open-source headless commerce platform for developers."},
+  {"name":"Saleor","url":"https://saleor.io","description":"GraphQL-based open-source ecommerce platform."},
+  {"name":"Sylius","url":"https://sylius.com","description":"Open-source ecommerce framework built on Symfony."},
+  {"name":"nopCommerce","url":"https://www.nopcommerce.com","description":"Free open-source ecommerce platform for .NET."},
+  {"name":"Bagisto","url":"https://bagisto.com","description":"Laravel-based open-source ecommerce platform."},
+  {"name":"Zen Cart","url":"https://www.zen-cart.com","description":"Open-source shopping cart software for small businesses."},
+  {"name":"osCommerce","url":"https://www.oscommerce.com","description":"One of the original open-source ecommerce platforms."},
+  {"name":"Drupal Commerce","url":"https://www.drupal.org/project/commerce","description":"Ecommerce framework built on Drupal CMS."},
+  {"name":"Shift4Shop","url":"https://www.shift4shop.com","description":"Free ecommerce platform with built-in hosting and tools."},
+  {"name":"Gumroad","url":"https://gumroad.com","description":"Sell digital products and subscriptions with a free plan."},
+  {"name":"Sellix","url":"https://sellix.io","description":"Ecommerce platform for digital product sellers."},
+  {"name":"Lemon Squeezy","url":"https://www.lemonsqueezy.com","description":"Simple checkout and digital store platform."},
+  {"name":"Payhip","url":"https://payhip.com","description":"Sell digital downloads and memberships online."},
+  {"name":"Koel","url":"https://koel.dev","description":"Self-hosted digital product storefront platform."},
+  {"name":"Snipcart","url":"https://snipcart.com","description":"Add a shopping cart to any website with an API-first approach."},
+  {"name":"Cart66 Cloud","url":"https://cart66.com","description":"Hosted ecommerce solution for WordPress stores."}
+]

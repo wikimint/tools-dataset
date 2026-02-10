@@ -1,4 +1,27 @@
 [
-    {"name":"Termly","url":"https://termly.io","description":"Compliance policies generator."}
-  ]
-  
+  {"name":"Termly","url":"https://termly.io","description":"Automated generator for legal policies and regulatory compliance tools."},
+
+  {"name":"OneTrust","url":"https://www.onetrust.com","description":"Enterprise privacy, risk, and compliance management platform."},
+  {"name":"TrustArc","url":"https://trustarc.com","description":"Data privacy and regulatory compliance solutions."},
+  {"name":"Osano","url":"https://www.osano.com","description":"Privacy compliance and consent automation platform."},
+  {"name":"Secure Privacy","url":"https://secureprivacy.ai","description":"AI-powered privacy and compliance management software."},
+  {"name":"Didomi","url":"https://www.didomi.io","description":"Consent and preference management for compliance."},
+  {"name":"Cookiebot","url":"https://www.cookiebot.com","description":"Cookie compliance and consent automation tool."},
+  {"name":"Complianz","url":"https://complianz.io","description":"GDPR, CCPA, and cookie compliance solution."},
+  {"name":"Usercentrics","url":"https://usercentrics.com","description":"Global consent management platform."},
+  {"name":"Quantcast Choice","url":"https://www.quantcast.com/products/choice-consent-management-platform/","description":"Free GDPR consent management solution."},
+  {"name":"ConsentManager","url":"https://www.consentmanager.net","description":"Cookie consent and regulatory compliance platform."},
+  {"name":"TRUENDO","url":"https://www.truendo.com","description":"Automated website compliance and privacy scanner."},
+  {"name":"DataGuard","url":"https://www.dataguard.com","description":"Compliance automation for GDPR and ISO standards."},
+  {"name":"Convercent","url":"https://www.convercent.com","description":"Ethics and compliance management software."},
+  {"name":"LogicGate","url":"https://www.logicgate.com","description":"Risk and compliance workflow automation platform."},
+  {"name":"Hyperproof","url":"https://hyperproof.io","description":"Compliance operations and audit readiness platform."},
+  {"name":"Vanta","url":"https://www.vanta.com","description":"Automated security and compliance monitoring."},
+  {"name":"Drata","url":"https://drata.com","description":"Trust and compliance automation platform."},
+  {"name":"Secureframe","url":"https://secureframe.com","description":"Compliance and certification automation software."},
+  {"name":"StandardFusion","url":"https://www.standardfusion.com","description":"Integrated risk and compliance management system."},
+  {"name":"SAI360","url":"https://www.sai360.com","description":"Governance, risk, and compliance software."},
+  {"name":"NAVEX","url":"https://www.navex.com","description":"Compliance training and reporting platform."},
+  {"name":"EthicsPoint","url":"https://www.ethicspoint.com","description":"Incident reporting and compliance hotline solution."},
+  {"name":"WhistleB","url":"https://whistleb.com","description":"Whistleblowing and compliance reporting system."}
+]

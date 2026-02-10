@@ -1,18 +1,40 @@
 [
-    {
-      "name": "Hotjar",
-      "url": "https://www.hotjar.com",
-      "description": "Heatmaps and user behavior analytics for conversion optimization."
-    },
-    {
-      "name": "Optimizely",
-      "url": "https://www.optimizely.com",
-      "description": "A/B testing and experimentation platform."
-    },
-    {
-      "name": "VWO",
-      "url": "https://vwo.com",
-      "description": "Conversion rate optimization and testing suite."
-    }
-  ]
-  
+  {"name":"Hotjar","url":"https://www.hotjar.com","description":"Visual behavior tracking with heatmaps, recordings, and feedback tools."},
+  {"name":"Optimizely","url":"https://www.optimizely.com","description":"Enterprise experimentation and feature testing platform."},
+  {"name":"VWO","url":"https://vwo.com","description":"Website optimization, A/B testing, and CRO toolkit."},
+
+  {"name":"Google Optimize","url":"https://optimize.google.com","description":"Free A/B testing tool integrated with Google Analytics."},
+  {"name":"Crazy Egg","url":"https://www.crazyegg.com","description":"Heatmaps and session recordings to improve conversions."},
+  {"name":"Unbounce","url":"https://unbounce.com","description":"Landing page builder with built-in A/B testing."},
+  {"name":"Instapage","url":"https://instapage.com","description":"High-conversion landing pages with personalization tools."},
+  {"name":"Convert.com","url":"https://www.convert.com","description":"Privacy-first A/B testing and experimentation platform."},
+  {"name":"GrowthBook","url":"https://www.growthbook.io","description":"Open-source feature flagging and experimentation system."},
+  {"name":"Splitbee","url":"https://splitbee.io","description":"Simple analytics and funnel tracking for growth teams."},
+  {"name":"Heap","url":"https://heap.io","description":"Automatic event tracking and user journey analytics."},
+  {"name":"Mixpanel","url":"https://mixpanel.com","description":"Product analytics for retention and engagement optimization."},
+  {"name":"Amplitude","url":"https://amplitude.com","description":"User behavior analytics for product-led growth."},
+  {"name":"Plausible","url":"https://plausible.io","description":"Lightweight privacy-focused website analytics."},
+  {"name":"Fathom Analytics","url":"https://usefathom.com","description":"Simple web analytics without tracking personal data."},
+  {"name":"FullStory","url":"https://www.fullstory.com","description":"Session replay and digital experience insights."},
+  {"name":"LogRocket","url":"https://logrocket.com","description":"Session replay and frontend performance monitoring."},
+  {"name":"Mouseflow","url":"https://mouseflow.com","description":"User session recordings and funnel analytics."},
+  {"name":"Smartlook","url":"https://www.smartlook.com","description":"Behavior analytics and session replay for web and mobile."},
+  {"name":"Matomo","url":"https://matomo.org","description":"Open-source analytics with full data ownership."},
+  {"name":"PostHog","url":"https://posthog.com","description":"Open-source product analytics and feature flags."},
+  {"name":"Woopra","url":"https://www.woopra.com","description":"Customer journey analytics for growth teams."},
+  {"name":"Segment","url":"https://segment.com","description":"Customer data platform for tracking and analytics pipelines."},
+  {"name":"Clearbit","url":"https://clearbit.com","description":"Business intelligence and lead enrichment platform."},
+  {"name":"Drift","url":"https://www.drift.com","description":"Conversational marketing and revenue acceleration platform."},
+  {"name":"Intercom","url":"https://www.intercom.com","description":"Customer messaging and growth automation system."},
+  {"name":"HubSpot Marketing Hub","url":"https://www.hubspot.com/products/marketing","description":"Inbound marketing and growth automation suite."},
+  {"name":"Marketo","url":"https://business.adobe.com/products/marketo.html","description":"Marketing automation for demand generation and growth."},
+  {"name":"Pendo","url":"https://www.pendo.io","description":"Product experience analytics and user onboarding."},
+  {"name":"Appcues","url":"https://www.appcues.com","description":"User onboarding flows and in-app engagement tools."},
+  {"name":"Userpilot","url":"https://userpilot.com","description":"Product growth and user adoption platform."},
+  {"name":"Mixpanel Engage","url":"https://mixpanel.com","description":"User messaging and engagement analytics."},
+  {"name":"Hotjar Engage","url":"https://www.hotjar.com/engage/","description":"User interviews and feedback collection for growth research."},
+  {"name":"Refersion","url":"https://www.refersion.com","description":"Affiliate and referral tracking platform."},
+  {"name":"PartnerStack","url":"https://partnerstack.com","description":"Partner and referral growth automation platform."},
+  {"name":"Viral Loops","url":"https://viral-loops.com","description":"Referral marketing and viral campaign builder."},
+  {"name":"GrowthHackers","url":"https://growthhackers.com","description":"Growth experiments and marketing community platform."}
+]

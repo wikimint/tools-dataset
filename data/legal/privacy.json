@@ -1,4 +1,27 @@
 [
-    {"name":"Iubenda","url":"https://www.iubenda.com","description":"Privacy policy generator."}
-  ]
-  
+  {"name":"Iubenda","url":"https://www.iubenda.com","description":"Automated privacy and cookie policy generator for websites and apps."},
+
+  {"name":"Termly","url":"https://termly.io","description":"Privacy policy, cookie consent, and legal compliance tools."},
+  {"name":"Cookiebot","url":"https://www.cookiebot.com","description":"GDPR and CCPA compliant cookie consent management platform."},
+  {"name":"OneTrust","url":"https://www.onetrust.com","description":"Enterprise privacy, consent, and data governance solution."},
+  {"name":"Osano","url":"https://www.osano.com","description":"Privacy compliance and consent management system."},
+  {"name":"CookieYes","url":"https://www.cookieyes.com","description":"Cookie consent banner and compliance tool."},
+  {"name":"FreePrivacyPolicy","url":"https://www.freeprivacypolicy.com","description":"Free policy generator for websites and mobile apps."},
+  {"name":"PrivacyPolicies.com","url":"https://www.privacypolicies.com","description":"Legal policy generator for online businesses."},
+  {"name":"TermsFeed","url":"https://www.termsfeed.com","description":"Terms and privacy policy generation service."},
+  {"name":"Didomi","url":"https://www.didomi.io","description":"Consent and preference management platform."},
+  {"name":"Quantcast Choice","url":"https://www.quantcast.com/products/choice-consent-management-platform/","description":"Free consent management tool for GDPR compliance."},
+  {"name":"Complianz","url":"https://complianz.io","description":"GDPR and cookie compliance plugin for WordPress."},
+  {"name":"CookieScript","url":"https://cookiescript.com","description":"Cookie scanner and consent management solution."},
+  {"name":"Sirdata","url":"https://www.sirdata.com","description":"Privacy and data protection compliance platform."},
+  {"name":"TrustArc","url":"https://trustarc.com","description":"Privacy compliance and risk management services."},
+  {"name":"DataGuard","url":"https://www.dataguard.com","description":"Privacy and information security compliance software."},
+  {"name":"Convesio Privacy","url":"https://convesio.com","description":"Managed GDPR and compliance services for websites."},
+  {"name":"ConsentManager","url":"https://www.consentmanager.net","description":"Cookie consent and compliance tracking tool."},
+  {"name":"Piwik PRO Consent","url":"https://piwik.pro/consent-manager/","description":"Consent management integrated with analytics and privacy tools."},
+  {"name":"Usercentrics","url":"https://usercentrics.com","description":"Consent management platform for GDPR, CCPA, and LGPD."},
+  {"name":"Secure Privacy","url":"https://secureprivacy.ai","description":"AI-powered compliance and consent management tool."},
+  {"name":"Axeptio","url":"https://www.axeptio.eu","description":"User-friendly cookie consent management platform."},
+  {"name":"CookieHub","url":"https://www.cookiehub.com","description":"Cookie consent management for websites and SaaS apps."},
+  {"name":"TRUENDO","url":"https://www.truendo.com","description":"Automated website privacy compliance solution."}
+]

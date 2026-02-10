@@ -1,23 +1,33 @@
 [
-    {
-      "name": "TradingView",
-      "url": "https://www.tradingview.com/",
-      "description": "Market charts, technical analysis, and trading ideas."
-    },
-    {
-      "name": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/",
-      "description": "Stock tracking, news, and portfolio management."
-    },
-    {
-      "name": "Koyfin",
-      "url": "https://www.koyfin.com/",
-      "description": "Financial analytics and market research platform."
-    },
-    {
-      "name": "Investopedia Simulator",
-      "url": "https://www.investopedia.com/simulator/",
-      "description": "Practice stock trading with virtual money."
-    }
-  ]
-  
+  {"name":"TradingView","url":"https://www.tradingview.com/","description":"Interactive market charts with indicators, screeners, and community trade ideas."},
+  {"name":"Yahoo Finance","url":"https://finance.yahoo.com/","description":"Real-time stock quotes, market news, and personal portfolio tracking."},
+  {"name":"Koyfin","url":"https://www.koyfin.com/","description":"Market dashboards, company data, and financial research for investors."},
+  {"name":"Investopedia Simulator","url":"https://www.investopedia.com/simulator/","description":"Virtual stock trading platform to practice investing without risk."},
+
+  {"name":"Finviz","url":"https://finviz.com","description":"Stock screener with charts, fundamentals, and heatmaps."},
+  {"name":"Morningstar Free","url":"https://www.morningstar.com","description":"Investment research, fund ratings, and stock analysis tools."},
+  {"name":"Simply Wall St","url":"https://simplywall.st","description":"Visual stock analysis and company fundamentals explorer."},
+  {"name":"Seeking Alpha","url":"https://seekingalpha.com","description":"Stock market insights, earnings data, and investor commentary."},
+  {"name":"MarketWatch","url":"https://www.marketwatch.com","description":"Financial news, stock prices, and market analysis."},
+  {"name":"Zacks Free","url":"https://www.zacks.com","description":"Stock research, rankings, and earnings estimates."},
+  {"name":"Wallmine","url":"https://wallmine.com","description":"Portfolio tracking, insider trades, and market intelligence."},
+  {"name":"OpenBB Terminal","url":"https://openbb.co","description":"Open-source investment research terminal for market data."},
+  {"name":"Macrotrends","url":"https://www.macrotrends.net","description":"Historical financial charts and macroeconomic data."},
+  {"name":"StockAnalysis","url":"https://stockanalysis.com","description":"Stock fundamentals, financial statements, and metrics."},
+  {"name":"TipRanks Free","url":"https://www.tipranks.com","description":"Analyst ratings, price targets, and stock sentiment."},
+  {"name":"Barchart","url":"https://www.barchart.com","description":"Market data, futures, and technical charting tools."},
+  {"name":"Investing.com","url":"https://www.investing.com","description":"Global financial markets data, charts, and economic calendar."},
+  {"name":"FRED","url":"https://fred.stlouisfed.org","description":"US Federal Reserve economic data and charts."},
+  {"name":"Portfolio Visualizer","url":"https://www.portfoliovisualizer.com","description":"Backtesting and asset allocation analysis tool."},
+  {"name":"Tikr Free","url":"https://www.tikr.com","description":"Company financials, valuation models, and stock research."},
+  {"name":"Stock Rover Free","url":"https://www.stockrover.com","description":"Portfolio management and stock screening platform."},
+  {"name":"Alpha Vantage","url":"https://www.alphavantage.co","description":"Free stock, crypto, and forex market APIs."},
+  {"name":"Quandl (Nasdaq Data Link)","url":"https://data.nasdaq.com","description":"Financial and economic datasets for analysis."},
+  {"name":"Kaggle Finance Datasets","url":"https://www.kaggle.com/datasets","description":"Open financial datasets for modeling and research."},
+  {"name":"Stooq","url":"https://stooq.com","description":"Free stock, ETF, and index historical data."},
+  {"name":"InvestingNote","url":"https://investingnote.com","description":"Investor community and market commentary platform."},
+  {"name":"OpenFIGI","url":"https://www.openfigi.com","description":"Free financial instrument identification mapping service."},
+  {"name":"StockTwits","url":"https://stocktwits.com","description":"Social platform for traders and investors to share ideas."},
+  {"name":"GuruFocus Free","url":"https://www.gurufocus.com","description":"Value investing tools and stock research platform."},
+  {"name":"WhaleWisdom","url":"https://whalewisdom.com","description":"Track hedge fund holdings and institutional activity."}
+]

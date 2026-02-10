@@ -1,15 +1,30 @@
 [
-    {"name":"Twilio","url":"https://www.twilio.com","description":"Programmable SMS and voice APIs."},
-    {"name":"Textbelt","url":"https://textbelt.com","description":"Simple SMS API."},
-    {
-      "name": "SendPulse",
-      "url": "https://sendpulse.com",
-      "description": "A multi-channel marketing platform that combines email, SMS, web push, and messaging apps into one automation system."
-    },
-    {
-      "name": "Sendinblue",
-      "url": "https://www.sendinblue.com/",
-      "description": "An all-in-one communication platform offering email marketing, SMS campaigns, transactional messages, and automation tools."
-    }
-  ]
-  
+  {"name":"Twilio","url":"https://www.twilio.com","description":"Developer APIs for sending SMS, making calls, and building communication apps."},
+  {"name":"Textbelt","url":"https://textbelt.com","description":"Lightweight SMS gateway API for quick message delivery."},
+  {"name":"SendPulse","url":"https://sendpulse.com","description":"Omnichannel automation platform combining SMS, email, push, and chat messaging."},
+  {"name":"Brevo","url":"https://www.brevo.com","description":"Marketing and transactional messaging system with SMS, email, and automation."},
+
+  {"name":"Plivo","url":"https://www.plivo.com","description":"Cloud-based SMS and voice APIs for developers and businesses."},
+  {"name":"Vonage APIs","url":"https://developer.vonage.com","description":"Programmable messaging, voice, and video communication services."},
+  {"name":"MessageBird","url":"https://www.messagebird.com","description":"Customer communication platform with SMS, WhatsApp, and voice APIs."},
+  {"name":"Telnyx","url":"https://telnyx.com","description":"Global SMS and VoIP APIs with real-time monitoring."},
+  {"name":"SignalWire","url":"https://signalwire.com","description":"Voice, video, and messaging APIs for modern apps."},
+  {"name":"Bandwidth","url":"https://www.bandwidth.com","description":"Carrier-grade messaging and voice API services."},
+  {"name":"TextMagic","url":"https://www.textmagic.com","description":"Business SMS marketing and communication platform."},
+  {"name":"Callr","url":"https://www.callr.com","description":"Programmable SMS and voice platform for developers."},
+  {"name":"Telesign","url":"https://www.telesign.com","description":"SMS and voice verification for user authentication."},
+  {"name":"ClickSend","url":"https://www.clicksend.com","description":"Multichannel messaging for SMS, voice, fax, and email."},
+  {"name":"SMSCaster","url":"https://www.smscaster.com","description":"Bulk SMS gateway software for desktop and servers."},
+  {"name":"Kannel","url":"https://www.kannel.org","description":"Open-source SMS gateway for carrier-grade messaging."},
+  {"name":"Asterisk","url":"https://www.asterisk.org","description":"Open-source VoIP PBX and telephony framework."},
+  {"name":"FreePBX","url":"https://www.freepbx.org","description":"Open-source web-based PBX system built on Asterisk."},
+  {"name":"Linphone","url":"https://www.linphone.org","description":"Open-source VoIP softphone with SIP support."},
+  {"name":"Jitsi","url":"https://jitsi.org","description":"Open-source voice and video communication platform."},
+  {"name":"Rocket.Chat","url":"https://www.rocket.chat","description":"Open-source team messaging with voice and SMS integrations."},
+  {"name":"Matrix","url":"https://matrix.org","description":"Open protocol for secure decentralized communication."},
+  {"name":"Zadarma","url":"https://zadarma.com","description":"Cloud PBX, virtual numbers, and VoIP calling."},
+  {"name":"Dingtone","url":"https://www.dingtone.me","description":"Free calling and texting app using VoIP technology."},
+  {"name":"TextNow","url":"https://www.textnow.com","description":"Free SMS and calling app with VoIP numbers."},
+  {"name":"Google Voice","url":"https://voice.google.com","description":"Virtual phone numbers with SMS and calling features."},
+  {"name":"OpenVox","url":"https://www.openvox.cn","description":"VoIP gateway and PBX solutions for businesses."}
+]
