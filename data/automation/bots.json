@@ -1,4 +1,92 @@
 [
-    {"name":"ManyChat","url":"https://manychat.com","description":"Chatbot automation."}
-  ]
-  
+  {
+    "name": "Chatfuel",
+    "url": "https://chatfuel.com",
+    "description": "No-code chatbot builder for Facebook Messenger and websites."
+  },
+  {
+    "name": "Tidio",
+    "url": "https://www.tidio.com",
+    "description": "Live chat and AI chatbot automation for customer support."
+  },
+  {
+    "name": "Botpress",
+    "url": "https://botpress.com",
+    "description": "Open-source conversational AI platform for building custom bots."
+  },
+  {
+    "name": "Rasa",
+    "url": "https://rasa.com",
+    "description": "Framework for creating contextual AI assistants and chatbots."
+  },
+  {
+    "name": "Dialogflow",
+    "url": "https://cloud.google.com/dialogflow",
+    "description": "Google’s NLP platform for building conversational interfaces."
+  },
+  {
+    "name": "Landbot",
+    "url": "https://landbot.io",
+    "description": "Visual chatbot builder for websites and messaging apps."
+  },
+  {
+    "name": "Flow XO",
+    "url": "https://flowxo.com",
+    "description": "Chatbot builder with automation workflows and integrations."
+  },
+  {
+    "name": "SnatchBot",
+    "url": "https://snatchbot.me",
+    "description": "Multi-channel chatbot platform with NLP support."
+  },
+  {
+    "name": "MobileMonkey",
+    "url": "https://mobilemonkey.com",
+    "description": "Omnichannel chatbot marketing and automation tool."
+  },
+  {
+    "name": "Freshchat",
+    "url": "https://www.freshworks.com/live-chat-software/",
+    "description": "Messaging and chatbot automation for customer engagement."
+  },
+  {
+    "name": "Zoho SalesIQ",
+    "url": "https://www.zoho.com/salesiq/",
+    "description": "Website chatbots and live visitor tracking for sales teams."
+  },
+  {
+    "name": "HubSpot Chatbot Builder",
+    "url": "https://www.hubspot.com/products/crm/chatbot-builder",
+    "description": "Automated chat flows connected to HubSpot CRM."
+  },
+  {
+    "name": "IBM Watson Assistant",
+    "url": "https://www.ibm.com/products/watson-assistant",
+    "description": "AI chatbot platform for enterprise customer service."
+  },
+  {
+    "name": "Drift",
+    "url": "https://www.drift.com",
+    "description": "Conversational bots for sales and customer qualification."
+  },
+  {
+    "name": "Crisp Chatbot",
+    "url": "https://crisp.chat/en/chatbot/",
+    "description": "Automated chat flows for customer engagement and support."
+  },
+  {
+    "name": "Collect.chat",
+    "url": "https://collect.chat",
+    "description": "Website chatbot for lead generation and surveys."
+  },
+  {
+    "name": "Aivo",
+    "url": "https://aivo.co",
+    "description": "AI-powered virtual assistants for customer service."
+  },
+  {
+    "name": "Botsify",
+    "url": "https://botsify.com",
+    "description": "Chatbot platform for websites and messaging apps."
+  }
+]

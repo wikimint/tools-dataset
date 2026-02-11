@@ -1,23 +1,23 @@
 [
-    {
-      "name": "Visual Studio Code",
-      "url": "https://code.visualstudio.com/",
-      "description": "Lightweight code editor with extensions and debugging."
-    },
-    {
-      "name": "Atom",
-      "url": "https://atom.io/",
-      "description": "Open-source text editor for developers."
-    },
-    {
-      "name": "Sublime Text",
-      "url": "https://www.sublimetext.com/",
-      "description": "Fast and minimal code editor."
-    },
-    {
-      "name": "Vim",
-      "url": "https://www.vim.org/",
-      "description": "Highly configurable command-line text editor."
-    }
-  ]
-  
+  { "name": "Visual Studio Code", "url": "https://code.visualstudio.com/", "description": "Popular lightweight code editor with extensions, debugging, and Git support." },
+  { "name": "Atom", "url": "https://atom.io/", "description": "Open-source hackable text editor (now archived but still widely referenced)." },
+  { "name": "Sublime Text", "url": "https://www.sublimetext.com/", "description": "Fast, minimal, and powerful text editor for developers." },
+  { "name": "Vim", "url": "https://www.vim.org/", "description": "Highly configurable terminal-based text editor for power users." },
+
+  { "name": "Neovim", "url": "https://neovim.io/", "description": "Modern fork of Vim with better plugins and performance." },
+  { "name": "Notepad++", "url": "https://notepad-plus-plus.org/", "description": "Free Windows text and source code editor." },
+  { "name": "Brackets", "url": "https://brackets.io/", "description": "Open-source code editor focused on web development." },
+  { "name": "WebStorm", "url": "https://www.jetbrains.com/webstorm/", "description": "Professional JavaScript IDE with smart coding assistance." },
+  { "name": "PyCharm", "url": "https://www.jetbrains.com/pycharm/", "description": "Python IDE with advanced debugging and testing tools." },
+  { "name": "IntelliJ IDEA", "url": "https://www.jetbrains.com/idea/", "description": "Powerful Java and multi-language IDE." },
+  { "name": "Eclipse", "url": "https://www.eclipse.org/", "description": "Open-source IDE for Java, C/C++, and more." },
+  { "name": "NetBeans", "url": "https://netbeans.apache.org/", "description": "Apache IDE for Java, PHP, and web apps." },
+  { "name": "Kate", "url": "https://kate-editor.org/", "description": "Advanced text editor for Linux and cross-platform users." },
+  { "name": "Geany", "url": "https://www.geany.org/", "description": "Lightweight IDE with built-in terminal and plugins." },
+  { "name": "Micro", "url": "https://micro-editor.github.io/", "description": "Modern terminal-based editor with mouse support." },
+  { "name": "Lite XL", "url": "https://lite-xl.com/", "description": "Lightweight, extensible code editor written in Lua." },
+  { "name": "Zed", "url": "https://zed.dev/", "description": "High-performance collaborative code editor." },
+  { "name": "Code::Blocks", "url": "https://www.codeblocks.org/", "description": "Open-source C, C++ and Fortran IDE." },
+  { "name": "Komodo Edit", "url": "https://komodoide.com/komodo-edit/", "description": "Multi-language code editor with debugging support." },
+  { "name": "Emacs", "url": "https://www.gnu.org/software/emacs/", "description": "Extensible, customizable text editor and development environment." }
+]

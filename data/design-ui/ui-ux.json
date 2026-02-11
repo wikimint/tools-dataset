@@ -1,23 +1,31 @@
 [
-    {
-      "name": "Figma",
-      "url": "https://www.figma.com/",
-      "description": "Collaborative UI and UX design platform."
-    },
-    {
-      "name": "Penpot",
-      "url": "https://penpot.app/",
-      "description": "Open-source design tool for UI and prototyping."
-    },
-    {
-      "name": "Adobe XD",
-      "url": "https://www.adobe.com/products/xd.html",
-      "description": "Interface design and user experience prototyping tool."
-    },
-    {
-      "name": "Sketch",
-      "url": "https://www.sketch.com/",
-      "description": "UI design toolkit for web and mobile apps."
-    }
-  ]
-  
+  { "name": "Figma", "url": "https://www.figma.com/", "description": "Collaborative UI and UX design platform." },
+  { "name": "Penpot", "url": "https://penpot.app/", "description": "Open-source design tool for UI and prototyping." },
+  { "name": "Adobe XD", "url": "https://www.adobe.com/products/xd.html", "description": "Interface design and user experience prototyping tool." },
+  { "name": "Sketch", "url": "https://www.sketch.com/", "description": "UI design toolkit for web and mobile apps." },
+
+  { "name": "InVision", "url": "https://www.invisionapp.com/", "description": "Digital product design, prototyping, and collaboration platform." },
+  { "name": "Marvel", "url": "https://marvelapp.com/", "description": "Rapid prototyping and user testing platform." },
+  { "name": "Framer", "url": "https://www.framer.com/", "description": "Interactive UI prototyping and design tool." },
+  { "name": "Axure RP", "url": "https://www.axure.com/", "description": "Advanced UX prototyping and documentation tool." },
+  { "name": "Balsamiq", "url": "https://balsamiq.com/", "description": "Low-fidelity wireframing tool." },
+  { "name": "Justinmind", "url": "https://www.justinmind.com/", "description": "UI/UX prototyping tool for web and mobile apps." },
+  { "name": "UXPin", "url": "https://www.uxpin.com/", "description": "Design system-driven UX platform with interactive prototypes." },
+  { "name": "Proto.io", "url": "https://proto.io/", "description": "High-fidelity prototyping for web and mobile apps." },
+  { "name": "Mockplus", "url": "https://www.mockplus.com/", "description": "Fast prototyping and collaboration tool." },
+  { "name": "Moqups", "url": "https://moqups.com/", "description": "Wireframing, mockups, and diagrams in one app." },
+  { "name": "Figma Jam", "url": "https://www.figma.com/figjam/", "description": "Online whiteboard for UX ideation and flows." },
+  { "name": "Whimsical", "url": "https://whimsical.com/", "description": "Flowcharts, wireframes, and UX diagrams." },
+  { "name": "Miro", "url": "https://miro.com/", "description": "Collaborative whiteboard for UX research and flows." },
+  { "name": "Zeplin", "url": "https://zeplin.io/", "description": "Design handoff and developer collaboration tool." },
+  { "name": "Avocode", "url": "https://avocode.com/", "description": "Design collaboration and developer handoff." },
+  { "name": "Origami Studio", "url": "https://origami.design/", "description": "Advanced interaction design tool by Meta." },
+  { "name": "Principle", "url": "https://principleformac.com/", "description": "Animate and prototype user interfaces." },
+  { "name": "UXCam", "url": "https://uxcam.com/", "description": "UX analytics and session replay for mobile apps." },
+  { "name": "Maze", "url": "https://maze.co/", "description": "User testing and UX research platform." },
+  { "name": "Lookback", "url": "https://lookback.io/", "description": "User research and usability testing tool." },
+  { "name": "FlowMapp", "url": "https://flowmapp.com", "description": "UX planning and information architecture tool." },
+  { "name": "Uizard", "url": "https://uizard.io/", "description": "AI-powered UI design and prototyping tool." },
+  { "name": "Spline", "url": "https://spline.design/", "description": "3D UI and interactive design tool." },
+  { "name": "Anima", "url": "https://www.animaapp.com/", "description": "Convert designs into responsive code." }
+]

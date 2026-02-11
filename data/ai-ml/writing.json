@@ -1,18 +1,21 @@
 [
-    {
-      "name": "Jasper",
-      "url": "https://www.jasper.ai",
-      "description": "AI writing assistant for marketing and content teams."
-    },
-    {
-      "name": "Copy.ai",
-      "url": "https://www.copy.ai",
-      "description": "AI-powered copywriting for ads, blogs, and emails."
-    },
-    {
-      "name": "Writesonic",
-      "url": "https://writesonic.com",
-      "description": "Content generation platform for articles and landing pages."
-    }
-  ]
-  
+  {"name":"Jasper","url":"https://www.jasper.ai","description":"AI writing assistant for marketing and content teams."},
+  {"name":"Copy.ai","url":"https://www.copy.ai","description":"AI-powered copywriting for ads, blogs, and emails."},
+  {"name":"Writesonic","url":"https://writesonic.com","description":"Content generation platform for articles and landing pages."},
+
+  {"name":"Rytr","url":"https://rytr.me","description":"AI writing assistant for short-form and long-form content."},
+  {"name":"Anyword","url":"https://anyword.com","description":"AI copywriting with performance prediction."},
+  {"name":"Sudowrite","url":"https://www.sudowrite.com","description":"Creative AI writing tool for fiction and storytelling."},
+  {"name":"QuillBot","url":"https://quillbot.com","description":"Paraphrasing and grammar-enhancing AI writer."},
+  {"name":"Grammarly","url":"https://www.grammarly.com","description":"AI writing assistant for grammar, clarity, and tone."},
+  {"name":"Wordtune","url":"https://www.wordtune.com","description":"Rewrite and enhance sentences with AI."},
+  {"name":"INK","url":"https://inkforall.com","description":"AI writing and SEO content optimization platform."},
+  {"name":"Scalenut","url":"https://www.scalenut.com","description":"AI SEO content creation and optimization tool."},
+  {"name":"Frase","url":"https://www.frase.io","description":"AI content briefs and SEO writing assistant."},
+  {"name":"NeuronWriter","url":"https://neuronwriter.com","description":"AI content optimization for SEO writers."},
+  {"name":"Peppertype","url":"https://www.peppertype.ai","description":"AI copywriting for marketing teams."},
+  {"name":"TextCortex","url":"https://textcortex.com","description":"AI writing for blogs, emails, and social media."},
+  {"name":"Simplified AI Writer","url":"https://simplified.com","description":"AI writing and design content suite."},
+  {"name":"HyperWrite","url":"https://hyperwriteai.com","description":"AI assistant for emails, essays, and research writing."},
+  {"name":"ClosersCopy","url":"https://www.closerscopy.com","description":"AI copywriting focused on sales pages and funnels."}
+]

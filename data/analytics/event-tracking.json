@@ -1,48 +1,137 @@
 [
-    {
-      "name": "Mixpanel",
-      "url": "https://mixpanel.com",
-      "description": "Event-based product analytics platform."
-    },
-    {
-      "name": "Amplitude",
-      "url": "https://amplitude.com",
-      "description": "Product and user behavior analytics."
-    },
-    {
-      "name": "Keen",
-      "url": "https://keen.io/",
-      "description": "A developer-friendly analytics service that helps you create real-time, user-facing dashboards and metrics quickly."
-    },
-    {
-      "name": "Segment",
-      "url": "https://segment.com/",
-      "description": "A customer data platform that gathers, organizes, and routes user data to your analytics and marketing tools."
-    },
-    {
-      "name": "Countly",
-      "url": "https://count.ly/",
-      "description": "An analytics and engagement platform for mobile, web, desktop, and IoT apps that securely tracks user journeys."
-    },
-    {
-      "name": "Amplitude",
-      "url": "https://amplitude.com/",
-      "description": "A digital analytics platform that helps businesses understand user behavior and optimize product experiences across devices."
-    },
-    {
-      "name": "Google Analytics",
-      "url": "https://marketingplatform.google.com/about/analytics/",
-      "description": "A free web analytics service from Google that helps you measure traffic, user behavior, and conversion performance."
-    },
-    {
-      "name": "Cyfe",
-      "url": "https://www.cyfe.com",
-      "description": "An all-in-one business dashboard that brings together analytics, sales, marketing, and infrastructure data in one view."
-    },
-    {
-      "name": "Quantcast Measure",
-      "url": "https://www.quantcast.com/products/measure-audience-insights/",
-      "description": "An audience intelligence tool that provides real-time insights into visitor demographics, interests, and engagement."
-    }
-  ]
-  
+  {
+    "name": "Mixpanel",
+    "url": "https://mixpanel.com",
+    "description": "Tracks user actions and funnels to understand product engagement."
+  },
+  {
+    "name": "Amplitude",
+    "url": "https://amplitude.com",
+    "description": "Behavior analytics platform for measuring product usage and retention."
+  },
+  {
+    "name": "Keen",
+    "url": "https://keen.io",
+    "description": "Developer analytics engine for building custom event dashboards."
+  },
+  {
+    "name": "Segment",
+    "url": "https://segment.com",
+    "description": "Customer data hub that collects and routes event data to other tools."
+  },
+  {
+    "name": "Countly",
+    "url": "https://count.ly",
+    "description": "Open-source analytics for tracking user journeys across apps and web."
+  },
+  {
+    "name": "Google Analytics",
+    "url": "https://marketingplatform.google.com/about/analytics/",
+    "description": "Website and event tracking platform for traffic and conversions."
+  },
+  {
+    "name": "Cyfe",
+    "url": "https://www.cyfe.com",
+    "description": "Business dashboard that visualizes event and performance data."
+  },
+  {
+    "name": "Heap",
+    "url": "https://heap.io",
+    "description": "Automatically captures user events without manual tracking code."
+  },
+  {
+    "name": "PostHog",
+    "url": "https://posthog.com",
+    "description": "Open-source product analytics with event tracking and feature flags."
+  },
+  {
+    "name": "Matomo",
+    "url": "https://matomo.org",
+    "description": "Privacy-focused analytics platform with custom event tracking."
+  },
+  {
+    "name": "Plausible",
+    "url": "https://plausible.io",
+    "description": "Lightweight and privacy-friendly website event analytics."
+  },
+  {
+    "name": "Fathom",
+    "url": "https://usefathom.com",
+    "description": "Simple, privacy-first analytics with custom event tracking."
+  },
+  {
+    "name": "Umami",
+    "url": "https://umami.is",
+    "description": "Open-source analytics tool for tracking events and page behavior."
+  },
+  {
+    "name": "GoSquared",
+    "url": "https://www.gosquared.com",
+    "description": "Real-time analytics and event monitoring for websites and SaaS."
+  },
+  {
+    "name": "Smartlook",
+    "url": "https://www.smartlook.com",
+    "description": "Tracks user events with session recordings and funnels."
+  },
+  {
+    "name": "Hotjar",
+    "url": "https://www.hotjar.com",
+    "description": "Behavior analytics with event tracking, heatmaps, and recordings."
+  },
+  {
+    "name": "FullStory",
+    "url": "https://www.fullstory.com",
+    "description": "Digital experience analytics with event capture and replay."
+  },
+  {
+    "name": "Pendo",
+    "url": "https://www.pendo.io",
+    "description": "Product analytics platform with event tracking and in-app guidance."
+  },
+  {
+    "name": "Glassbox",
+    "url": "https://www.glassbox.com",
+    "description": "Experience analytics with event tracking and journey mapping."
+  },
+  {
+    "name": "Snowplow",
+    "url": "https://snowplow.io",
+    "description": "Open-source behavioral data collection and event pipelines."
+  },
+  {
+    "name": "Indicative",
+    "url": "https://www.indicative.com",
+    "description": "Customer journey analytics with event-based insights."
+  },
+  {
+    "name": "April Analytics",
+    "url": "https://aprilanalytics.com",
+    "description": "Mobile and web event analytics for product teams."
+  },
+  {
+    "name": "LogRocket",
+    "url": "https://logrocket.com",
+    "description": "Frontend analytics with event tracking and session replay."
+  },
+  {
+    "name": "RudderStack",
+    "url": "https://www.rudderstack.com",
+    "description": "Open-source customer data platform for event pipelines."
+  },
+  {
+    "name": "OpenReplay",
+    "url": "https://openreplay.com",
+    "description": "Open-source session replay with event tracking."
+  },
+  {
+    "name": "Metabase",
+    "url": "https://www.metabase.com",
+    "description": "Analytics dashboard for querying event and product data."
+  },
+  {
+    "name": "Redash",
+    "url": "https://redash.io",
+    "description": "Data visualization tool for event and user analytics."
+  }
+]

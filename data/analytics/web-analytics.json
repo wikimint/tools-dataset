@@ -1,43 +1,97 @@
 [
-    {
-      "name": "Google Analytics",
-      "url": "https://analytics.google.com",
-      "description": "Website traffic and user behavior analytics platform."
-    },
-    {
-      "name": "Plausible",
-      "url": "https://plausible.io",
-      "description": "Privacy-friendly open-source web analytics."
-    },
-    {
-      "name": "Matomo",
-      "url": "https://matomo.org",
-      "description": "Self-hosted analytics platform with data ownership."
-    },
-    {
-      "name": "Open Web Analytics",
-      "url": "http://www.openwebanalytics.com/",
-      "description": "An open-source analytics framework for tracking and analyzing website and application usage."
-    },
-    {
-      "name": "Matomo",
-      "url": "https://matomo.org/",
-      "description": "An open-source web analytics tool that gives full data ownership and detailed insights into website visitors."
-    },
-    {
-      "name": "Clicky",
-      "url": "https://clicky.com",
-      "description": "A real-time website analytics service that tracks visitor activity and engagement as it happens."
-    },
-    {
-      "name": "Fathom Analytics",
-      "url": "https://usefathom.com/",
-      "description": "A privacy-first website analytics platform that provides simple, meaningful traffic insights without tracking personal data."
-    },
-    {
-      "name": "Mixpanel",
-      "url": "https://mixpanel.com/",
-      "description": "A product analytics tool that reveals how users interact with apps and websites so teams can make data-driven decisions."
-    }
-  ]
-  
+  {
+    "name": "Google Analytics",
+    "url": "https://analytics.google.com",
+    "description": "Tracks website traffic, user behavior, and conversions in one dashboard."
+  },
+  {
+    "name": "Plausible",
+    "url": "https://plausible.io",
+    "description": "Lightweight, privacy-friendly analytics with open-source transparency."
+  },
+  {
+    "name": "Matomo",
+    "url": "https://matomo.org",
+    "description": "Self-hosted analytics platform with full data control and visitor insights."
+  },
+  {
+    "name": "Open Web Analytics",
+    "url": "http://www.openwebanalytics.com/",
+    "description": "Open-source framework for monitoring website and application usage."
+  },
+  {
+    "name": "Clicky",
+    "url": "https://clicky.com",
+    "description": "Real-time website visitor tracking and engagement monitoring."
+  },
+  {
+    "name": "Fathom Analytics",
+    "url": "https://usefathom.com/",
+    "description": "Minimal, privacy-first web analytics without cookies or personal data."
+  },
+  {
+    "name": "Mixpanel",
+    "url": "https://mixpanel.com/",
+    "description": "Event-based analytics to understand how users interact with products."
+  },
+  {
+    "name": "Heap",
+    "url": "https://heap.io",
+    "description": "Automatically captures user actions for behavioral analytics."
+  },
+  {
+    "name": "Simple Analytics",
+    "url": "https://simpleanalytics.com",
+    "description": "Clean, privacy-respecting website analytics without tracking users."
+  },
+  {
+    "name": "GoatCounter",
+    "url": "https://www.goatcounter.com",
+    "description": "Open-source, lightweight web analytics with privacy in mind."
+  },
+  {
+    "name": "Statcounter",
+    "url": "https://statcounter.com",
+    "description": "Visitor tracking and traffic insights for websites."
+  },
+  {
+    "name": "Umami",
+    "url": "https://umami.is",
+    "description": "Self-hosted privacy-first web analytics platform."
+  },
+  {
+    "name": "Shynet",
+    "url": "https://github.com/milesmcc/shynet",
+    "description": "Open-source web analytics server for event tracking."
+  },
+  {
+    "name": "PostHog",
+    "url": "https://posthog.com",
+    "description": "Open-source product analytics with event tracking and feature flags."
+  },
+  {
+    "name": "Countly",
+    "url": "https://count.ly",
+    "description": "Analytics and engagement platform for web and mobile applications."
+  },
+  {
+    "name": "Woopra",
+    "url": "https://www.woopra.com",
+    "description": "Customer journey analytics across touchpoints."
+  },
+  {
+    "name": "Cloudflare Web Analytics",
+    "url": "https://www.cloudflare.com/web-analytics/",
+    "description": "Privacy-focused website analytics built into Cloudflare."
+  },
+  {
+    "name": "Panelbear",
+    "url": "https://panelbear.com",
+    "description": "Cookie-free web analytics with real-time dashboards."
+  },
+  {
+    "name": "Ackee",
+    "url": "https://ackee.electerious.com",
+    "description": "Self-hosted, privacy-friendly web analytics solution."
+  }
+]

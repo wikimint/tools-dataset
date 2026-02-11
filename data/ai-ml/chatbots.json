@@ -1,18 +1,23 @@
 [
-    {
-      "name": "Botpress",
-      "url": "https://botpress.com",
-      "description": "Open-source platform to build AI-powered chatbots."
-    },
-    {
-      "name": "Rasa",
-      "url": "https://rasa.com",
-      "description": "Framework for building contextual AI assistants."
-    },
-    {
-      "name": "Tidio",
-      "url": "https://www.tidio.com",
-      "description": "Live chat and AI chatbot for customer support automation."
-    }
-  ]
-  
+  {"name":"Botpress","url":"https://botpress.com","description":"Open-source platform to build AI-powered chatbots."},
+  {"name":"Rasa","url":"https://rasa.com","description":"Framework for building contextual AI assistants."},
+  {"name":"Tidio","url":"https://www.tidio.com","description":"Live chat and AI chatbot for customer support automation."},
+  {"name":"Drift","url":"https://www.drift.com","description":"Conversational marketing and sales chatbots."},
+  {"name":"ManyChat","url":"https://manychat.com","description":"Chatbots for Instagram, WhatsApp, and Messenger."},
+  {"name":"Chatfuel","url":"https://chatfuel.com","description":"No-code chatbot builder for social messaging apps."},
+  {"name":"Freshchat","url":"https://www.freshworks.com/live-chat-software/","description":"AI-powered customer messaging platform."},
+  {"name":"Zendesk Answer Bot","url":"https://www.zendesk.com/ai/","description":"AI bot for support ticket deflection."},
+  {"name":"Landbot","url":"https://landbot.io","description":"No-code conversational chatbot builder."},
+  {"name":"Flow XO","url":"https://flowxo.com","description":"Chatbot builder with automation workflows."},
+  {"name":"Ada","url":"https://www.ada.cx","description":"AI customer service chatbot platform."},
+  {"name":"Kore.ai","url":"https://kore.ai","description":"Enterprise conversational AI platform."},
+  {"name":"IBM Watson Assistant","url":"https://www.ibm.com/products/watson-assistant","description":"AI chatbot and virtual agent platform."},
+  {"name":"Microsoft Bot Framework","url":"https://dev.botframework.com","description":"SDK for building enterprise chatbots."},
+  {"name":"Dialogflow","url":"https://cloud.google.com/dialogflow","description":"Google’s NLP-based conversational AI platform."},
+  {"name":"OpenAI Assistants","url":"https://platform.openai.com","description":"Build AI chat agents using OpenAI models."},
+  {"name":"Replika","url":"https://replika.com","description":"AI conversational companion chatbot."},
+  {"name":"LivePerson","url":"https://www.liveperson.com","description":"AI-powered conversational commerce platform."},
+  {"name":"Yellow.ai","url":"https://yellow.ai","description":"Enterprise AI chatbot and voice bot solution."},
+  {"name":"Haptik","url":"https://www.haptik.ai","description":"Conversational AI for customer support and marketing."},
+  {"name":"Zoho SalesIQ Bots","url":"https://www.zoho.com/salesiq/","description":"Chatbots for sales and customer support automation."}
+]

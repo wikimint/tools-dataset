@@ -15,7 +15,6 @@
   {"name":"Lever","url":"https://www.lever.co","description":"Recruiting CRM and applicant tracking system."},
   {"name":"BambooHR","url":"https://www.bamboohr.com","description":"HR software with hiring and employee management tools."},
   {"name":"Zoho Recruit","url":"https://www.zoho.com/recruit/","description":"Applicant tracking and recruitment automation software."},
-  {"name":"Freshteam","url":"https://www.freshworks.com/freshteam/","description":"Hiring and onboarding platform for growing teams."},
   {"name":"JazzHR","url":"https://www.jazzhr.com","description":"Recruiting and applicant tracking software for SMBs."},
   {"name":"SmartRecruiters","url":"https://www.smartrecruiters.com","description":"Enterprise recruitment marketing and hiring platform."},
   {"name":"iCIMS","url":"https://www.icims.com","description":"Talent acquisition and recruiting CRM."},
@@ -27,7 +26,6 @@
   {"name":"HackerRank","url":"https://www.hackerrank.com","description":"Technical skill assessments for developer hiring."},
   {"name":"Codility","url":"https://www.codility.com","description":"Online coding tests for recruitment screening."},
   {"name":"TestGorilla","url":"https://www.testgorilla.com","description":"Pre-employment skills testing platform."},
-  {"name":"Pymetrics","url":"https://www.pymetrics.ai","description":"AI-driven behavioral assessments for hiring."},
   {"name":"Talentlyft","url":"https://www.talentlyft.com","description":"Recruitment marketing and applicant tracking platform."},
   {"name":"Hireology","url":"https://www.hireology.com","description":"Hiring automation for multi-location businesses."}
 ]

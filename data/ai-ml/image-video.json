@@ -1,18 +1,23 @@
 [
-    {
-      "name": "DALL·E",
-      "url": "https://openai.com/dall-e",
-      "description": "AI image generation from text prompts."
-    },
-    {
-      "name": "Stable Diffusion",
-      "url": "https://stability.ai",
-      "description": "Open-source text-to-image generation model."
-    },
-    {
-      "name": "Runway",
-      "url": "https://runwayml.com",
-      "description": "AI video editing and content generation platform."
-    }
-  ]
-  
+  {"name":"DALL·E","url":"https://openai.com/dall-e","description":"AI image generation from text prompts."},
+  {"name":"Stable Diffusion","url":"https://stability.ai","description":"Open-source text-to-image generation model."},
+  {"name":"Runway","url":"https://runwayml.com","description":"AI video editing and content generation platform."},
+
+  {"name":"Midjourney","url":"https://www.midjourney.com","description":"High-quality AI art generation from text."},
+  {"name":"Adobe Firefly","url":"https://www.adobe.com/products/firefly.html","description":"Generative AI for images, text effects, and design."},
+  {"name":"Leonardo AI","url":"https://leonardo.ai","description":"AI image generator for game assets and art."},
+  {"name":"Canva AI","url":"https://www.canva.com/ai/","description":"AI-powered design and image generation tools."},
+  {"name":"Pika","url":"https://pika.art","description":"Text-to-video generation platform."},
+  {"name":"Synthesia","url":"https://www.synthesia.io","description":"AI video creation with virtual avatars."},
+  {"name":"Kaiber","url":"https://www.kaiber.ai","description":"Turn images and text into animated videos."},
+  {"name":"DeepAI","url":"https://deepai.org","description":"AI image generation and enhancement APIs."},
+  {"name":"Artbreeder","url":"https://www.artbreeder.com","description":"Blend and evolve images using AI."},
+  {"name":"NightCafe","url":"https://nightcafe.studio","description":"AI art generator with multiple styles."},
+  {"name":"Remove.bg","url":"https://www.remove.bg","description":"AI background removal for images."},
+  {"name":"Topaz Labs","url":"https://www.topazlabs.com","description":"AI image and video upscaling tools."},
+  {"name":"VEED.io","url":"https://www.veed.io","description":"Online AI video editor."},
+  {"name":"Lumen5","url":"https://lumen5.com","description":"Text-to-video marketing content generator."},
+  {"name":"Clipchamp","url":"https://www.clipchamp.com","description":"Video editor with AI features."},
+  {"name":"Fotor AI","url":"https://www.fotor.com/features/ai-image-generator/","description":"AI photo generator and enhancer."},
+  {"name":"Designify","url":"https://www.designify.com","description":"Automatic product image enhancement."}
+]

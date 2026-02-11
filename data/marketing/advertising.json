@@ -4,13 +4,10 @@
   {"name":"AdEspresso","url":"https://adespresso.com","description":"Ad testing, optimization, and reporting for paid social campaigns."},
 
   {"name":"Microsoft Advertising","url":"https://ads.microsoft.com","description":"Search and display advertising across Bing, Yahoo, and partner networks."},
-  {"name":"TikTok Ads Manager","url":"https://ads.tiktok.com","description":"Self-serve advertising platform for TikTok campaigns."},
-  {"name":"LinkedIn Campaign Manager","url":"https://www.linkedin.com/marketing-solutions/ads","description":"B2B advertising platform for LinkedIn audiences."},
   {"name":"Twitter Ads","url":"https://ads.twitter.com","description":"Promoted tweets and brand awareness campaigns on X."},
   {"name":"Pinterest Ads","url":"https://ads.pinterest.com","description":"Visual discovery advertising for product and brand promotion."},
   {"name":"Snapchat Ads","url":"https://forbusiness.snapchat.com","description":"Story and video ad platform for Snapchat audiences."},
   {"name":"Reddit Ads","url":"https://www.redditinc.com/advertising","description":"Community-based advertising across subreddit networks."},
-  {"name":"Quora Ads","url":"https://www.quora.com/business/ads","description":"Contextual ads shown next to high-intent questions."},
   {"name":"Taboola","url":"https://www.taboola.com","description":"Native advertising network for content discovery."},
   {"name":"Outbrain","url":"https://www.outbrain.com","description":"Content recommendation and native ad platform."},
   {"name":"PropellerAds","url":"https://propellerads.com","description":"Global display and push notification advertising network."},

@@ -1,23 +1,23 @@
 [
-    {
-      "name": "Slack",
-      "url": "https://slack.com/",
-      "description": "Team messaging and communication platform."
-    },
-    {
-      "name": "Microsoft Teams",
-      "url": "https://www.microsoft.com/microsoft-teams",
-      "description": "Chat, meetings, and file collaboration in one app."
-    },
-    {
-      "name": "Google Workspace",
-      "url": "https://workspace.google.com/",
-      "description": "Cloud-based email, docs, and team collaboration suite."
-    },
-    {
-      "name": "Discord",
-      "url": "https://discord.com/",
-      "description": "Community chat and voice collaboration platform."
-    }
-  ]
-  
+  { "name": "Slack", "url": "https://slack.com/", "description": "Team messaging and communication platform." },
+  { "name": "Microsoft Teams", "url": "https://www.microsoft.com/microsoft-teams", "description": "Chat, meetings, and file collaboration in one app." },
+  { "name": "Google Workspace", "url": "https://workspace.google.com/", "description": "Cloud-based email, docs, and team collaboration suite." },
+  { "name": "Discord", "url": "https://discord.com/", "description": "Community chat and voice collaboration platform." },
+
+  { "name": "Zoom", "url": "https://zoom.us/", "description": "Video conferencing and online meeting platform." },
+  { "name": "Notion", "url": "https://www.notion.so/", "description": "All-in-one workspace for notes, docs, and team collaboration." },
+  { "name": "ClickUp", "url": "https://clickup.com/", "description": "Project management and team collaboration tool." },
+  { "name": "Trello", "url": "https://trello.com/", "description": "Kanban-style task management for teams." },
+  { "name": "Asana", "url": "https://asana.com/", "description": "Work management platform for teams and projects." },
+  { "name": "Monday.com", "url": "https://monday.com/", "description": "Visual project and team management platform." },
+  { "name": "Basecamp", "url": "https://basecamp.com/", "description": "Simple project management and team communication tool." },
+  { "name": "Confluence", "url": "https://www.atlassian.com/software/confluence", "description": "Team knowledge base and documentation tool." },
+  { "name": "Miro", "url": "https://miro.com/", "description": "Online whiteboard for team brainstorming and planning." },
+  { "name": "Figma", "url": "https://www.figma.com/", "description": "Collaborative design and prototyping platform." },
+  { "name": "Dropbox", "url": "https://www.dropbox.com/", "description": "Cloud file sharing and collaboration." },
+  { "name": "Google Drive", "url": "https://drive.google.com/", "description": "Cloud storage and real-time file collaboration." },
+  { "name": "Airtable", "url": "https://airtable.com/", "description": "Spreadsheet-database hybrid for team collaboration." },
+  { "name": "Zoho Workplace", "url": "https://www.zoho.com/workplace/", "description": "Integrated email, documents, and team tools." },
+  { "name": "Rocket.Chat", "url": "https://www.rocket.chat/", "description": "Open-source team communication platform." },
+  { "name": "Mattermost", "url": "https://mattermost.com/", "description": "Secure, open-source team messaging platform." }
+]

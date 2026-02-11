@@ -16,13 +16,9 @@
   {"name":"iDempiere","url":"https://www.idempiere.org","description":"Open-source ERP and accounting suite for enterprises."},
   {"name":"Tryton","url":"https://www.tryton.org","description":"Modular open-source business and accounting platform."},
   {"name":"Skrooge Accounting","url":"https://skrooge.org","description":"Personal finance and accounting tool for desktop users."},
-  {"name":"Lazy8 Ledger","url":"https://www.lazy8ledger.com","description":"Simple small business accounting software."},
   {"name":"NolaPro","url":"https://www.nolapro.com","description":"Free accounting, payroll, and inventory system."},
-  {"name":"LedgerLite","url":"https://ledgerlite.com","description":"Lightweight accounting tool for tracking business finances."},
-  {"name":"Simple Accounting Ledger","url":"https://www.sourceforge.net/projects/simple-accounting/","description":"Open-source accounting ledger for basic bookkeeping."},
   {"name":"Banana Accounting Free","url":"https://www.banana.ch","description":"Spreadsheet-style accounting for small businesses."},
   {"name":"KMyMoney Business","url":"https://kmymoney.org","description":"Open-source finance manager with accounting features."},
   {"name":"CashManager","url":"https://www.cashmanager.com","description":"Basic online accounting for small enterprises."},
-  {"name":"Pacioli","url":"https://pacioli.sourceforge.net","description":"Free accounting system for small organizations."},
-  {"name":"SlickPie (Legacy)","url":"https://www.slickpie.com","description":"Former free accounting tool with invoicing and expenses."}
+  {"name":"Pacioli","url":"https://pacioli.sourceforge.net","description":"Free accounting system for small organizations."}
 ]

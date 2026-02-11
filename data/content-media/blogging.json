@@ -1,5 +1,57 @@
 [
-    {"name":"WordPress","url":"https://wordpress.org","description":"Open-source CMS."},
-    {"name":"Ghost","url":"https://ghost.org","description":"Modern blogging platform."}
-  ]
-  
+  {
+    "name": "WordPress",
+    "url": "https://wordpress.org",
+    "description": "Open-source content management system for blogs and websites."
+  },
+  {
+    "name": "Ghost",
+    "url": "https://ghost.org",
+    "description": "Modern publishing platform focused on speed and memberships."
+  },
+  {
+    "name": "Medium",
+    "url": "https://medium.com",
+    "description": "Popular blogging platform with built-in audience and distribution."
+  },
+  {
+    "name": "Blogger",
+    "url": "https://www.blogger.com",
+    "description": "Free blogging platform by Google."
+  },
+  {
+    "name": "Substack",
+    "url": "https://substack.com",
+    "description": "Newsletter-first blogging platform with paid subscriptions."
+  },
+  {
+    "name": "Hashnode",
+    "url": "https://hashnode.com",
+    "description": "Developer-focused blogging platform with custom domains."
+  },
+  {
+    "name": "Wix Blog",
+    "url": "https://www.wix.com/blog",
+    "description": "Built-in blogging tool for Wix websites."
+  },
+  {
+    "name": "Squarespace Blog",
+    "url": "https://www.squarespace.com",
+    "description": "Blogging features within Squarespace websites."
+  },
+  {
+    "name": "Webflow CMS",
+    "url": "https://webflow.com/cms",
+    "description": "Visual CMS for building and managing blog content."
+  },
+  {
+    "name": "Jekyll",
+    "url": "https://jekyllrb.com",
+    "description": "Static site generator for fast, secure blogs."
+  },
+  {
+    "name": "Hugo",
+    "url": "https://gohugo.io",
+    "description": "Ultra-fast static site generator for blogs."
+  }
+]

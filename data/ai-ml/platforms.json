@@ -1,18 +1,25 @@
 [
-    {
-      "name": "Hugging Face",
-      "url": "https://huggingface.co",
-      "description": "Open-source hub for machine learning models and datasets."
-    },
-    {
-      "name": "OpenAI API",
-      "url": "https://platform.openai.com",
-      "description": "Developer API for integrating AI into applications."
-    },
-    {
-      "name": "Google Vertex AI",
-      "url": "https://cloud.google.com/vertex-ai",
-      "description": "End-to-end machine learning platform on Google Cloud."
-    }
-  ]
-  
+  {"name":"Hugging Face","url":"https://huggingface.co","description":"Open-source hub for machine learning models and datasets."},
+  {"name":"OpenAI API","url":"https://platform.openai.com","description":"Developer API for integrating AI into applications."},
+  {"name":"Google Vertex AI","url":"https://cloud.google.com/vertex-ai","description":"End-to-end machine learning platform on Google Cloud."},
+
+  {"name":"AWS SageMaker","url":"https://aws.amazon.com/sagemaker/","description":"Fully managed machine learning service by AWS."},
+  {"name":"Azure Machine Learning","url":"https://azure.microsoft.com/en-us/products/machine-learning/","description":"Cloud-based ML model training and deployment platform."},
+  {"name":"IBM Watson Studio","url":"https://www.ibm.com/cloud/watson-studio","description":"AI and data science development environment."},
+  {"name":"DataRobot","url":"https://www.datarobot.com","description":"Automated machine learning platform for enterprises."},
+  {"name":"H2O.ai","url":"https://www.h2o.ai","description":"Open-source and enterprise AI platforms."},
+  {"name":"MLflow","url":"https://mlflow.org","description":"Open-source platform for ML lifecycle management."},
+  {"name":"Weights & Biases","url":"https://wandb.ai","description":"Experiment tracking and ML model monitoring."},
+  {"name":"Kaggle","url":"https://www.kaggle.com","description":"Datasets, notebooks, and ML competitions platform."},
+  {"name":"OpenNN","url":"https://www.opennn.net","description":"Open-source neural network library and platform."},
+  {"name":"RapidMiner","url":"https://rapidminer.com","description":"Data science and machine learning platform."},
+  {"name":"Domino Data Lab","url":"https://www.dominodatalab.com","description":"Enterprise MLOps platform."},
+  {"name":"Paperspace","url":"https://www.paperspace.com","description":"GPU cloud platform for AI workloads."},
+  {"name":"RunPod","url":"https://www.runpod.io","description":"Cloud GPU infrastructure for AI training and inference."},
+  {"name":"Cohere","url":"https://cohere.com","description":"NLP AI platform and API."},
+  {"name":"Replicate","url":"https://replicate.com","description":"Run open-source AI models via API."},
+  {"name":"Modal","url":"https://modal.com","description":"Serverless compute for AI workloads."},
+  {"name":"Baseten","url":"https://www.baseten.co","description":"Deploy and serve ML models at scale."},
+  {"name":"Anyscale","url":"https://www.anyscale.com","description":"Scalable AI compute with Ray."},
+  {"name":"Seldon","url":"https://www.seldon.io","description":"Open-source MLOps platform for model deployment."}
+]

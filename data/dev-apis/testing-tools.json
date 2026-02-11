@@ -1,23 +1,24 @@
 [
-    {
-      "name": "Selenium",
-      "url": "https://www.selenium.dev/",
-      "description": "Automated browser testing framework."
-    },
-    {
-      "name": "Jest",
-      "url": "https://jestjs.io/",
-      "description": "JavaScript testing framework for unit tests."
-    },
-    {
-      "name": "Cypress",
-      "url": "https://www.cypress.io/",
-      "description": "End-to-end testing tool for web applications."
-    },
-    {
-      "name": "Postman Monitor",
-      "url": "https://www.postman.com/monitoring/",
-      "description": "Automated API performance and uptime monitoring."
-    }
-  ]
-  
+  { "name": "Selenium", "url": "https://www.selenium.dev/", "description": "Automated browser testing framework for web apps." },
+  { "name": "Jest", "url": "https://jestjs.io/", "description": "JavaScript testing framework for unit and integration tests." },
+  { "name": "Cypress", "url": "https://www.cypress.io/", "description": "End-to-end testing tool for modern web applications." },
+  { "name": "Postman Monitor", "url": "https://www.postman.com/monitoring/", "description": "Automated API performance, uptime, and health checks." },
+
+  { "name": "Playwright", "url": "https://playwright.dev/", "description": "Fast cross-browser end-to-end testing framework." },
+  { "name": "Mocha", "url": "https://mochajs.org/", "description": "Flexible JavaScript test framework for Node.js and browsers." },
+  { "name": "Chai", "url": "https://www.chaijs.com/", "description": "Assertion library for JavaScript testing." },
+  { "name": "JUnit", "url": "https://junit.org/", "description": "Unit testing framework for Java applications." },
+  { "name": "TestNG", "url": "https://testng.org/", "description": "Testing framework inspired by JUnit and NUnit." },
+  { "name": "PyTest", "url": "https://pytest.org/", "description": "Powerful Python testing framework with simple syntax." },
+  { "name": "Robot Framework", "url": "https://robotframework.org/", "description": "Keyword-driven automation framework for acceptance testing." },
+  { "name": "Katalon", "url": "https://katalon.com/", "description": "All-in-one test automation platform for web, API, and mobile." },
+  { "name": "Appium", "url": "https://appium.io/", "description": "Open-source mobile app automation tool." },
+  { "name": "SoapUI", "url": "https://www.soapui.org/", "description": "API functional, security, and load testing tool." },
+  { "name": "JMeter", "url": "https://jmeter.apache.org/", "description": "Performance and load testing for web applications." },
+  { "name": "Locust", "url": "https://locust.io/", "description": "Python-based load testing tool." },
+  { "name": "Gauge", "url": "https://gauge.org/", "description": "Lightweight test automation framework by ThoughtWorks." },
+  { "name": "BrowserStack", "url": "https://www.browserstack.com/", "description": "Cross-browser and device testing in the cloud." },
+  { "name": "LambdaTest", "url": "https://www.lambdatest.com/", "description": "Cloud-based cross-browser testing platform." },
+  { "name": "Percy", "url": "https://percy.io/", "description": "Visual regression testing for web apps." },
+  { "name": "TestRail", "url": "https://www.gurock.com/testrail/", "description": "Test case management and QA tracking platform." }
+]

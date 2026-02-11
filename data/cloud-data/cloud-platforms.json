@@ -1,18 +1,62 @@
 [
-    {
-      "name": "Amazon Web Services (AWS)",
-      "url": "https://aws.amazon.com",
-      "description": "Comprehensive cloud platform with compute, storage, and AI services."
-    },
-    {
-      "name": "Google Cloud Platform",
-      "url": "https://cloud.google.com",
-      "description": "Cloud services for data, AI, and application hosting."
-    },
-    {
-      "name": "Microsoft Azure",
-      "url": "https://azure.microsoft.com",
-      "description": "Enterprise cloud computing and infrastructure services."
-    }
-  ]
-  
+  {
+    "name": "Amazon Web Services (AWS)",
+    "url": "https://aws.amazon.com",
+    "description": "Comprehensive cloud platform with compute, storage, and AI services."
+  },
+  {
+    "name": "Google Cloud Platform",
+    "url": "https://cloud.google.com",
+    "description": "Cloud services for data, AI, and application hosting."
+  },
+  {
+    "name": "Microsoft Azure",
+    "url": "https://azure.microsoft.com",
+    "description": "Enterprise cloud computing and infrastructure services."
+  },
+  {
+    "name": "IBM Cloud",
+    "url": "https://www.ibm.com/cloud",
+    "description": "Hybrid cloud and AI-powered enterprise platform."
+  },
+  {
+    "name": "Oracle Cloud Infrastructure",
+    "url": "https://www.oracle.com/cloud",
+    "description": "High-performance cloud platform for enterprise workloads."
+  },
+  {
+    "name": "Alibaba Cloud",
+    "url": "https://www.alibabacloud.com",
+    "description": "Global cloud services leader in Asia."
+  },
+  {
+    "name": "DigitalOcean Cloud",
+    "url": "https://www.digitalocean.com",
+    "description": "Developer-friendly cloud for simple deployments."
+  },
+  {
+    "name": "Linode (Akamai Cloud)",
+    "url": "https://www.linode.com",
+    "description": "Affordable cloud compute with global data centers."
+  },
+  {
+    "name": "Vultr Cloud",
+    "url": "https://www.vultr.com",
+    "description": "High-performance cloud compute and storage."
+  },
+  {
+    "name": "OVHcloud",
+    "url": "https://www.ovhcloud.com",
+    "description": "European cloud provider with data sovereignty focus."
+  },
+  {
+    "name": "Hetzner Cloud",
+    "url": "https://www.hetzner.com/cloud",
+    "description": "Low-cost cloud servers and storage."
+  },
+  {
+    "name": "Scaleway",
+    "url": "https://www.scaleway.com",
+    "description": "European cloud platform for compute, storage, and AI."
+  }
+]

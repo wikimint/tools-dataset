@@ -1,13 +1,67 @@
 [
-    {
-      "name": "Google Tag Manager",
-      "url": "https://tagmanager.google.com",
-      "description": "Manage and deploy tracking tags without coding."
-    },
-    {
-      "name": "Segment",
-      "url": "https://segment.com",
-      "description": "Customer data platform and tracking pipeline."
-    }
-  ]
-  
+  {
+    "name": "Google Tag Manager",
+    "url": "https://tagmanager.google.com",
+    "description": "Deploy and manage tracking scripts across your site without touching the codebase."
+  },
+  {
+    "name": "Segment",
+    "url": "https://segment.com",
+    "description": "Collect, standardize, and route customer event data to multiple analytics tools."
+  },
+  {
+    "name": "Matomo Tag Manager",
+    "url": "https://matomo.org/tag-manager/",
+    "description": "Self-hosted open-source tag manager for privacy-focused teams."
+  },
+  {
+    "name": "Commanders Act",
+    "url": "https://www.commandersact.com",
+    "description": "Data activation and tag orchestration platform for marketing teams."
+  },
+  {
+    "name": "Ensighten",
+    "url": "https://www.ensighten.com",
+    "description": "Enterprise tag deployment and data privacy compliance solution."
+  },
+  {
+    "name": "Piwik PRO Tag Manager",
+    "url": "https://piwik.pro/tag-manager/",
+    "description": "Tag control system built for privacy-first analytics environments."
+  },
+  {
+    "name": "RudderStack",
+    "url": "https://www.rudderstack.com",
+    "description": "Open-source customer data pipeline with server-side tracking."
+  },
+  {
+    "name": "Snowplow",
+    "url": "https://snowplow.io",
+    "description": "Event-level data collection and tracking infrastructure."
+  },
+  {
+    "name": "mParticle",
+    "url": "https://www.mparticle.com",
+    "description": "Customer data platform for real-time event collection and routing."
+  },
+  {
+    "name": "Ketch",
+    "url": "https://www.ketch.com",
+    "description": "Consent-based tag governance and data activation."
+  },
+  {
+    "name": "Heap Tag Manager",
+    "url": "https://heap.io",
+    "description": "Auto-capture event tracking with tag-based integrations."
+  },
+  {
+    "name": "Google Analytics Server-Side",
+    "url": "https://developers.google.com/tag-platform/tag-manager/server-side",
+    "description": "Server-side tag execution for improved speed and privacy."
+  },
+  {
+    "name": "Cloudflare Zaraz",
+    "url": "https://www.cloudflare.com/products/zaraz/",
+    "description": "Edge-based tag manager that runs scripts without slowing your site."
+  }
+]

@@ -14,7 +14,6 @@
   {"name":"Zimbra Community","url":"https://www.zimbra.com","description":"Open-source email and collaboration server."},
   {"name":"Roundcube","url":"https://roundcube.net","description":"Open-source webmail client for IMAP servers."},
   {"name":"RainLoop","url":"https://www.rainloop.net","description":"Lightweight open-source webmail client."},
-  {"name":"Horde Webmail","url":"https://www.horde.org","description":"Open-source webmail and collaboration framework."},
   {"name":"Mailcow","url":"https://mailcow.email","description":"Self-hosted email server suite for teams."},
   {"name":"iRedMail","url":"https://www.iredmail.org","description":"Open-source mail server solution for Linux."},
   {"name":"Mail-in-a-Box","url":"https://mailinabox.email","description":"Turn a server into a fully working mail system."},

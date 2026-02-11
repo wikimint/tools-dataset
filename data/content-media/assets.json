@@ -1,5 +1,52 @@
 [
-    {"name":"Unsplash","url":"https://unsplash.com","description":"Free stock images."},
-    {"name":"Freepik","url":"https://www.freepik.com","description":"Free design assets."}
-  ]
-  
+  {
+    "name": "Unsplash",
+    "url": "https://unsplash.com",
+    "description": "Free high-resolution stock images for commercial use."
+  },
+  {
+    "name": "Freepik",
+    "url": "https://www.freepik.com",
+    "description": "Design assets including vectors, icons, and PSDs."
+  },
+  {
+    "name": "Pexels",
+    "url": "https://www.pexels.com",
+    "description": "Free stock photos and videos for creators."
+  },
+  {
+    "name": "Pixabay",
+    "url": "https://pixabay.com",
+    "description": "Free images, videos, and music with no attribution required."
+  },
+  {
+    "name": "Shutterstock",
+    "url": "https://www.shutterstock.com",
+    "description": "Premium stock photos, videos, and music."
+  },
+  {
+    "name": "Adobe Stock",
+    "url": "https://stock.adobe.com",
+    "description": "High-quality stock assets integrated with Adobe tools."
+  },
+  {
+    "name": "Storyblocks",
+    "url": "https://www.storyblocks.com",
+    "description": "Unlimited stock video, audio, and images."
+  },
+  {
+    "name": "Envato Elements",
+    "url": "https://elements.envato.com",
+    "description": "Unlimited creative assets: photos, videos, templates, and fonts."
+  },
+  {
+    "name": "Burst by Shopify",
+    "url": "https://burst.shopify.com",
+    "description": "Free stock photos for business and ecommerce."
+  },
+  {
+    "name": "Reshot",
+    "url": "https://www.reshot.com",
+    "description": "Handpicked free stock photos and icons for startups."
+  }
+]

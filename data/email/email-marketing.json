@@ -21,12 +21,9 @@
   {"name":"GetResponse Free","url":"https://www.getresponse.com","description":"Email campaigns, landing pages, and automation tools."},
   {"name":"Substack","url":"https://substack.com","description":"Newsletter publishing platform with email distribution."},
   {"name":"Buttondown","url":"https://buttondown.email","description":"Minimalist newsletter tool for writers and developers."},
-  {"name":"TinyLetter","url":"https://tinyletter.com","description":"Simple email newsletter service by Mailchimp."},
-  {"name":"Revue","url":"https://www.getrevue.co","description":"Editorial newsletter platform for content creators."},
   {"name":"SendFox","url":"https://sendfox.com","description":"Affordable email marketing platform for content creators."},
   {"name":"Mailmodo","url":"https://www.mailmodo.com","description":"Interactive AMP email campaigns with automation tools."},
   {"name":"Mailbluster","url":"https://mailbluster.com","description":"Bulk email marketing system built on Amazon SES."},
-  {"name":"Mailtrain","url":"https://mailtrain.org","description":"Self-hosted open-source email newsletter platform."},
   {"name":"phpList","url":"https://www.phplist.org","description":"Open-source email campaign manager and list server."},
   {"name":"Cuttlefish","url":"https://cuttlefish.io","description":"Lightweight self-hosted email campaign tool."}
 ]

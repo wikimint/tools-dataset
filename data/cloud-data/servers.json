@@ -1,18 +1,52 @@
 [
-    {
-      "name": "DigitalOcean",
-      "url": "https://www.digitalocean.com",
-      "description": "Simple and scalable cloud virtual servers for developers."
-    },
-    {
-      "name": "Linode",
-      "url": "https://www.linode.com",
-      "description": "High-performance Linux servers with global data centers."
-    },
-    {
-      "name": "Vultr",
-      "url": "https://www.vultr.com",
-      "description": "SSD-based cloud compute with one-click apps."
-    }
-  ]
-  
+  {
+    "name": "DigitalOcean",
+    "url": "https://www.digitalocean.com",
+    "description": "Simple and scalable cloud virtual servers for developers."
+  },
+  {
+    "name": "Linode",
+    "url": "https://www.linode.com",
+    "description": "High-performance Linux servers with global data centers."
+  },
+  {
+    "name": "Vultr",
+    "url": "https://www.vultr.com",
+    "description": "SSD-based cloud compute with one-click apps."
+  },
+  {
+    "name": "AWS EC2",
+    "url": "https://aws.amazon.com/ec2/",
+    "description": "On-demand scalable virtual servers from Amazon Web Services."
+  },
+  {
+    "name": "Google Compute Engine",
+    "url": "https://cloud.google.com/compute",
+    "description": "High-performance virtual machines on Google Cloud Platform."
+  },
+  {
+    "name": "Microsoft Azure Virtual Machines",
+    "url": "https://azure.microsoft.com/en-us/products/virtual-machines/",
+    "description": "Windows and Linux cloud virtual machines on Azure."
+  },
+  {
+    "name": "Hetzner Cloud",
+    "url": "https://www.hetzner.com/cloud",
+    "description": "Low-cost, high-performance cloud servers based in Europe."
+  },
+  {
+    "name": "OVHcloud",
+    "url": "https://www.ovhcloud.com",
+    "description": "Global cloud infrastructure for developers and enterprises."
+  },
+  {
+    "name": "UpCloud",
+    "url": "https://upcloud.com",
+    "description": "High-performance cloud servers with max IOPS storage."
+  },
+  {
+    "name": "Kamatera",
+    "url": "https://www.kamatera.com",
+    "description": "Fully customizable cloud infrastructure with global coverage."
+  }
+]

@@ -1,5 +1,62 @@
 [
-    {"name":"Zapier","url":"https://zapier.com","description":"Connect apps with automation."},
-    {"name":"Make","url":"https://www.make.com","description":"Visual workflow automation."}
-  ]
-  
+  {
+    "name": "Zapier",
+    "url": "https://zapier.com",
+    "description": "No-code automation platform to connect apps and create multi-step workflows."
+  },
+  {
+    "name": "Make",
+    "url": "https://www.make.com",
+    "description": "Visual workflow automation tool with advanced logic and data routing."
+  },
+  {
+    "name": "n8n",
+    "url": "https://n8n.io",
+    "description": "Open-source workflow automation with self-hosting and custom integrations."
+  },
+  {
+    "name": "Pabbly Connect",
+    "url": "https://www.pabbly.com/connect/",
+    "description": "Affordable automation tool to connect apps and automate business processes."
+  },
+  {
+    "name": "IFTTT",
+    "url": "https://ifttt.com",
+    "description": "Simple trigger-based workflows between apps and smart devices."
+  },
+  {
+    "name": "Microsoft Power Automate",
+    "url": "https://powerautomate.microsoft.com",
+    "description": "Workflow automation across Microsoft 365, SaaS apps, and on-prem systems."
+  },
+  {
+    "name": "Zoho Flow",
+    "url": "https://www.zoho.com/flow/",
+    "description": "Business workflow automation and app integration platform from Zoho."
+  },
+  {
+    "name": "Workato",
+    "url": "https://www.workato.com",
+    "description": "Enterprise-grade workflow automation and integration platform."
+  },
+  {
+    "name": "Tray.io",
+    "url": "https://tray.io",
+    "description": "Low-code workflow automation for complex business processes."
+  },
+  {
+    "name": "Integrately",
+    "url": "https://integrately.com",
+    "description": "One-click automation workflows between popular business apps."
+  },
+  {
+    "name": "Automate.io",
+    "url": "https://automate.io",
+    "description": "Cloud-based app integration and workflow automation platform."
+  },
+  {
+    "name": "Parabola",
+    "url": "https://parabola.io",
+    "description": "No-code workflow automation for data operations and business logic."
+  }
+]

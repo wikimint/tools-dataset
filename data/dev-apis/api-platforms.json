@@ -1,23 +1,37 @@
 [
-    {
-      "name": "Postman",
-      "url": "https://www.postman.com/",
-      "description": "API development, testing, and collaboration platform."
-    },
-    {
-      "name": "RapidAPI",
-      "url": "https://rapidapi.com/",
-      "description": "API marketplace and integration platform."
-    },
-    {
-      "name": "Swagger",
-      "url": "https://swagger.io/",
-      "description": "API documentation and testing framework."
-    },
-    {
-      "name": "Apigee",
-      "url": "https://cloud.google.com/apigee",
-      "description": "API management and security platform."
-    }
-  ]
-  
+  { "name": "Postman", "url": "https://www.postman.com/", "description": "End-to-end platform for designing, testing, and collaborating on APIs." },
+  { "name": "RapidAPI", "url": "https://rapidapi.com/", "description": "Global API marketplace to discover, test, and connect APIs quickly." },
+  { "name": "Swagger", "url": "https://swagger.io/", "description": "Open-source toolkit for API design, documentation, and testing." },
+  { "name": "Apigee", "url": "https://cloud.google.com/apigee", "description": "Enterprise API management platform with analytics and security controls." },
+
+  { "name": "Insomnia", "url": "https://insomnia.rest/", "description": "Open-source REST and GraphQL API testing client." },
+  { "name": "Hoppscotch", "url": "https://hoppscotch.io/", "description": "Lightweight open-source API testing tool for web and desktop." },
+  { "name": "HTTPie", "url": "https://httpie.io/", "description": "Command-line and web-based API client for testing and debugging." },
+  { "name": "Stoplight", "url": "https://stoplight.io/", "description": "API design, documentation, and governance platform." },
+  { "name": "Kong", "url": "https://konghq.com/", "description": "Open-source API gateway and service connectivity platform." },
+  { "name": "Tyk", "url": "https://tyk.io/", "description": "Open-source API gateway and management system." },
+  { "name": "WSO2 API Manager", "url": "https://wso2.com/api-manager/", "description": "Open-source API management and integration platform." },
+  { "name": "Gravitee", "url": "https://www.gravitee.io/", "description": "Open-source API management and gateway solution." },
+  { "name": "API Umbrella", "url": "https://apiumbrella.io/", "description": "Open-source API management for rate limiting and analytics." },
+  { "name": "DreamFactory", "url": "https://www.dreamfactory.com/", "description": "Instant REST API generation platform for databases." },
+  { "name": "Hasura", "url": "https://hasura.io/", "description": "Instant GraphQL APIs over databases with real-time subscriptions." },
+  { "name": "Supabase", "url": "https://supabase.com/", "description": "Open-source Firebase alternative with auto-generated APIs." },
+  { "name": "Firebase Functions", "url": "https://firebase.google.com/products/functions", "description": "Serverless backend APIs for mobile and web apps." },
+  { "name": "Mockoon", "url": "https://mockoon.com/", "description": "Open-source API mocking and testing platform." },
+  { "name": "Beeceptor", "url": "https://beeceptor.com/", "description": "Mock API and request inspection service for developers." },
+  { "name": "RequestBin", "url": "https://requestbin.com/", "description": "HTTP request testing and webhook inspection tool." },
+  { "name": "Apiary", "url": "https://apiary.io/", "description": "API design, documentation, and mock server platform." },
+  { "name": "Redocly", "url": "https://redocly.com/", "description": "OpenAPI documentation generator and API governance tool." },
+  { "name": "Back4App", "url": "https://www.back4app.com/", "description": "Backend-as-a-service with REST and GraphQL APIs." },
+  { "name": "Nhost", "url": "https://nhost.io/", "description": "Open-source backend platform with GraphQL APIs." },
+  { "name": "PostgREST", "url": "https://postgrest.org/", "description": "Turns PostgreSQL into a RESTful API automatically." },
+  { "name": "FastAPI", "url": "https://fastapi.tiangolo.com/", "description": "High-performance Python framework for building APIs." },
+  { "name": "LoopBack", "url": "https://loopback.io/", "description": "Node.js framework for building REST APIs quickly." },
+  { "name": "Strapi", "url": "https://strapi.io/", "description": "Open-source headless CMS with REST and GraphQL APIs." },
+  { "name": "Directus", "url": "https://directus.io/", "description": "Instant APIs for SQL databases with admin UI." },
+  { "name": "PocketBase", "url": "https://pocketbase.io/", "description": "Lightweight backend with real-time REST APIs." },
+  { "name": "OpenAPI Generator", "url": "https://openapi-generator.tech/", "description": "Generates client SDKs and server stubs from OpenAPI specs." },
+  { "name": "Azure API Management", "url": "https://azure.microsoft.com/en-us/products/api-management/", "description": "API gateway and lifecycle management service from Microsoft." },
+  { "name": "AWS API Gateway", "url": "https://aws.amazon.com/api-gateway/", "description": "Fully managed service for creating and securing APIs." },
+  { "name": "Mashape", "url": "https://mashape.com/", "description": "Legacy API marketplace that evolved into RapidAPI." }
+]

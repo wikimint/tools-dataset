@@ -10,7 +10,6 @@
   {"name":"7-Zip","url":"https://www.7-zip.org","description":"File archiver with AES-256 encryption for compressed data."},
   {"name":"PeaZip","url":"https://peazip.github.io","description":"Open-source file archiver with strong encryption support."},
   {"name":"AES Crypt","url":"https://www.aescrypt.com","description":"Simple file encryption tool using AES standards."},
-  {"name":"Boxcryptor","url":"https://www.boxcryptor.com","description":"Encrypts cloud files before syncing to storage providers."},
   {"name":"EncFS","url":"https://vgough.github.io/encfs/","description":"Filesystem-based encryption for protecting directories."},
   {"name":"eCryptfs","url":"https://www.ecryptfs.org","description":"Linux kernel-based file system encryption layer."},
   {"name":"Tomb","url":"https://www.dyne.org/software/tomb/","description":"Linux file encryption system for secure data storage."},

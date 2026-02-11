@@ -1,18 +1,82 @@
 [
-    {
-      "name": "PageSpeed Insights",
-      "url": "https://pagespeed.web.dev",
-      "description": "Analyze website performance and Core Web Vitals."
-    },
-    {
-      "name": "GTmetrix",
-      "url": "https://gtmetrix.com",
-      "description": "Website speed and performance testing tool."
-    },
-    {
-      "name": "Fabric",
-      "url": "https://get.fabric.io/",
-      "description": "A mobile-focused platform that helps teams improve app performance, track user behavior, and grow faster."
-    }
-  ]
-  
+  {
+    "name": "PageSpeed Insights",
+    "url": "https://pagespeed.web.dev",
+    "description": "Evaluates website performance and Core Web Vitals using real-world and lab data."
+  },
+  {
+    "name": "GTmetrix",
+    "url": "https://gtmetrix.com",
+    "description": "Website speed testing with waterfall charts and performance reports."
+  },
+  {
+    "name": "Firebase Performance",
+    "url": "https://firebase.google.com/products/performance",
+    "description": "Mobile and web app performance monitoring from Google."
+  },
+  {
+    "name": "WebPageTest",
+    "url": "https://www.webpagetest.org",
+    "description": "Advanced performance testing from multiple locations and devices."
+  },
+  {
+    "name": "Pingdom",
+    "url": "https://www.pingdom.com",
+    "description": "Website speed monitoring and uptime performance analysis."
+  },
+  {
+    "name": "Lighthouse",
+    "url": "https://developer.chrome.com/docs/lighthouse/",
+    "description": "Open-source auditing tool for performance, accessibility, and SEO."
+  },
+  {
+    "name": "SpeedCurve",
+    "url": "https://speedcurve.com",
+    "description": "Performance monitoring based on real user metrics."
+  },
+  {
+    "name": "Calibre",
+    "url": "https://calibreapp.com",
+    "description": "Track site performance and prevent speed regressions."
+  },
+  {
+    "name": "Uptrends",
+    "url": "https://www.uptrends.com",
+    "description": "Website performance and uptime monitoring from global locations."
+  },
+  {
+    "name": "Dareboost",
+    "url": "https://www.dareboost.com",
+    "description": "Website speed testing with quality and SEO checks."
+  },
+  {
+    "name": "Sitespeed.io",
+    "url": "https://www.sitespeed.io",
+    "description": "Open-source web performance monitoring framework."
+  },
+  {
+    "name": "AppDynamics",
+    "url": "https://www.appdynamics.com",
+    "description": "Application performance monitoring for enterprise systems."
+  },
+  {
+    "name": "Dynatrace",
+    "url": "https://www.dynatrace.com",
+    "description": "AI-powered application performance monitoring."
+  },
+  {
+    "name": "Catchpoint",
+    "url": "https://www.catchpoint.com",
+    "description": "Internet performance monitoring for web and apps."
+  },
+  {
+    "name": "SolarWinds Pingdom",
+    "url": "https://www.pingdom.com",
+    "description": "Track page speed, uptime, and real user experience."
+  },
+  {
+    "name": "Cloudflare Speed Test",
+    "url": "https://speed.cloudflare.com",
+    "description": "Test internet and website speed using Cloudflare’s global network."
+  }
+]

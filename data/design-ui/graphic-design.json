@@ -1,23 +1,97 @@
 [
+  {
+    "name": "Canva",
+    "url": "https://www.canva.com/",
+    "description": "Online graphic design tool for social media, posters, and branding."
+  },
+  {
+    "name": "GIMP",
+    "url": "https://www.gimp.org/",
+    "description": "Open-source image editor similar to Photoshop."
+  },
+  {
+    "name": "Photopea",
+    "url": "https://www.photopea.com/",
+    "description": "Browser-based image editor supporting PSD and design formats."
+  },
+  {
+    "name": "Pixlr",
+    "url": "https://pixlr.com/",
+    "description": "AI-powered photo editing and design platform."
+  },
     {
-      "name": "Canva",
-      "url": "https://www.canva.com/",
-      "description": "Online graphic design tool for social media, posters, and branding."
+      "name": "Adobe Photoshop",
+      "url": "https://www.adobe.com/products/photoshop.html",
+      "description": "Professional photo editing and digital art software."
     },
     {
-      "name": "GIMP",
-      "url": "https://www.gimp.org/",
-      "description": "Open-source image editor similar to Photoshop."
+      "name": "Adobe Illustrator",
+      "url": "https://www.adobe.com/products/illustrator.html",
+      "description": "Vector graphic design tool for logos, icons, and illustrations."
     },
     {
-      "name": "Photopea",
-      "url": "https://www.photopea.com/",
-      "description": "Browser-based image editor supporting PSD and design formats."
+      "name": "CorelDRAW",
+      "url": "https://www.coreldraw.com/",
+      "description": "Vector illustration and page layout design software."
     },
     {
-      "name": "Pixlr",
-      "url": "https://pixlr.com/",
-      "description": "AI-powered photo editing and design platform."
+      "name": "Affinity Designer",
+      "url": "https://affinity.serif.com/en-us/designer/",
+      "description": "Professional vector and raster graphic design app."
+    },
+    {
+      "name": "Figma",
+      "url": "https://www.figma.com/",
+      "description": "Collaborative interface and UI design tool."
+    },
+    {
+      "name": "Sketch",
+      "url": "https://www.sketch.com/",
+      "description": "UI and digital design toolkit for macOS."
+    },
+    {
+      "name": "Gravit Designer",
+      "url": "https://www.designer.io/",
+      "description": "Vector design app for web and branding."
+    },
+    {
+      "name": "Inkscape",
+      "url": "https://inkscape.org/",
+      "description": "Free and open-source vector graphics editor."
+    },
+    {
+      "name": "VistaCreate",
+      "url": "https://create.vista.com/",
+      "description": "Graphic design tool for social media and marketing."
+    },
+    {
+      "name": "Snappa",
+      "url": "https://snappa.com/",
+      "description": "Fast graphic design tool for marketers."
+    },
+    {
+      "name": "Stencil",
+      "url": "https://getstencil.com/",
+      "description": "Simple graphic design for bloggers and marketers."
+    },
+    {
+      "name": "Krita",
+      "url": "https://krita.org/",
+      "description": "Digital painting and illustration software."
+    },
+    {
+      "name": "Lunacy",
+      "url": "https://icons8.com/lunacy",
+      "description": "Free design tool with built-in UI kits and icons."
+    },
+    {
+      "name": "Vectr",
+      "url": "https://vectr.com/",
+      "description": "Free vector graphics editor for web and desktop."
+    },
+    {
+      "name": "DesignBold",
+      "url": "https://www.designbold.com/",
+      "description": "Online graphic design tool for marketers."
     }
   ]
-  

@@ -1,4 +1,92 @@
 [
-    {"name":"Pexels Video","url":"https://www.pexels.com/videos/","description":"Free stock videos."}
-  ]
-  
+  {
+    "name": "Pexels Video",
+    "url": "https://www.pexels.com/videos/",
+    "description": "Free stock videos and clips for commercial use."
+  },
+  {
+    "name": "Pixabay Video",
+    "url": "https://pixabay.com/videos/",
+    "description": "Royalty-free stock videos, motion graphics, and clips."
+  },
+  {
+    "name": "Mixkit",
+    "url": "https://mixkit.co/free-stock-video/",
+    "description": "Free high-quality stock video clips for creators."
+  },
+  {
+    "name": "Videvo",
+    "url": "https://www.videvo.net",
+    "description": "Stock videos, motion graphics, and sound effects."
+  },
+  {
+    "name": "Coverr",
+    "url": "https://coverr.co",
+    "description": "Free stock video footage for websites and marketing."
+  },
+  {
+    "name": "Vimeo Stock",
+    "url": "https://vimeo.com/stock",
+    "description": "Premium stock footage marketplace by Vimeo."
+  },
+  {
+    "name": "Adobe Stock Video",
+    "url": "https://stock.adobe.com/video",
+    "description": "Professional stock videos integrated with Adobe tools."
+  },
+  {
+    "name": "iStock",
+    "url": "https://www.istockphoto.com/footage",
+    "description": "Royalty-free stock videos and footage."
+  },
+  {
+    "name": "Motion Array",
+    "url": "https://motionarray.com",
+    "description": "Video templates, stock footage, and effects."
+  },
+  {
+    "name": "Envato Elements",
+    "url": "https://elements.envato.com",
+    "description": "Unlimited stock videos, templates, and creative assets."
+  },
+  {
+    "name": "Storyblocks",
+    "url": "https://www.storyblocks.com/video",
+    "description": "Unlimited royalty-free stock video downloads."
+  },
+  {
+    "name": "Veed.io",
+    "url": "https://www.veed.io",
+    "description": "Online video editor with AI tools and stock media."
+  },
+  {
+    "name": "Kapwing",
+    "url": "https://www.kapwing.com",
+    "description": "Online video creation and editing platform."
+  },
+  {
+    "name": "Descript",
+    "url": "https://www.descript.com",
+    "description": "Text-based video and podcast editor."
+  },
+  {
+    "name": "InVideo",
+    "url": "https://invideo.io",
+    "description": "Online video maker with templates and stock assets."
+  },
+  {
+    "name": "Canva Video",
+    "url": "https://www.canva.com/video-editor/",
+    "description": "Drag-and-drop video creation tool."
+  },
+  {
+    "name": "Clipchamp",
+    "url": "https://clipchamp.com",
+    "description": "Online video editor by Microsoft."
+  },
+  {
+    "name": "Animoto",
+    "url": "https://animoto.com",
+    "description": "Video slideshow and marketing video creator."
+  }
+]

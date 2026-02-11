@@ -1,23 +1,82 @@
 [
-    {
-      "name": "Hotjar",
-      "url": "https://www.hotjar.com",
-      "description": "Heatmaps, session recordings, and user feedback tools."
-    },
-    {
-      "name": "Microsoft Clarity",
-      "url": "https://clarity.microsoft.com",
-      "description": "Free session recordings and heatmap analytics."
-    },
-    {
-      "name": "Inspectlet",
-      "url": "https://www.inspectlet.com/",
-      "description": "A session recording and heatmap platform that helps you understand why users behave the way they do on your site."
-    },
-    {
-      "name": "Hotjar",
-      "url": "https://www.hotjar.com/",
-      "description": "A behavior analytics solution that shows how visitors use your site through heatmaps, recordings, and feedback tools."
-    }
-  ]
-  
+  {
+    "name": "Hotjar",
+    "url": "https://www.hotjar.com",
+    "description": "Visual heatmaps and session recordings to understand visitor behavior."
+  },
+  {
+    "name": "Microsoft Clarity",
+    "url": "https://clarity.microsoft.com",
+    "description": "Free heatmaps and user session replays with performance insights."
+  },
+  {
+    "name": "Inspectlet",
+    "url": "https://www.inspectlet.com/",
+    "description": "Tracks clicks, scrolls, and sessions to reveal user behavior patterns."
+  },
+  {
+    "name": "Crazy Egg",
+    "url": "https://www.crazyegg.com",
+    "description": "Click maps and scroll heatmaps to optimize landing pages."
+  },
+  {
+    "name": "Lucky Orange",
+    "url": "https://www.luckyorange.com",
+    "description": "Real-time heatmaps with live visitor session tracking."
+  },
+  {
+    "name": "Mouseflow",
+    "url": "https://mouseflow.com",
+    "description": "Heatmaps, funnels, and session replay for UX insights."
+  },
+  {
+    "name": "Smartlook",
+    "url": "https://www.smartlook.com",
+    "description": "Behavior analytics with heatmaps and user journey replays."
+  },
+  {
+    "name": "FullStory",
+    "url": "https://www.fullstory.com",
+    "description": "Experience analytics with event tracking and heat visualization."
+  },
+  {
+    "name": "UXtweak",
+    "url": "https://www.uxtweak.com",
+    "description": "Heatmaps and usability testing for UX research."
+  },
+  {
+    "name": "Plerdy",
+    "url": "https://www.plerdy.com",
+    "description": "Conversion heatmaps and user behavior tracking tools."
+  },
+  {
+    "name": "Contentsquare",
+    "url": "https://contentsquare.com",
+    "description": "Digital experience analytics with interaction heatmaps."
+  },
+  {
+    "name": "Glassbox",
+    "url": "https://www.glassbox.com",
+    "description": "Customer journey analytics with behavioral heatmaps."
+  },
+  {
+    "name": "Zoho PageSense",
+    "url": "https://www.zoho.com/pagesense/",
+    "description": "Heatmaps, session replays, and conversion tracking."
+  },
+  {
+    "name": "Ptengine",
+    "url": "https://www.ptengine.com",
+    "description": "Web analytics with heatmaps and user segmentation."
+  },
+  {
+    "name": "VWO Insights",
+    "url": "https://vwo.com/insights/",
+    "description": "Behavior analytics with heatmaps and visitor recordings."
+  },
+  {
+    "name": "Clicktale",
+    "url": "https://www.clicktale.com",
+    "description": "User experience analytics with heatmaps and behavior replay."
+  }
+]

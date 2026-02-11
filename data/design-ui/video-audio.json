@@ -1,23 +1,35 @@
 [
-    {
-      "name": "DaVinci Resolve",
-      "url": "https://www.blackmagicdesign.com/products/davinciresolve/",
-      "description": "Professional video editing software with free version."
-    },
-    {
-      "name": "Audacity",
-      "url": "https://www.audacityteam.org/",
-      "description": "Open-source audio editing software."
-    },
-    {
-      "name": "CapCut",
-      "url": "https://www.capcut.com/",
-      "description": "Easy video editor for creators and social media."
-    },
-    {
-      "name": "OBS Studio",
-      "url": "https://obsproject.com/",
-      "description": "Open-source video recording and live streaming software."
-    }
-  ]
-  
+  { "name": "DaVinci Resolve", "url": "https://www.blackmagicdesign.com/products/davinciresolve/", "description": "Professional video editing software with a powerful free version." },
+  { "name": "Audacity", "url": "https://www.audacityteam.org/", "description": "Open-source audio editing and recording software." },
+  { "name": "OBS Studio", "url": "https://obsproject.com/", "description": "Open-source video recording and live streaming software." },
+
+  { "name": "Shotcut", "url": "https://shotcut.org/", "description": "Free, open-source cross-platform video editor." },
+  { "name": "OpenShot", "url": "https://www.openshot.org/", "description": "Simple open-source video editor for beginners." },
+  { "name": "Kdenlive", "url": "https://kdenlive.org/", "description": "Professional open-source video editing suite." },
+  { "name": "Blender", "url": "https://www.blender.org/", "description": "3D creation suite with advanced video editor." },
+  { "name": "VLC Media Player", "url": "https://www.videolan.org/vlc/", "description": "Media player with recording and streaming features." },
+  { "name": "HandBrake", "url": "https://handbrake.fr/", "description": "Open-source video transcoder and compressor." },
+  { "name": "FFmpeg", "url": "https://ffmpeg.org/", "description": "Command-line multimedia framework for audio/video processing." },
+  { "name": "Lightworks", "url": "https://lwks.com/", "description": "Professional video editor with free version." },
+  { "name": "VSDC Free Video Editor", "url": "https://www.videosoftdev.com/", "description": "Non-linear video editor for Windows." },
+  { "name": "Filmora", "url": "https://filmora.wondershare.com/", "description": "Easy-to-use video editing software with free plan." },
+  { "name": "Ardour", "url": "https://ardour.org/", "description": "Open-source digital audio workstation." },
+  { "name": "LMMS", "url": "https://lmms.io/", "description": "Free music production and audio editing software." },
+  { "name": "Ocenaudio", "url": "https://www.ocenaudio.com/", "description": "Cross-platform audio editor with real-time preview." },
+  { "name": "Reaper", "url": "https://www.reaper.fm/", "description": "Powerful digital audio workstation with free evaluation." },
+  { "name": "GarageBand", "url": "https://www.apple.com/garageband/", "description": "Music creation studio for macOS and iOS." },
+  { "name": "Avidemux", "url": "https://avidemux.sourceforge.net/", "description": "Simple video editing and encoding tool." },
+  { "name": "ScreenToGif", "url": "https://www.screentogif.com/", "description": "Record screen, webcam, and GIF animations." },
+  { "name": "ShareX", "url": "https://getsharex.com/", "description": "Open-source screen capture and recording tool." },
+  { "name": "Descript", "url": "https://www.descript.com/", "description": "AI-powered audio and video editing by text." },
+  { "name": "BandLab", "url": "https://www.bandlab.com/", "description": "Online music creation and collaboration platform." },
+  { "name": "Soundtrap", "url": "https://www.soundtrap.com/", "description": "Online DAW for music and podcast creation." },
+  { "name": "Podcastle", "url": "https://podcastle.ai/", "description": "AI audio recording and podcast editing platform." },
+  { "name": "Loom", "url": "https://www.loom.com/", "description": "Screen recording and video messaging tool." },
+  { "name": "Streamlabs", "url": "https://streamlabs.com/", "description": "Live streaming and recording software for creators." },
+  { "name": "Wave.video", "url": "https://wave.video/", "description": "Online video editor and streaming studio." },
+  { "name": "VEED", "url": "https://www.veed.io/", "description": "Online video editor with subtitles and effects." },
+  { "name": "Kapwing", "url": "https://www.kapwing.com/", "description": "Collaborative online video editor." },
+  { "name": "Clideo", "url": "https://clideo.com/", "description": "Online video editing and compression tools." },
+  { "name": "Flixier", "url": "https://flixier.com/", "description": "Cloud-based video editor for fast rendering." }
+]

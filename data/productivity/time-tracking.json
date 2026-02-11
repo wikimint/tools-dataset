@@ -19,10 +19,8 @@
   {"name":"Kimai","url":"https://www.kimai.org","description":"Open-source time tracking system for teams and agencies."},
   {"name":"Clockodo","url":"https://www.clockodo.com","description":"Employee time tracking with project reporting."},
   {"name":"My Hours","url":"https://myhours.com","description":"Simple time tracking for freelancers and small teams."},
-  {"name":"Project Hamster","url":"https://projecthamster.org","description":"Open-source time tracking app for personal productivity."},
   {"name":"Timeneye","url":"https://www.timeneye.com","description":"Time tracking with project and team insights."},
   {"name":"Time Doctor","url":"https://www.timedoctor.com","description":"Employee time tracking with productivity monitoring."},
   {"name":"Toggl Plan","url":"https://toggl.com/plan/","description":"Work planning and timeline scheduling tool."},
-  {"name":"ActivityWatch","url":"https://activitywatch.net","description":"Open-source automatic time tracking and activity logging."},
-  {"name":"Chronos","url":"https://chronosweb.com","description":"Time tracking and billing software for professionals."}
+  {"name":"ActivityWatch","url":"https://activitywatch.net","description":"Open-source automatic time tracking and activity logging."}
 ]
